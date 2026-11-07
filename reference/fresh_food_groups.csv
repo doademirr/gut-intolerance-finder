@@ -1,0 +1,45 @@
+tbl,group_prefix,description
+usda,Fruits and Fruit Juices,Fruit and fruit juices
+usda,Vegetables and Vegetable Products,Vegetables
+usda,Nut and Seed Products,Nuts and seeds
+usda,Spices and Herbs,Spices and herbs
+usda,Beef Products,Beef
+usda,Pork Products,Pork
+usda,"Lamb, Veal, and Game Products","Lamb, veal and game"
+usda,Poultry Products,Poultry
+usda,Finfish and Shellfish Products,Fish and shellfish
+uk,F,"Fruit, dried fruit and fruit juices"
+uk,DAE,"Potatoes, new and salad"
+uk,DAM,"Potatoes, main crop"
+uk,DB,Beans and lentils
+uk,DF,Peas
+uk,DG,Vegetables
+uk,G,Nuts and seeds
+uk,H,Herbs and spices
+uk,JA,White fish
+uk,JC,Fatty fish
+uk,JK,Crustacea
+uk,JM,Molluscs
+uk,CA,Eggs
+uk,MAA,Bacon
+uk,MAC,Beef
+uk,MAE,Lamb
+uk,MAG,Pork
+uk,MAI,Veal
+uk,MC,Poultry and game birds
+uk,ME,"Rabbit, hare and venison"
+uk,MG,Offal
+au,113,Fruit juices
+au,16,Fruit
+au,151,Fin fish
+au,152,Crustacea and molluscs
+au,153,Other fish
+au,154,Canned fish
+au,171,Eggs
+au,181,"Beef, lamb, mutton, pork and veal"
+au,182,"Game and other meats (buffalo, goat, kangaroo, rabbit, venison)"
+au,183,Poultry
+au,184,Offal
+au,22,Nuts and seeds
+au,24,Vegetables
+au,25,"Legumes (beans, chickpeas, lentils, peas)"

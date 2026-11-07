@@ -1,0 +1,34 @@
+tag,kind,source
+wheat,allergen,"R28, R29, R30"
+rye,allergen,"R28, R29"
+barley,allergen,"R28, R29"
+oats,allergen,"R28, R29"
+egg,allergen,"R28, R29, R30"
+milk,allergen,"R28, R29, R30"
+fish,allergen,"R28, R29, R30"
+crustacean,allergen,"R28, R29, R30"
+mollusc,allergen,"R28, R29"
+peanut,allergen,"R28, R29, R30"
+almond,allergen,"R28, R29, R30"
+brazil_nut,allergen,"R28, R29"
+cashew,allergen,"R28, R29"
+hazelnut,allergen,"R28, R29"
+macadamia,allergen,"R28, R29"
+pecan,allergen,"R28, R29, R30"
+pistachio,allergen,"R28, R29"
+pine_nut,allergen,R29
+walnut,allergen,"R28, R29, R30"
+sesame,allergen,"R28, R29, R30"
+soy,allergen,"R28, R29, R30"
+lupin,allergen,"R28, R29"
+celery,allergen,R28
+mustard,allergen,R28
+sulphites,allergen,"R28, R29, R30"
+fructans,trigger,SCIENCE 3.10
+gos,trigger,SCIENCE 3.11
+excess_fructose,trigger,SCIENCE 3.9
+coffee,trigger,SCIENCE 3.12
+alcohol,trigger,SCIENCE 3.13
+high_histamine,trigger,SCIENCE 3.14
+chilli,lead,SCIENCE 4
+coconut,lead,"Added 7 Nov 2026. Not on the UK, Australian or US lists"

@@ -1,0 +1,13 @@
+rule_id,name,value,unit,basis,status
+G1,max_lookback,24,hours,Measured,Agreed
+G15,held_back_split,,,,Open
+G13,trigger_rate,0.70,share,Estimated,Agreed
+G13,confidence_cap,0.95,share,Estimated,Agreed
+G13,testing_point,0.50,share,Estimated,Proposed
+G17,episode_merge,3,hours,Estimated,Proposed
+D15,min_clear_hours,150,hours,Estimated,Agreed
+D15,tick,15,minutes,Estimated,Proposed
+G18,cap_weak,0.60,share,Estimated,Proposed
+G21,frequent_per_week,3,episodes,Estimated,Agreed
+G21,frequent_min_days,14,days,Estimated,Agreed
+G21,staple_share,0.5,share,Estimated,Proposed

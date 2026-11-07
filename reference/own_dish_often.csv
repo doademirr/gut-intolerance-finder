@@ -1,0 +1,84 @@
+dish_id,tags,why
+D028,soy;wheat;high_histamine;sesame,"Eaten with soy sauce, which also holds wheat; often has sesame seeds"
+D081,peanut;cashew;hazelnut;pecan;walnut;sesame,Nuts and seeds vary by brand and recipe
+D050,sesame,Buns are often seeded
+D051,sesame,Buns are often seeded
+D031,soy;wheat;high_histamine;egg,Usually topped with a fried egg and served with a soy-based sauce
+D082,soy;wheat;high_histamine;sesame,Usually cooked with soy sauce and often sesame oil
+D006,soy;wheat;chilli,Served with hoisin sauce and chilli
+D032,chilli,Most curries hold chilli
+D003,cashew,Restaurant versions often use cashews
+D037,cashew,Often topped with cashews
+D013,cashew,Many shop-bought pestos use cashews
+D004,soy;wheat;crustacean,Often has soy sauce and prawns
+D084,egg;sesame,Usually egg noodles and sesame oil
+D085,egg;sesame,Usually egg noodles and sesame oil
+D024,soy,Sauce often has soy sauce
+D026,sesame,Often has sesame oil or seeds
+D038,milk;wheat,"Often has cheese or sour cream, or a flour tortilla"
+D045,milk,Often served with cheese or sour cream
+D046,sesame,Usually served with tahini
+D020,egg,Many recipes use egg
+D066,milk;egg,Pastry often has butter and an egg wash
+D016,alcohol,Often has marsala or another spirit
+D019,alcohol,Often has sherry
+D075,mustard;egg,"Beef is often brushed with mustard, pastry with egg"
+D018,fish,"Often has Worcestershire sauce, which holds anchovy"
+D023,mustard,Dressing often has mustard
+D069,walnut;soy,Often has walnuts; chocolate often has soy lecithin
+D073,wheat;fructans,Spanish versions often have bread
+D029,soy;wheat,Served with a soy-based dipping sauce
+D105,soy;wheat;high_histamine;sesame,Usually served with soy sauce; often sesame oil
+D106,soy;wheat;high_histamine;sesame,Usually served with soy sauce; often sesame oil
+D107,soy;wheat;high_histamine;sesame,Usually served with soy sauce; often sesame oil
+D108,soy;wheat;high_histamine;sesame,Usually served with soy sauce; often sesame oil
+D104,soy;egg,Often has soy sauce; wrappers can hold egg
+D164,soy;wheat;high_histamine;sesame,Eaten with soy sauce; often has sesame seeds
+D165,soy;wheat;high_histamine;sesame,Eaten with soy sauce; often has sesame seeds
+D166,soy;wheat;high_histamine;sesame,Eaten with soy sauce; often has sesame seeds
+D167,peanut;fish;soy;wheat,"Dipping sauces often hold peanut, fish sauce or soy sauce"
+D168,peanut;fish;soy;wheat,"Dipping sauces often hold peanut, fish sauce or soy sauce"
+D157,soy;wheat;egg;crustacean,Usually has soy sauce and egg; nasi goreng often has shrimp paste
+D158,soy;wheat;egg,Usually has soy sauce and egg
+D159,soy;wheat;sesame,Usually has soy sauce and often sesame oil
+D160,soy;wheat;sesame,Usually has soy sauce and often sesame oil
+D161,wheat;sesame,Usually has soy sauce and often sesame oil
+D162,soy;wheat;sesame,Usually has soy sauce and often sesame oil
+D163,soy;wheat,Satay sauces often have soy sauce
+D142,fish;crustacean;chilli;cashew;peanut;wheat;soy,"Thai curry pastes and sauces often have fish sauce and shrimp paste; takeaway versions often have small amounts of cashew, peanut, wheat or soy"
+D143,fish;crustacean;peanut;chilli;cashew;wheat;soy,"Often has fish sauce and shrimp paste; massaman often has peanuts; takeaway versions often have small amounts of cashew, peanut, wheat or soy"
+D144,fish;crustacean;chilli;cashew;peanut;wheat;soy,"Thai pastes often have fish sauce and shrimp paste; takeaway versions often have small amounts of cashew, peanut, wheat or soy"
+D145,fish;chilli;cashew;peanut;wheat;soy,"Thai pastes often have fish sauce; takeaway versions often have small amounts of cashew, peanut, wheat or soy"
+D153,crustacean;chilli;cashew;peanut;wheat;soy,"Thai pastes often have shrimp paste; takeaway versions often have small amounts of cashew, peanut, wheat or soy"
+D146,cashew;almond,Korma often has cashews or almonds
+D149,cashew;almond,Korma often has cashews or almonds
+D111,crustacean;fish;peanut;soy,Laksa paste often has shrimp paste and peanuts
+D112,fish;peanut;soy,Laksa paste often has peanuts and fish sauce
+D110,crustacean;fish,Often has shrimp paste and fish sauce
+D109,soy;wheat;high_histamine;sesame,Broth often has soy sauce and sesame oil
+D114,milk;sesame,Often has yoghurt or garlic sauce; bread can have sesame
+D115,milk;sesame,Often has yoghurt or garlic sauce; bread can have sesame
+D116,sesame;milk,Usually has tahini; often has yoghurt sauce
+D201,soy;wheat;sesame,Usually served with hoisin sauce
+D194,mustard,Often served with mustard
+D169,sesame;mustard,Buns are often seeded; sauces often have mustard
+D132,oats;almond,Toppings often have oats or almonds
+D179,walnut;milk,Often has walnuts and cream cheese icing
+D124,walnut,Often has walnuts
+D183,walnut,Often has walnuts
+D134,alcohol;almond;sulphites,"Fruit mince often has brandy, almonds and treated dried fruit"
+D182,alcohol,Often has kirsch
+D101,egg;sulphites,Pastry is often brushed with egg; sausage meat often has sulphites
+D137,soy;egg,Fillings often have soy sauce; pastry is often brushed with egg
+D086,milk;celery,Often served with parmesan; sauces often have celery
+D089,milk,Often served with parmesan
+D175,sulphites,Often dressed with balsamic vinegar
+D211,milk,Often served with a yoghurt sauce
+D216,sesame,Most versions use tahini
+D217,sesame,Served with soy sauce; often has sesame oil
+D214,sesame,Often has sesame oil
+D224,sesame,Often topped with sesame seeds
+D234,milk;fish;sesame,Often eaten with cream cheese and smoked salmon; often seeded
+D215,wheat;fructans;milk,Served with bread; often topped with feta
+D207,egg;soy;sesame,"Ramen often has a boiled egg, soy-based broth and sesame oil"
+D213,soy;fish,Often has soy-based seasoning and fish sauce

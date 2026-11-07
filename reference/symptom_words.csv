@@ -1,0 +1,77 @@
+phrase,code,red_flag,source
+bloating,bloating,no,
+bloated,bloating,no,
+bloat,bloating,no,
+gas,gas,no,
+wind,gas,no,
+trapped wind,gas,no,
+flatulence,gas,no,
+farting,gas,no,
+pain,pain,no,
+stomach pain,pain,no,
+tummy pain,pain,no,
+abdominal pain,pain,no,
+stomach ache,pain,no,
+tummy ache,pain,no,
+bellyache,pain,no,
+cramps,cramps,no,
+cramp,cramps,no,
+cramping,cramps,no,
+stomach cramps,cramps,no,
+diarrhoea,diarrhoea,no,
+diarrhea,diarrhoea,no,
+loose stool,diarrhoea,no,
+loose stools,diarrhoea,no,
+watery stool,diarrhoea,no,
+watery stools,diarrhoea,no,
+loose poo,diarrhoea,no,
+runny poo,diarrhoea,no,
+constipation,constipation,no,
+constipated,constipation,no,
+nausea,nausea,no,
+nauseous,nausea,no,
+feeling sick,nausea,no,
+vomiting,vomiting,no,
+vomited,vomiting,no,
+being sick,vomiting,no,
+rumbling,rumbling,no,
+gurgling,rumbling,no,
+urgency,urgency,no,
+urgent need to go,urgency,no,
+heartburn,heartburn,no,
+reflux,heartburn,no,
+acid reflux,heartburn,no,
+indigestion,heartburn,no,
+fullness,fullness,no,
+full,fullness,no,
+blood,blood_in_stool,yes,NHS: bleeding from the bottom
+blood in stool,blood_in_stool,yes,NHS: bleeding from the bottom
+blood in stools,blood_in_stool,yes,NHS: bleeding from the bottom
+blood in poo,blood_in_stool,yes,NHS: bleeding from the bottom
+bloody stool,blood_in_stool,yes,NHS: bleeding from the bottom
+bloody stools,blood_in_stool,yes,NHS: bleeding from the bottom
+bloody diarrhoea,blood_in_stool,yes,NHS: IBS symptoms; bleeding from the bottom
+bloody diarrhea,blood_in_stool,yes,NHS: IBS symptoms; bleeding from the bottom
+rectal bleeding,blood_in_stool,yes,NHS: bleeding from the bottom
+bleeding,blood_in_stool,yes,NHS: bleeding from the bottom
+black stool,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+black stools,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+black poo,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+dark red stool,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+dark red stools,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+dark red poo,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+tarry stool,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+tarry stools,black_stool,yes,NHS: bleeding from the bottom (black or dark red poo)
+weight loss,weight_loss,yes,NHS: IBS symptoms (lost a lot of weight for no reason)
+unexplained weight loss,weight_loss,yes,NHS: IBS symptoms (lost a lot of weight for no reason)
+lost weight,weight_loss,yes,NHS: IBS symptoms (lost a lot of weight for no reason)
+losing weight,weight_loss,yes,NHS: IBS symptoms (lost a lot of weight for no reason)
+lump,lump,yes,NHS: IBS symptoms (hard lump or swelling in your tummy)
+hard lump,lump,yes,NHS: IBS symptoms (hard lump or swelling in your tummy)
+swelling,lump,yes,NHS: IBS symptoms (hard lump or swelling in your tummy)
+palpitations,anaemia_signs,yes,NHS: IBS symptoms (with shortness of breath and paler skin)
+shortness of breath,anaemia_signs,yes,NHS: IBS symptoms (with palpitations and paler skin)
+breathless,anaemia_signs,yes,NHS: IBS symptoms (with palpitations and paler skin)
+pale skin,anaemia_signs,yes,NHS: IBS symptoms (with palpitations and shortness of breath)
+vomiting blood,vomiting_blood,yes,NHS: vomiting blood
+blood in vomit,vomiting_blood,yes,NHS: vomiting blood

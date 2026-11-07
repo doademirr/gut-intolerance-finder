@@ -1,0 +1,4 @@
+# Install inside the project's virtual environment:  .venv/bin/pip install -r requirements.txt
+duckdb==2.0.0
+anthropic==2.4.0
+# Security check after installing :  .venv/bin/pip install pip-audit && .venv/bin/pip-audit

@@ -1,0 +1,13 @@
+food_id,name,food_group,lactose,source,note,status
+P001,"Creatine monohydrate powder, unflavoured",Own: plain food,0,R24,"Made by chemical synthesis, not from milk",Agreed
+P002,"Collagen peptides powder, unflavoured",Own: plain food,0,R23,Protein from animal hide or bone; meat has no lactose,Agreed
+P003,Bee pollen,Own: plain food,0,"R22, R23",Plant pollen; lactose only comes from milk,Agreed
+P004,Maca powder,Own: plain food,0,R23,Dried root vegetable,Agreed
+P005,"Dragon fruit (pitaya), raw",Own: plain food,0,R23,Fruit,Agreed
+P006,"Rice, black, raw",Own: plain food,0,R23,Grain,Agreed
+P007,"Pea shoots, raw",Own: plain food,0,R23,Vegetable,Agreed
+P008,Matcha green tea powder,Own: plain food,0,R23,Ground tea leaf,Agreed
+P009,Coconut flour,Own: plain food,0,R23,Ground coconut,Agreed
+P010,Quinoa flour,Own: plain food,0,R23,Grain,Agreed
+P011,Vanilla extract,Own: plain food,0,R22,Flavouring in alcohol and water; lactose only comes from milk,Proposed
+P012,"Kefir or plain fermented milk (filmjolk), whole milk",Own: plain food,3.7,USDA SR Legacy 170904,Published figure for plain low-fat kefir,Proposed

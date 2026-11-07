@@ -1,0 +1,46 @@
+food,lactose,same_as,source,note,status
+usda:173180,6,,R37,"Whey concentrate with about 80% protein is typically 4-8% lactose; middle of that range, and within this row's 6.25 g carbohydrate",Proposed
+usda:173177,1,,R38,Whey isolate is typically 0.5-1.0% lactose; top of that range,Proposed
+usda:171268,5.5,,USDA SR Legacy 171268,"This row's carbohydrate. In plain milk rows, carbohydrate and lactose are within about 0.3 g. Filtered high-protein milks can be lower",Proposed
+usda:170871,5.5,,USDA SR Legacy 170871,"This row's carbohydrate. In plain milk rows, carbohydrate and lactose are within about 0.3 g. Filtered high-protein milks can be lower",Proposed
+usda:171271,5.6,,USDA SR Legacy 171271,"This row's carbohydrate. In plain milk rows, carbohydrate and lactose are within about 0.3 g. Filtered high-protein milks can be lower",Proposed
+usda:170848,,uk:12-526,UK CoFID 2021 12-526,Parmesan,Proposed
+usda:173431,,uk:12-526,UK CoFID 2021 12-526,Parmesan,Proposed
+usda:171249,,uk:12-526,UK CoFID 2021 12-526,"Hard Italian cheese, like Parmesan",Proposed
+usda:171248,,au:F002488,AFCD Release 3 F002488,Ricotta,Proposed
+usda:170851,,au:F002488,AFCD Release 3 F002488,Ricotta,Proposed
+usda:173420,,uk:12-525,UK CoFID 2021 12-525,Feta,Proposed
+usda:172177,,uk:12-344,UK CoFID 2021 12-344,Brie,Proposed
+usda:172178,,uk:12-345,UK CoFID 2021 12-345,Camembert,Proposed
+usda:171241,,uk:12-358,UK CoFID 2021 12-358,Gouda,Proposed
+usda:171242,,uk:12-164,UK CoFID 2021 12-164,Gruyere,Proposed
+usda:173419,,uk:12-355,UK CoFID 2021 12-355,Edam,Proposed
+usda:172175,,uk:12-354,UK CoFID 2021 12-354,Blue cheese,Proposed
+usda:171250,,uk:12-177,UK CoFID 2021 12-177,Roquefort,Proposed
+usda:170849,,uk:12-492,UK CoFID 2021 12-492,Port Salut,Proposed
+usda:173415,,uk:12-486,UK CoFID 2021 12-486,Cheshire,Proposed
+usda:170847,,usda:171244,USDA SR Legacy 171244,"Mozzarella: the higher of the published figures, since fresh mozzarella is a trace",Proposed
+usda:170846,,usda:171244,USDA SR Legacy 171244,"Mozzarella: the higher of the published figures, since fresh mozzarella is a trace",Proposed
+usda:172197,,au:F002462,AFCD Release 3 F002462,Firm goat cheese,Proposed
+usda:173435,,au:F002463,AFCD Release 3 F002463,Soft goat cheese,Proposed
+usda:173433,,au:F002463,AFCD Release 3 F002463,Soft goat cheese,Proposed
+usda:173417,,usda:172182,USDA SR Legacy 172182,Low-fat cottage cheese,Proposed
+usda:170843,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:170844,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:170850,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:170852,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:171245,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:172176,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:173416,,uk:12-604,UK CoFID 2021 12-604,"Hard cheese, published average",Proposed
+usda:171284,,uk:12-184,UK CoFID 2021 12-184,Plain whole-milk yogurt,Proposed
+usda:170886,,uk:12-379,UK CoFID 2021 12-379,Plain low-fat yogurt,Proposed
+usda:170887,,uk:12-533,UK CoFID 2021 12-533,Plain fat-free yogurt,Proposed
+usda:169898,,uk:12-532,UK CoFID 2021 12-532,Fat-free fruit yogurt,Proposed
+usda:170889,,uk:12-380,UK CoFID 2021 12-380,Low-fat fruit yogurt,Proposed
+usda:171285,,uk:12-380,UK CoFID 2021 12-380,Low-fat fruit yogurt,Proposed
+usda:171286,,uk:12-380,UK CoFID 2021 12-380,Low-fat fruit yogurt,Proposed
+usda:170888,,au:F009749,AFCD Release 3 F009749,Vanilla yogurt,Proposed
+usda:170906,,au:F009752,AFCD Release 3 F009752,Low-fat vanilla yogurt,Proposed
+usda:171304,,uk:12-555,UK CoFID 2021 12-555,Plain Greek yogurt,Proposed
+usda:170905,,uk:12-377,UK CoFID 2021 12-377,Greek fruit yogurt,Proposed
+usda:167575,,au:F004508,AFCD Release 3 F004508,Vanilla ice cream,Proposed

@@ -1,0 +1,557 @@
+Day,Time,Group,Food Name,Amount,Category
+2026-01-01,,Breakfast,"Oats, rolled",201.00 g,Test
+2026-01-01,12:33 PM,Lunch,Chicken breast,249.00 g,Test
+2026-01-01,,Lunch,"Pear, raw",314.00 g,Test
+2026-01-01,12:33 PM,Lunch,"Mushrooms, white, sliced",172.00 g,Test
+2026-01-01,6:26 PM,Dinner,"Oats, rolled",249.00 g,Test
+2026-01-02,8:42 AM,Breakfast,"Rice, white",242.00 g,Test
+2026-01-02,11:57 AM,Lunch,"Rice, white",246.00 g,Test
+2026-01-02,11:57 AM,Lunch,"Pear, raw",337.00 g,Test
+2026-01-02,11:57 AM,Lunch,"Mushrooms, white, sliced",298.00 g,Test
+2026-01-02,7:10 PM,Dinner,"Eggs, boiled",236.00 g,Test
+2026-01-03,7:55 AM,Breakfast,Chicken breast,163.00 g,Test
+2026-01-03,12:06 PM,Lunch,"Carrots, raw",176.00 g,Test
+2026-01-03,6:40 PM,Dinner,"Rice, white",130.00 g,Test
+2026-01-03,6:40 PM,Dinner,"Mushrooms, white, sliced",237.00 g,Test
+2026-01-04,7:18 AM,Breakfast,"Rice, white",242.00 g,Test
+2026-01-04,12:13 PM,Lunch,Chicken breast,227.00 g,Test
+2026-01-04,7:40 PM,Dinner,"Eggs, boiled",116.00 g,Test
+2026-01-04,7:40 PM,Dinner,"Pear, raw",339.00 g,Test
+2026-01-05,8:34 AM,Breakfast,Chicken breast,105.00 g,Test
+2026-01-05,12:39 PM,Lunch,"Eggs, boiled",115.00 g,Test
+2026-01-05,12:39 PM,Lunch,"Pear, raw",286.00 g,Test
+2026-01-05,12:39 PM,Lunch,"Mushrooms, white, sliced",213.00 g,Test
+2026-01-05,6:40 PM,Dinner,"Oats, rolled",210.00 g,Test
+2026-01-06,7:47 AM,Breakfast,"Eggs, boiled",159.00 g,Test
+2026-01-06,7:47 AM,Breakfast,"Pear, raw",272.00 g,Test
+2026-01-06,12:01 PM,Lunch,Chicken breast,101.00 g,Test
+2026-01-06,12:01 PM,Lunch,"Pear, raw",318.00 g,Test
+2026-01-06,7:10 PM,Dinner,"Rice, white",216.00 g,Test
+2026-01-07,8:26 AM,Breakfast,"Eggs, boiled",201.00 g,Test
+2026-01-07,12:42 PM,Lunch,"Rice, white",148.00 g,Test
+2026-01-07,12:42 PM,Lunch,"Pear, raw",276.00 g,Test
+2026-01-07,7:03 PM,Dinner,Chicken breast,106.00 g,Test
+2026-01-07,7:03 PM,Dinner,"Pear, raw",276.00 g,Test
+2026-01-08,7:26 AM,Breakfast,"Eggs, boiled",219.00 g,Test
+2026-01-08,11:57 AM,Lunch,Chicken breast,167.00 g,Test
+2026-01-08,6:33 PM,Dinner,"Carrots, raw",192.00 g,Test
+2026-01-08,6:33 PM,Dinner,"Pear, raw",319.00 g,Test
+2026-01-09,8:31 AM,Breakfast,"Carrots, raw",193.00 g,Test
+2026-01-09,12:05 PM,Lunch,"Carrots, raw",228.00 g,Test
+2026-01-09,12:05 PM,Lunch,"Pear, raw",278.00 g,Test
+2026-01-09,,Dinner,"Oats, rolled",151.00 g,Test
+2026-01-10,7:17 AM,Breakfast,Chicken breast,220.00 g,Test
+2026-01-10,7:17 AM,Breakfast,"Pear, raw",338.00 g,Test
+2026-01-10,12:50 PM,Lunch,Chicken breast,193.00 g,Test
+2026-01-10,12:50 PM,Lunch,"Pear, raw",263.00 g,Test
+2026-01-10,12:50 PM,Lunch,"Mushrooms, white, sliced",200.00 g,Test
+2026-01-10,6:15 PM,Dinner,Chicken breast,121.00 g,Test
+2026-01-10,6:15 PM,Dinner,"Mushrooms, white, sliced",249.00 g,Test
+2026-01-11,7:58 AM,Breakfast,"Oats, rolled",211.00 g,Test
+2026-01-11,12:57 PM,Lunch,"Eggs, boiled",218.00 g,Test
+2026-01-11,6:30 PM,Dinner,"Oats, rolled",107.00 g,Test
+2026-01-11,6:30 PM,Dinner,"Pear, raw",309.00 g,Test
+2026-01-12,8:14 AM,Breakfast,Chicken breast,139.00 g,Test
+2026-01-12,11:46 AM,Lunch,"Rice, white",234.00 g,Test
+2026-01-12,11:46 AM,Lunch,"Mushrooms, white, sliced",199.00 g,Test
+2026-01-12,6:37 PM,Dinner,Chicken breast,228.00 g,Test
+2026-01-12,6:37 PM,Dinner,"Pear, raw",325.00 g,Test
+2026-01-13,8:35 AM,Breakfast,"Carrots, raw",232.00 g,Test
+2026-01-13,12:30 PM,Lunch,"Carrots, raw",138.00 g,Test
+2026-01-13,12:30 PM,Lunch,"Mushrooms, white, sliced",262.00 g,Test
+2026-01-13,7:24 PM,Dinner,"Oats, rolled",144.00 g,Test
+2026-01-13,7:24 PM,Dinner,"Pear, raw",329.00 g,Test
+2026-01-14,8:25 AM,Breakfast,"Rice, white",243.00 g,Test
+2026-01-14,8:25 AM,Breakfast,"Pear, raw",274.00 g,Test
+2026-01-14,12:53 PM,Lunch,"Rice, white",213.00 g,Test
+2026-01-14,12:53 PM,Lunch,"Pear, raw",314.00 g,Test
+2026-01-14,7:00 PM,Dinner,"Oats, rolled",233.00 g,Test
+2026-01-15,8:05 AM,Breakfast,"Oats, rolled",214.00 g,Test
+2026-01-15,8:05 AM,Breakfast,"Pear, raw",265.00 g,Test
+2026-01-15,12:04 PM,Lunch,Chicken breast,131.00 g,Test
+2026-01-15,12:04 PM,Lunch,"Mushrooms, white, sliced",333.00 g,Test
+2026-01-15,6:37 PM,Dinner,"Oats, rolled",219.00 g,Test
+2026-01-15,6:37 PM,Dinner,"Pear, raw",262.00 g,Test
+2026-01-16,7:29 AM,Breakfast,"Eggs, boiled",231.00 g,Test
+2026-01-16,12:17 PM,Lunch,"Rice, white",193.00 g,Test
+2026-01-16,12:17 PM,Lunch,"Pear, raw",320.00 g,Test
+2026-01-16,7:41 PM,Dinner,"Rice, white",158.00 g,Test
+2026-01-16,7:41 PM,Dinner,"Mushrooms, white, sliced",217.00 g,Test
+2026-01-17,7:31 AM,Breakfast,"Oats, rolled",208.00 g,Test
+2026-01-17,1:10 PM,Lunch,"Eggs, boiled",138.00 g,Test
+2026-01-17,6:44 PM,Dinner,Chicken breast,114.00 g,Test
+2026-01-17,,Dinner,"Mushrooms, white, sliced",168.00 g,Test
+2026-01-18,7:22 AM,Breakfast,Chicken breast,121.00 g,Test
+2026-01-18,12:08 PM,Lunch,"Rice, white",216.00 g,Test
+2026-01-18,12:08 PM,Lunch,"Pear, raw",320.00 g,Test
+2026-01-18,7:39 PM,Dinner,"Oats, rolled",167.00 g,Test
+2026-01-18,7:39 PM,Dinner,"Pear, raw",275.00 g,Test
+2026-01-19,8:15 AM,Breakfast,Chicken breast,188.00 g,Test
+2026-01-19,11:48 AM,Lunch,"Rice, white",229.00 g,Test
+2026-01-19,11:48 AM,Lunch,"Mushrooms, white, sliced",271.00 g,Test
+2026-01-19,7:14 PM,Dinner,"Eggs, boiled",226.00 g,Test
+2026-01-20,7:42 AM,Breakfast,"Oats, rolled",158.00 g,Test
+2026-01-20,7:42 AM,Breakfast,"Pear, raw",340.00 g,Test
+2026-01-20,1:13 PM,Lunch,"Oats, rolled",103.00 g,Test
+2026-01-20,,Lunch,"Pear, raw",344.00 g,Test
+2026-01-20,7:00 PM,Dinner,Chicken breast,162.00 g,Test
+2026-01-20,7:00 PM,Dinner,"Mushrooms, white, sliced",197.00 g,Test
+2026-01-21,7:38 AM,Breakfast,Chicken breast,240.00 g,Test
+2026-01-21,7:38 AM,Breakfast,"Pear, raw",254.00 g,Test
+2026-01-21,12:19 PM,Lunch,"Eggs, boiled",171.00 g,Test
+2026-01-21,,Lunch,"Mushrooms, white, sliced",279.00 g,Test
+2026-01-21,7:28 PM,Dinner,"Oats, rolled",202.00 g,Test
+2026-01-22,8:11 AM,Breakfast,"Rice, white",249.00 g,Test
+2026-01-22,11:58 AM,Lunch,"Carrots, raw",199.00 g,Test
+2026-01-22,6:40 PM,Dinner,"Carrots, raw",137.00 g,Test
+2026-01-22,6:40 PM,Dinner,"Pear, raw",341.00 g,Test
+2026-01-23,7:27 AM,Breakfast,"Carrots, raw",229.00 g,Test
+2026-01-23,11:46 AM,Lunch,"Carrots, raw",158.00 g,Test
+2026-01-23,11:46 AM,Lunch,"Pear, raw",255.00 g,Test
+2026-01-23,,Lunch,"Mushrooms, white, sliced",242.00 g,Test
+2026-01-23,7:02 PM,Dinner,"Oats, rolled",225.00 g,Test
+2026-01-23,7:02 PM,Dinner,"Pear, raw",308.00 g,Test
+2026-01-24,7:20 AM,Breakfast,"Eggs, boiled",164.00 g,Test
+2026-01-24,12:06 PM,Lunch,"Oats, rolled",159.00 g,Test
+2026-01-24,6:49 PM,Dinner,"Eggs, boiled",173.00 g,Test
+2026-01-25,7:21 AM,Breakfast,"Oats, rolled",184.00 g,Test
+2026-01-25,7:21 AM,Breakfast,"Pear, raw",345.00 g,Test
+2026-01-25,12:28 PM,Lunch,"Rice, white",155.00 g,Test
+2026-01-25,6:56 PM,Dinner,"Eggs, boiled",130.00 g,Test
+2026-01-26,7:22 AM,Breakfast,"Eggs, boiled",104.00 g,Test
+2026-01-26,7:22 AM,Breakfast,"Pear, raw",259.00 g,Test
+2026-01-26,12:03 PM,Lunch,"Oats, rolled",119.00 g,Test
+2026-01-26,12:03 PM,Lunch,"Mushrooms, white, sliced",284.00 g,Test
+2026-01-26,7:09 PM,Dinner,"Carrots, raw",171.00 g,Test
+2026-01-27,8:35 AM,Breakfast,"Eggs, boiled",200.00 g,Test
+2026-01-27,8:35 AM,Breakfast,"Pear, raw",250.00 g,Test
+2026-01-27,12:22 PM,Lunch,"Eggs, boiled",180.00 g,Test
+2026-01-27,12:22 PM,Lunch,"Pear, raw",292.00 g,Test
+2026-01-27,12:22 PM,Lunch,"Mushrooms, white, sliced",342.00 g,Test
+2026-01-27,6:16 PM,Dinner,Chicken breast,164.00 g,Test
+2026-01-28,8:08 AM,Breakfast,Chicken breast,209.00 g,Test
+2026-01-28,12:10 PM,Lunch,"Rice, white",173.00 g,Test
+2026-01-28,12:10 PM,Lunch,"Mushrooms, white, sliced",218.00 g,Test
+2026-01-28,7:24 PM,Dinner,"Eggs, boiled",107.00 g,Test
+2026-01-29,,Breakfast,"Carrots, raw",152.00 g,Test
+2026-01-29,,Lunch,"Eggs, boiled",135.00 g,Test
+2026-01-29,7:38 PM,Dinner,"Oats, rolled",143.00 g,Test
+2026-01-30,8:21 AM,Breakfast,Chicken breast,203.00 g,Test
+2026-01-30,12:35 PM,Lunch,"Eggs, boiled",130.00 g,Test
+2026-01-30,12:35 PM,Lunch,"Pear, raw",270.00 g,Test
+2026-01-30,12:35 PM,Lunch,"Mushrooms, white, sliced",278.00 g,Test
+2026-01-30,,Dinner,"Oats, rolled",240.00 g,Test
+2026-01-30,6:55 PM,Dinner,"Pear, raw",261.00 g,Test
+2026-01-30,6:55 PM,Dinner,"Mushrooms, white, sliced",292.00 g,Test
+2026-01-31,8:22 AM,Breakfast,"Eggs, boiled",198.00 g,Test
+2026-01-31,12:18 PM,Lunch,Chicken breast,115.00 g,Test
+2026-01-31,7:16 PM,Dinner,"Carrots, raw",155.00 g,Test
+2026-01-31,7:16 PM,Dinner,"Pear, raw",281.00 g,Test
+2026-02-01,8:42 AM,Breakfast,"Oats, rolled",108.00 g,Test
+2026-02-01,12:57 PM,Lunch,"Carrots, raw",225.00 g,Test
+2026-02-01,12:57 PM,Lunch,"Pear, raw",300.00 g,Test
+2026-02-01,7:25 PM,Dinner,"Oats, rolled",139.00 g,Test
+2026-02-01,7:25 PM,Dinner,"Pear, raw",337.00 g,Test
+2026-02-01,,Dinner,"Mushrooms, white, sliced",334.00 g,Test
+2026-02-02,8:24 AM,Breakfast,"Rice, white",132.00 g,Test
+2026-02-02,8:24 AM,Breakfast,"Pear, raw",254.00 g,Test
+2026-02-02,12:42 PM,Lunch,"Rice, white",125.00 g,Test
+2026-02-02,12:42 PM,Lunch,"Pear, raw",317.00 g,Test
+2026-02-02,6:15 PM,Dinner,"Carrots, raw",177.00 g,Test
+2026-02-03,8:30 AM,Breakfast,"Oats, rolled",221.00 g,Test
+2026-02-03,11:47 AM,Lunch,"Eggs, boiled",178.00 g,Test
+2026-02-03,11:47 AM,Lunch,"Pear, raw",274.00 g,Test
+2026-02-03,7:38 PM,Dinner,"Oats, rolled",226.00 g,Test
+2026-02-03,7:38 PM,Dinner,"Pear, raw",293.00 g,Test
+2026-02-04,8:31 AM,Breakfast,"Rice, white",152.00 g,Test
+2026-02-04,12:53 PM,Lunch,"Oats, rolled",159.00 g,Test
+2026-02-04,6:24 PM,Dinner,"Carrots, raw",226.00 g,Test
+2026-02-05,,Breakfast,"Rice, white",137.00 g,Test
+2026-02-05,11:47 AM,Lunch,"Carrots, raw",136.00 g,Test
+2026-02-05,6:55 PM,Dinner,Chicken breast,128.00 g,Test
+2026-02-06,7:31 AM,Breakfast,"Carrots, raw",219.00 g,Test
+2026-02-06,7:31 AM,Breakfast,"Pear, raw",335.00 g,Test
+2026-02-06,12:24 PM,Lunch,"Rice, white",100.00 g,Test
+2026-02-06,12:24 PM,Lunch,"Pear, raw",260.00 g,Test
+2026-02-06,,Dinner,Chicken breast,179.00 g,Test
+2026-02-07,7:57 AM,Breakfast,Chicken breast,238.00 g,Test
+2026-02-07,12:17 PM,Lunch,"Eggs, boiled",107.00 g,Test
+2026-02-07,,Lunch,"Mushrooms, white, sliced",310.00 g,Test
+2026-02-07,6:18 PM,Dinner,"Rice, white",115.00 g,Test
+2026-02-07,6:18 PM,Dinner,"Pear, raw",345.00 g,Test
+2026-02-07,6:18 PM,Dinner,"Mushrooms, white, sliced",305.00 g,Test
+2026-02-08,7:38 AM,Breakfast,Chicken breast,170.00 g,Test
+2026-02-08,7:38 AM,Breakfast,"Pear, raw",342.00 g,Test
+2026-02-08,11:47 AM,Lunch,"Oats, rolled",127.00 g,Test
+2026-02-08,6:49 PM,Dinner,Chicken breast,210.00 g,Test
+2026-02-08,6:49 PM,Dinner,"Mushrooms, white, sliced",277.00 g,Test
+2026-02-09,8:21 AM,Breakfast,"Oats, rolled",160.00 g,Test
+2026-02-09,8:21 AM,Breakfast,"Pear, raw",290.00 g,Test
+2026-02-09,12:20 PM,Lunch,"Oats, rolled",163.00 g,Test
+2026-02-09,7:04 PM,Dinner,"Oats, rolled",209.00 g,Test
+2026-02-10,7:22 AM,Breakfast,"Rice, white",207.00 g,Test
+2026-02-10,12:25 PM,Lunch,"Oats, rolled",134.00 g,Test
+2026-02-10,7:22 PM,Dinner,"Rice, white",175.00 g,Test
+2026-02-10,7:22 PM,Dinner,"Pear, raw",322.00 g,Test
+2026-02-11,7:36 AM,Breakfast,Chicken breast,248.00 g,Test
+2026-02-11,7:36 AM,Breakfast,"Pear, raw",258.00 g,Test
+2026-02-11,12:57 PM,Lunch,"Eggs, boiled",109.00 g,Test
+2026-02-11,12:57 PM,Lunch,"Pear, raw",310.00 g,Test
+2026-02-11,6:35 PM,Dinner,"Rice, white",148.00 g,Test
+2026-02-12,7:21 AM,Breakfast,"Carrots, raw",145.00 g,Test
+2026-02-12,12:54 PM,Lunch,"Rice, white",127.00 g,Test
+2026-02-12,6:18 PM,Dinner,Chicken breast,136.00 g,Test
+2026-02-12,6:18 PM,Dinner,"Pear, raw",282.00 g,Test
+2026-02-12,6:18 PM,Dinner,"Mushrooms, white, sliced",337.00 g,Test
+2026-02-13,7:31 AM,Breakfast,Chicken breast,119.00 g,Test
+2026-02-13,,Breakfast,"Pear, raw",313.00 g,Test
+2026-02-13,12:34 PM,Lunch,"Carrots, raw",123.00 g,Test
+2026-02-13,7:43 PM,Dinner,Chicken breast,206.00 g,Test
+2026-02-14,7:47 AM,Breakfast,"Eggs, boiled",104.00 g,Test
+2026-02-14,12:17 PM,Lunch,"Oats, rolled",200.00 g,Test
+2026-02-14,12:17 PM,Lunch,"Mushrooms, white, sliced",151.00 g,Test
+2026-02-14,6:25 PM,Dinner,"Rice, white",203.00 g,Test
+2026-02-15,,Breakfast,"Rice, white",241.00 g,Test
+2026-02-15,7:26 AM,Breakfast,"Pear, raw",300.00 g,Test
+2026-02-15,11:58 AM,Lunch,Chicken breast,141.00 g,Test
+2026-02-15,6:59 PM,Dinner,"Oats, rolled",177.00 g,Test
+2026-02-15,,Dinner,"Pear, raw",255.00 g,Test
+2026-02-16,7:49 AM,Breakfast,"Carrots, raw",141.00 g,Test
+2026-02-16,,Lunch,"Carrots, raw",150.00 g,Test
+2026-02-16,12:40 PM,Lunch,"Mushrooms, white, sliced",205.00 g,Test
+2026-02-16,6:29 PM,Dinner,Chicken breast,131.00 g,Test
+2026-02-16,6:29 PM,Dinner,"Pear, raw",342.00 g,Test
+2026-02-17,8:15 AM,Breakfast,Chicken breast,130.00 g,Test
+2026-02-17,1:01 PM,Lunch,Chicken breast,207.00 g,Test
+2026-02-17,1:01 PM,Lunch,"Pear, raw",281.00 g,Test
+2026-02-17,7:10 PM,Dinner,"Eggs, boiled",219.00 g,Test
+2026-02-17,7:10 PM,Dinner,"Pear, raw",347.00 g,Test
+2026-02-18,7:51 AM,Breakfast,"Rice, white",132.00 g,Test
+2026-02-18,,Lunch,"Carrots, raw",230.00 g,Test
+2026-02-18,12:57 PM,Lunch,"Mushrooms, white, sliced",183.00 g,Test
+2026-02-18,7:24 PM,Dinner,"Carrots, raw",120.00 g,Test
+2026-02-18,7:24 PM,Dinner,"Pear, raw",314.00 g,Test
+2026-02-19,8:10 AM,Breakfast,"Rice, white",149.00 g,Test
+2026-02-19,8:10 AM,Breakfast,"Pear, raw",312.00 g,Test
+2026-02-19,12:46 PM,Lunch,"Oats, rolled",116.00 g,Test
+2026-02-19,6:44 PM,Dinner,"Carrots, raw",170.00 g,Test
+2026-02-20,8:41 AM,Breakfast,"Eggs, boiled",153.00 g,Test
+2026-02-20,12:06 PM,Lunch,Chicken breast,109.00 g,Test
+2026-02-20,12:06 PM,Lunch,"Pear, raw",301.00 g,Test
+2026-02-20,12:06 PM,Lunch,"Mushrooms, white, sliced",221.00 g,Test
+2026-02-20,7:02 PM,Dinner,Chicken breast,215.00 g,Test
+2026-02-21,7:24 AM,Breakfast,"Carrots, raw",200.00 g,Test
+2026-02-21,12:18 PM,Lunch,Chicken breast,247.00 g,Test
+2026-02-21,12:18 PM,Lunch,"Pear, raw",292.00 g,Test
+2026-02-21,6:19 PM,Dinner,"Carrots, raw",164.00 g,Test
+2026-02-21,6:19 PM,Dinner,"Pear, raw",324.00 g,Test
+2026-02-22,7:34 AM,Breakfast,Chicken breast,210.00 g,Test
+2026-02-22,,Lunch,"Eggs, boiled",158.00 g,Test
+2026-02-22,11:49 AM,Lunch,"Mushrooms, white, sliced",163.00 g,Test
+2026-02-22,6:24 PM,Dinner,Chicken breast,236.00 g,Test
+2026-02-22,6:24 PM,Dinner,"Pear, raw",324.00 g,Test
+2026-02-23,7:29 AM,Breakfast,"Rice, white",162.00 g,Test
+2026-02-23,,Lunch,"Oats, rolled",169.00 g,Test
+2026-02-23,7:13 PM,Dinner,"Carrots, raw",189.00 g,Test
+2026-02-24,,Breakfast,"Eggs, boiled",163.00 g,Test
+2026-02-24,8:01 AM,Breakfast,"Pear, raw",250.00 g,Test
+2026-02-24,11:50 AM,Lunch,"Rice, white",103.00 g,Test
+2026-02-24,6:52 PM,Dinner,"Carrots, raw",229.00 g,Test
+2026-02-25,8:00 AM,Breakfast,"Rice, white",176.00 g,Test
+2026-02-25,12:50 PM,Lunch,"Eggs, boiled",237.00 g,Test
+2026-02-25,12:50 PM,Lunch,"Pear, raw",305.00 g,Test
+2026-02-25,6:24 PM,Dinner,"Oats, rolled",109.00 g,Test
+2026-02-25,6:24 PM,Dinner,"Pear, raw",345.00 g,Test
+2026-02-26,,Breakfast,"Carrots, raw",167.00 g,Test
+2026-02-26,8:16 AM,Breakfast,"Pear, raw",277.00 g,Test
+2026-02-26,1:00 PM,Lunch,"Oats, rolled",140.00 g,Test
+2026-02-26,6:44 PM,Dinner,"Oats, rolled",197.00 g,Test
+2026-02-27,8:14 AM,Breakfast,"Carrots, raw",220.00 g,Test
+2026-02-27,11:45 AM,Lunch,"Rice, white",211.00 g,Test
+2026-02-27,11:45 AM,Lunch,"Mushrooms, white, sliced",228.00 g,Test
+2026-02-27,7:07 PM,Dinner,"Carrots, raw",143.00 g,Test
+2026-02-27,7:07 PM,Dinner,"Pear, raw",253.00 g,Test
+2026-02-27,,Dinner,"Mushrooms, white, sliced",309.00 g,Test
+2026-02-28,,Breakfast,"Rice, white",117.00 g,Test
+2026-02-28,12:38 PM,Lunch,Chicken breast,151.00 g,Test
+2026-02-28,6:20 PM,Dinner,"Eggs, boiled",127.00 g,Test
+2026-02-28,6:20 PM,Dinner,"Pear, raw",276.00 g,Test
+2026-02-28,,Dinner,"Mushrooms, white, sliced",158.00 g,Test
+2026-03-01,8:22 AM,Breakfast,Chicken breast,222.00 g,Test
+2026-03-01,8:22 AM,Breakfast,"Pear, raw",262.00 g,Test
+2026-03-01,12:08 PM,Lunch,Chicken breast,165.00 g,Test
+2026-03-01,12:08 PM,Lunch,"Mushrooms, white, sliced",344.00 g,Test
+2026-03-01,,Dinner,"Carrots, raw",221.00 g,Test
+2026-03-02,7:52 AM,Breakfast,"Eggs, boiled",232.00 g,Test
+2026-03-02,12:48 PM,Lunch,"Carrots, raw",244.00 g,Test
+2026-03-02,12:48 PM,Lunch,"Pear, raw",261.00 g,Test
+2026-03-02,7:22 PM,Dinner,"Rice, white",101.00 g,Test
+2026-03-02,7:22 PM,Dinner,"Pear, raw",262.00 g,Test
+2026-03-03,8:29 AM,Breakfast,Chicken breast,247.00 g,Test
+2026-03-03,12:04 PM,Lunch,"Oats, rolled",227.00 g,Test
+2026-03-03,12:04 PM,Lunch,"Pear, raw",331.00 g,Test
+2026-03-03,6:44 PM,Dinner,"Rice, white",202.00 g,Test
+2026-03-04,7:52 AM,Breakfast,"Rice, white",195.00 g,Test
+2026-03-04,7:52 AM,Breakfast,"Pear, raw",283.00 g,Test
+2026-03-04,12:41 PM,Lunch,"Eggs, boiled",132.00 g,Test
+2026-03-04,7:13 PM,Dinner,Chicken breast,248.00 g,Test
+2026-03-04,7:13 PM,Dinner,"Pear, raw",269.00 g,Test
+2026-03-05,8:17 AM,Breakfast,Chicken breast,248.00 g,Test
+2026-03-05,8:17 AM,Breakfast,"Pear, raw",292.00 g,Test
+2026-03-05,12:12 PM,Lunch,"Carrots, raw",139.00 g,Test
+2026-03-05,7:09 PM,Dinner,Chicken breast,141.00 g,Test
+2026-03-05,7:09 PM,Dinner,"Pear, raw",274.00 g,Test
+2026-03-06,7:32 AM,Breakfast,"Oats, rolled",137.00 g,Test
+2026-03-06,12:24 PM,Lunch,"Oats, rolled",127.00 g,Test
+2026-03-06,12:24 PM,Lunch,"Mushrooms, white, sliced",202.00 g,Test
+2026-03-06,6:16 PM,Dinner,"Eggs, boiled",156.00 g,Test
+2026-03-07,7:27 AM,Breakfast,"Carrots, raw",203.00 g,Test
+2026-03-07,7:27 AM,Breakfast,"Pear, raw",281.00 g,Test
+2026-03-07,12:22 PM,Lunch,"Oats, rolled",249.00 g,Test
+2026-03-07,6:55 PM,Dinner,Chicken breast,166.00 g,Test
+2026-03-07,6:55 PM,Dinner,"Mushrooms, white, sliced",257.00 g,Test
+2026-03-08,8:19 AM,Breakfast,"Oats, rolled",164.00 g,Test
+2026-03-08,11:46 AM,Lunch,"Eggs, boiled",232.00 g,Test
+2026-03-08,7:13 PM,Dinner,"Rice, white",199.00 g,Test
+2026-03-09,7:37 AM,Breakfast,"Oats, rolled",141.00 g,Test
+2026-03-09,12:02 PM,Lunch,Chicken breast,125.00 g,Test
+2026-03-09,6:57 PM,Dinner,"Rice, white",194.00 g,Test
+2026-03-10,7:33 AM,Breakfast,"Oats, rolled",200.00 g,Test
+2026-03-10,12:50 PM,Lunch,"Carrots, raw",191.00 g,Test
+2026-03-10,6:20 PM,Dinner,"Rice, white",207.00 g,Test
+2026-03-11,8:07 AM,Breakfast,"Rice, white",157.00 g,Test
+2026-03-11,8:07 AM,Breakfast,"Pear, raw",301.00 g,Test
+2026-03-11,12:20 PM,Lunch,"Oats, rolled",142.00 g,Test
+2026-03-11,12:20 PM,Lunch,"Pear, raw",349.00 g,Test
+2026-03-11,12:20 PM,Lunch,"Mushrooms, white, sliced",312.00 g,Test
+2026-03-11,6:28 PM,Dinner,"Eggs, boiled",219.00 g,Test
+2026-03-12,8:25 AM,Breakfast,"Eggs, boiled",190.00 g,Test
+2026-03-12,12:48 PM,Lunch,Chicken breast,209.00 g,Test
+2026-03-12,7:26 PM,Dinner,Chicken breast,162.00 g,Test
+2026-03-13,8:11 AM,Breakfast,"Rice, white",192.00 g,Test
+2026-03-13,,Breakfast,"Pear, raw",288.00 g,Test
+2026-03-13,,Lunch,"Oats, rolled",235.00 g,Test
+2026-03-13,6:16 PM,Dinner,"Rice, white",175.00 g,Test
+2026-03-13,6:16 PM,Dinner,"Pear, raw",262.00 g,Test
+2026-03-14,7:33 AM,Breakfast,"Eggs, boiled",236.00 g,Test
+2026-03-14,7:33 AM,Breakfast,"Pear, raw",338.00 g,Test
+2026-03-14,12:55 PM,Lunch,Chicken breast,150.00 g,Test
+2026-03-14,12:55 PM,Lunch,"Mushrooms, white, sliced",170.00 g,Test
+2026-03-14,7:34 PM,Dinner,"Carrots, raw",130.00 g,Test
+2026-03-14,7:34 PM,Dinner,"Pear, raw",279.00 g,Test
+2026-03-15,8:18 AM,Breakfast,"Oats, rolled",227.00 g,Test
+2026-03-15,,Breakfast,"Pear, raw",326.00 g,Test
+2026-03-15,12:27 PM,Lunch,"Carrots, raw",227.00 g,Test
+2026-03-15,,Dinner,"Rice, white",146.00 g,Test
+2026-03-16,8:09 AM,Breakfast,Chicken breast,124.00 g,Test
+2026-03-16,1:05 PM,Lunch,"Rice, white",154.00 g,Test
+2026-03-16,7:32 PM,Dinner,Chicken breast,187.00 g,Test
+2026-03-17,7:33 AM,Breakfast,"Eggs, boiled",187.00 g,Test
+2026-03-17,12:59 PM,Lunch,Chicken breast,190.00 g,Test
+2026-03-17,6:39 PM,Dinner,"Carrots, raw",188.00 g,Test
+2026-03-18,,Breakfast,Chicken breast,176.00 g,Test
+2026-03-18,7:44 AM,Breakfast,"Pear, raw",331.00 g,Test
+2026-03-18,12:21 PM,Lunch,"Carrots, raw",112.00 g,Test
+2026-03-18,12:21 PM,Lunch,"Mushrooms, white, sliced",161.00 g,Test
+2026-03-18,7:09 PM,Dinner,"Rice, white",228.00 g,Test
+2026-03-19,8:11 AM,Breakfast,"Carrots, raw",121.00 g,Test
+2026-03-19,8:11 AM,Breakfast,"Pear, raw",335.00 g,Test
+2026-03-19,1:03 PM,Lunch,"Eggs, boiled",125.00 g,Test
+2026-03-19,7:29 PM,Dinner,Chicken breast,243.00 g,Test
+2026-03-20,7:18 AM,Breakfast,"Rice, white",210.00 g,Test
+2026-03-20,1:07 PM,Lunch,"Eggs, boiled",245.00 g,Test
+2026-03-20,6:52 PM,Dinner,"Eggs, boiled",214.00 g,Test
+2026-03-20,6:52 PM,Dinner,"Pear, raw",337.00 g,Test
+2026-03-21,7:57 AM,Breakfast,"Eggs, boiled",240.00 g,Test
+2026-03-21,7:57 AM,Breakfast,"Pear, raw",332.00 g,Test
+2026-03-21,11:45 AM,Lunch,"Rice, white",122.00 g,Test
+2026-03-21,11:45 AM,Lunch,"Pear, raw",265.00 g,Test
+2026-03-21,11:45 AM,Lunch,"Mushrooms, white, sliced",154.00 g,Test
+2026-03-21,6:47 PM,Dinner,"Oats, rolled",121.00 g,Test
+2026-03-21,6:47 PM,Dinner,"Pear, raw",321.00 g,Test
+2026-03-22,8:19 AM,Breakfast,"Rice, white",115.00 g,Test
+2026-03-22,8:19 AM,Breakfast,"Pear, raw",333.00 g,Test
+2026-03-22,12:39 PM,Lunch,"Eggs, boiled",115.00 g,Test
+2026-03-22,12:39 PM,Lunch,"Pear, raw",323.00 g,Test
+2026-03-22,6:25 PM,Dinner,"Oats, rolled",206.00 g,Test
+2026-03-23,7:39 AM,Breakfast,"Carrots, raw",185.00 g,Test
+2026-03-23,7:39 AM,Breakfast,"Pear, raw",257.00 g,Test
+2026-03-23,12:38 PM,Lunch,"Carrots, raw",103.00 g,Test
+2026-03-23,6:53 PM,Dinner,"Oats, rolled",196.00 g,Test
+2026-03-24,7:36 AM,Breakfast,"Eggs, boiled",172.00 g,Test
+2026-03-24,12:09 PM,Lunch,"Oats, rolled",250.00 g,Test
+2026-03-24,6:40 PM,Dinner,"Oats, rolled",246.00 g,Test
+2026-03-24,6:40 PM,Dinner,"Pear, raw",320.00 g,Test
+2026-03-25,8:26 AM,Breakfast,"Oats, rolled",159.00 g,Test
+2026-03-25,8:26 AM,Breakfast,"Pear, raw",257.00 g,Test
+2026-03-25,12:52 PM,Lunch,"Eggs, boiled",217.00 g,Test
+2026-03-25,6:20 PM,Dinner,"Eggs, boiled",248.00 g,Test
+2026-03-26,7:43 AM,Breakfast,"Carrots, raw",250.00 g,Test
+2026-03-26,7:43 AM,Breakfast,"Pear, raw",277.00 g,Test
+2026-03-26,12:17 PM,Lunch,"Carrots, raw",191.00 g,Test
+2026-03-26,6:19 PM,Dinner,"Eggs, boiled",195.00 g,Test
+2026-03-27,7:22 AM,Breakfast,Chicken breast,107.00 g,Test
+2026-03-27,,Breakfast,"Pear, raw",316.00 g,Test
+2026-03-27,,Lunch,"Carrots, raw",245.00 g,Test
+2026-03-27,12:35 PM,Lunch,"Pear, raw",349.00 g,Test
+2026-03-27,,Dinner,"Rice, white",186.00 g,Test
+2026-03-27,,Dinner,"Pear, raw",273.00 g,Test
+2026-03-28,7:58 AM,Breakfast,"Rice, white",201.00 g,Test
+2026-03-28,11:53 AM,Lunch,Chicken breast,244.00 g,Test
+2026-03-28,11:53 AM,Lunch,"Pear, raw",261.00 g,Test
+2026-03-28,,Dinner,"Oats, rolled",144.00 g,Test
+2026-03-28,7:41 PM,Dinner,"Pear, raw",282.00 g,Test
+2026-03-29,7:38 AM,Breakfast,"Carrots, raw",223.00 g,Test
+2026-03-29,,Breakfast,"Pear, raw",268.00 g,Test
+2026-03-29,12:38 PM,Lunch,"Eggs, boiled",126.00 g,Test
+2026-03-29,6:48 PM,Dinner,"Eggs, boiled",143.00 g,Test
+2026-03-30,8:35 AM,Breakfast,"Eggs, boiled",149.00 g,Test
+2026-03-30,12:59 PM,Lunch,"Rice, white",195.00 g,Test
+2026-03-30,12:59 PM,Lunch,"Mushrooms, white, sliced",264.00 g,Test
+2026-03-30,6:49 PM,Dinner,"Rice, white",119.00 g,Test
+2026-03-31,,Breakfast,Chicken breast,136.00 g,Test
+2026-03-31,7:57 AM,Breakfast,"Pear, raw",344.00 g,Test
+2026-03-31,1:03 PM,Lunch,Chicken breast,207.00 g,Test
+2026-03-31,1:03 PM,Lunch,"Mushrooms, white, sliced",219.00 g,Test
+2026-03-31,7:27 PM,Dinner,Chicken breast,225.00 g,Test
+2026-03-31,7:27 PM,Dinner,"Pear, raw",308.00 g,Test
+2026-04-01,8:15 AM,Breakfast,"Oats, rolled",243.00 g,Test
+2026-04-01,12:08 PM,Lunch,"Oats, rolled",193.00 g,Test
+2026-04-01,6:36 PM,Dinner,"Eggs, boiled",174.00 g,Test
+2026-04-01,6:36 PM,Dinner,"Mushrooms, white, sliced",335.00 g,Test
+2026-04-02,8:12 AM,Breakfast,"Eggs, boiled",229.00 g,Test
+2026-04-02,8:12 AM,Breakfast,"Pear, raw",267.00 g,Test
+2026-04-02,12:10 PM,Lunch,Chicken breast,211.00 g,Test
+2026-04-02,12:10 PM,Lunch,"Pear, raw",302.00 g,Test
+2026-04-02,12:10 PM,Lunch,"Mushrooms, white, sliced",296.00 g,Test
+2026-04-02,7:09 PM,Dinner,"Rice, white",226.00 g,Test
+2026-04-02,7:09 PM,Dinner,"Mushrooms, white, sliced",185.00 g,Test
+2026-04-03,8:28 AM,Breakfast,"Carrots, raw",178.00 g,Test
+2026-04-03,8:28 AM,Breakfast,"Pear, raw",258.00 g,Test
+2026-04-03,1:07 PM,Lunch,"Carrots, raw",188.00 g,Test
+2026-04-03,,Lunch,"Pear, raw",331.00 g,Test
+2026-04-03,6:57 PM,Dinner,Chicken breast,163.00 g,Test
+2026-04-03,6:57 PM,Dinner,"Pear, raw",296.00 g,Test
+2026-04-03,6:57 PM,Dinner,"Mushrooms, white, sliced",329.00 g,Test
+2026-04-04,8:01 AM,Breakfast,"Rice, white",191.00 g,Test
+2026-04-04,1:02 PM,Lunch,Chicken breast,197.00 g,Test
+2026-04-04,6:24 PM,Dinner,"Eggs, boiled",214.00 g,Test
+2026-04-05,7:16 AM,Breakfast,"Rice, white",157.00 g,Test
+2026-04-05,12:13 PM,Lunch,"Carrots, raw",107.00 g,Test
+2026-04-05,12:13 PM,Lunch,"Pear, raw",339.00 g,Test
+2026-04-05,,Dinner,"Eggs, boiled",126.00 g,Test
+2026-04-05,6:36 PM,Dinner,"Mushrooms, white, sliced",195.00 g,Test
+2026-04-06,7:59 AM,Breakfast,"Carrots, raw",171.00 g,Test
+2026-04-06,7:59 AM,Breakfast,"Pear, raw",265.00 g,Test
+2026-04-06,11:58 AM,Lunch,"Carrots, raw",218.00 g,Test
+2026-04-06,11:58 AM,Lunch,"Mushrooms, white, sliced",154.00 g,Test
+2026-04-06,6:52 PM,Dinner,"Carrots, raw",234.00 g,Test
+2026-04-06,6:52 PM,Dinner,"Pear, raw",256.00 g,Test
+2026-04-07,,Breakfast,Chicken breast,202.00 g,Test
+2026-04-07,,Lunch,Chicken breast,163.00 g,Test
+2026-04-07,,Dinner,"Oats, rolled",117.00 g,Test
+2026-04-07,6:24 PM,Dinner,"Pear, raw",275.00 g,Test
+2026-04-08,8:24 AM,Breakfast,"Eggs, boiled",111.00 g,Test
+2026-04-08,1:04 PM,Lunch,"Rice, white",168.00 g,Test
+2026-04-08,7:27 PM,Dinner,"Rice, white",125.00 g,Test
+2026-04-08,7:27 PM,Dinner,"Pear, raw",316.00 g,Test
+2026-04-08,7:27 PM,Dinner,"Mushrooms, white, sliced",210.00 g,Test
+2026-04-09,8:08 AM,Breakfast,"Carrots, raw",168.00 g,Test
+2026-04-09,8:08 AM,Breakfast,"Pear, raw",325.00 g,Test
+2026-04-09,12:11 PM,Lunch,"Eggs, boiled",247.00 g,Test
+2026-04-09,12:11 PM,Lunch,"Pear, raw",281.00 g,Test
+2026-04-09,6:34 PM,Dinner,"Eggs, boiled",151.00 g,Test
+2026-04-10,,Breakfast,"Eggs, boiled",220.00 g,Test
+2026-04-10,12:15 PM,Lunch,"Oats, rolled",231.00 g,Test
+2026-04-10,7:38 PM,Dinner,"Oats, rolled",161.00 g,Test
+2026-04-10,7:38 PM,Dinner,"Pear, raw",291.00 g,Test
+2026-04-11,,Breakfast,"Rice, white",189.00 g,Test
+2026-04-11,12:19 PM,Lunch,"Eggs, boiled",190.00 g,Test
+2026-04-11,12:19 PM,Lunch,"Mushrooms, white, sliced",207.00 g,Test
+2026-04-11,7:39 PM,Dinner,"Eggs, boiled",186.00 g,Test
+2026-04-11,7:39 PM,Dinner,"Mushrooms, white, sliced",201.00 g,Test
+2026-04-12,8:28 AM,Breakfast,"Carrots, raw",124.00 g,Test
+2026-04-12,12:53 PM,Lunch,"Eggs, boiled",168.00 g,Test
+2026-04-12,6:26 PM,Dinner,"Rice, white",101.00 g,Test
+2026-04-13,7:50 AM,Breakfast,"Carrots, raw",138.00 g,Test
+2026-04-13,1:03 PM,Lunch,"Carrots, raw",128.00 g,Test
+2026-04-13,7:20 PM,Dinner,Chicken breast,190.00 g,Test
+2026-04-14,7:43 AM,Breakfast,"Eggs, boiled",197.00 g,Test
+2026-04-14,,Lunch,"Oats, rolled",211.00 g,Test
+2026-04-14,7:37 PM,Dinner,Chicken breast,162.00 g,Test
+2026-04-14,7:37 PM,Dinner,"Mushrooms, white, sliced",259.00 g,Test
+2026-04-15,7:17 AM,Breakfast,Chicken breast,244.00 g,Test
+2026-04-15,12:33 PM,Lunch,Chicken breast,237.00 g,Test
+2026-04-15,7:20 PM,Dinner,"Eggs, boiled",199.00 g,Test
+2026-04-15,7:20 PM,Dinner,"Mushrooms, white, sliced",323.00 g,Test
+2026-04-16,8:15 AM,Breakfast,"Carrots, raw",158.00 g,Test
+2026-04-16,8:15 AM,Breakfast,"Pear, raw",297.00 g,Test
+2026-04-16,11:58 AM,Lunch,"Oats, rolled",207.00 g,Test
+2026-04-16,7:44 PM,Dinner,Chicken breast,235.00 g,Test
+2026-04-16,7:44 PM,Dinner,"Mushrooms, white, sliced",242.00 g,Test
+2026-04-17,8:29 AM,Breakfast,"Carrots, raw",144.00 g,Test
+2026-04-17,8:29 AM,Breakfast,"Pear, raw",287.00 g,Test
+2026-04-17,1:04 PM,Lunch,"Eggs, boiled",140.00 g,Test
+2026-04-17,7:35 PM,Dinner,"Eggs, boiled",146.00 g,Test
+2026-04-17,7:35 PM,Dinner,"Pear, raw",322.00 g,Test
+2026-04-18,7:52 AM,Breakfast,"Rice, white",178.00 g,Test
+2026-04-18,1:07 PM,Lunch,"Eggs, boiled",125.00 g,Test
+2026-04-18,6:59 PM,Dinner,"Carrots, raw",245.00 g,Test
+2026-04-18,6:59 PM,Dinner,"Pear, raw",332.00 g,Test
+2026-04-19,,Breakfast,"Carrots, raw",230.00 g,Test
+2026-04-19,7:28 AM,Breakfast,"Pear, raw",262.00 g,Test
+2026-04-19,12:23 PM,Lunch,"Rice, white",103.00 g,Test
+2026-04-19,,Dinner,Chicken breast,143.00 g,Test
+2026-04-19,6:36 PM,Dinner,"Pear, raw",330.00 g,Test
+2026-04-19,6:36 PM,Dinner,"Mushrooms, white, sliced",299.00 g,Test
+2026-04-20,7:50 AM,Breakfast,"Rice, white",212.00 g,Test
+2026-04-20,,Breakfast,"Pear, raw",280.00 g,Test
+2026-04-20,1:01 PM,Lunch,Chicken breast,101.00 g,Test
+2026-04-20,7:09 PM,Dinner,"Eggs, boiled",117.00 g,Test
+2026-04-20,7:09 PM,Dinner,"Pear, raw",299.00 g,Test
+2026-04-21,7:17 AM,Breakfast,"Oats, rolled",122.00 g,Test
+2026-04-21,,Breakfast,"Pear, raw",295.00 g,Test
+2026-04-21,12:20 PM,Lunch,Chicken breast,129.00 g,Test
+2026-04-21,12:20 PM,Lunch,"Pear, raw",299.00 g,Test
+2026-04-21,7:04 PM,Dinner,"Eggs, boiled",148.00 g,Test
+2026-04-22,7:40 AM,Breakfast,"Rice, white",187.00 g,Test
+2026-04-22,11:56 AM,Lunch,"Oats, rolled",169.00 g,Test
+2026-04-22,6:57 PM,Dinner,"Oats, rolled",140.00 g,Test
+2026-04-22,6:57 PM,Dinner,"Mushrooms, white, sliced",253.00 g,Test
+2026-04-23,7:33 AM,Breakfast,"Eggs, boiled",229.00 g,Test
+2026-04-23,7:33 AM,Breakfast,"Pear, raw",307.00 g,Test
+2026-04-23,12:38 PM,Lunch,"Eggs, boiled",250.00 g,Test
+2026-04-23,7:00 PM,Dinner,"Oats, rolled",131.00 g,Test
+2026-04-23,7:00 PM,Dinner,"Mushrooms, white, sliced",219.00 g,Test
+2026-04-24,7:17 AM,Breakfast,"Carrots, raw",137.00 g,Test
+2026-04-24,7:17 AM,Breakfast,"Pear, raw",299.00 g,Test
+2026-04-24,12:05 PM,Lunch,"Oats, rolled",127.00 g,Test
+2026-04-24,12:05 PM,Lunch,"Pear, raw",296.00 g,Test
+2026-04-24,6:22 PM,Dinner,Chicken breast,132.00 g,Test
+2026-04-25,8:30 AM,Breakfast,"Eggs, boiled",133.00 g,Test
+2026-04-25,12:17 PM,Lunch,Chicken breast,205.00 g,Test
+2026-04-25,12:17 PM,Lunch,"Pear, raw",340.00 g,Test
+2026-04-25,6:31 PM,Dinner,"Rice, white",169.00 g,Test
+2026-04-26,7:18 AM,Breakfast,"Rice, white",141.00 g,Test
+2026-04-26,11:59 AM,Lunch,"Rice, white",241.00 g,Test
+2026-04-26,11:59 AM,Lunch,"Pear, raw",331.00 g,Test
+2026-04-26,7:38 PM,Dinner,"Carrots, raw",189.00 g,Test
+2026-04-26,7:38 PM,Dinner,"Mushrooms, white, sliced",345.00 g,Test
+2026-04-27,7:18 AM,Breakfast,"Carrots, raw",112.00 g,Test
+2026-04-27,11:48 AM,Lunch,Chicken breast,153.00 g,Test
+2026-04-27,6:52 PM,Dinner,"Eggs, boiled",156.00 g,Test
+2026-04-27,6:52 PM,Dinner,"Pear, raw",261.00 g,Test
+2026-04-28,8:16 AM,Breakfast,"Eggs, boiled",230.00 g,Test
+2026-04-28,8:16 AM,Breakfast,"Pear, raw",339.00 g,Test
+2026-04-28,12:55 PM,Lunch,"Eggs, boiled",148.00 g,Test
+2026-04-28,12:55 PM,Lunch,"Pear, raw",339.00 g,Test
+2026-04-28,6:36 PM,Dinner,Chicken breast,163.00 g,Test
+2026-04-28,6:36 PM,Dinner,"Mushrooms, white, sliced",238.00 g,Test
+2026-04-29,7:42 AM,Breakfast,"Oats, rolled",224.00 g,Test
+2026-04-29,12:06 PM,Lunch,"Carrots, raw",213.00 g,Test
+2026-04-29,12:06 PM,Lunch,"Pear, raw",332.00 g,Test
+2026-04-29,6:45 PM,Dinner,"Rice, white",240.00 g,Test
+2026-04-30,7:28 AM,Breakfast,"Eggs, boiled",203.00 g,Test
+2026-04-30,12:11 PM,Lunch,Chicken breast,224.00 g,Test
+2026-04-30,12:11 PM,Lunch,"Pear, raw",257.00 g,Test
+2026-04-30,6:29 PM,Dinner,"Eggs, boiled",219.00 g,Test

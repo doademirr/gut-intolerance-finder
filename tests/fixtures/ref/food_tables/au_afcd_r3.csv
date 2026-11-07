@@ -1,0 +1,6 @@
+food_id,name,food_group,lactose,sorbitol,mannitol,maltitol,xylitol,erythritol,fructose,glucose,per
+T000001,"Test prune, dried",16801,0,12.7,,,,,,,100g
+T000002,"Test mushroom, raw",24701,0,0,1.3,,,,,,100g
+T000003,"Test chocolate, dark, no added sugar",28101,0,,,28,3.6,3.8,,,100g
+T000004,"Test juice, apple",11301,0,,,,,,,,100g
+T000005,"Test fruit drink, apple",11401,0,,,,,,,,100g

@@ -1,0 +1,2888 @@
+food_id,name,food_group,lactose,sorbitol,mannitol,maltitol,xylitol,erythritol,fructose,glucose,per
+11-001,Arrowroot,AA,0,,,,,,0,Tr,100g
+11-002,"Barley, pearl, raw",AA,0,,,,,,Tr,Tr,100g
+11-003,"Barley, pearl, boiled",AA,0,,,,,,Tr,Tr,100g
+11-006,"Buckwheat, groats",AA,0,,,,,,Tr,Tr,100g
+11-011,"Cornmeal, sifted",AA,0,,,,,,N,N,100g
+11-016,"Flour, millet, foxtail",AA,0,,,,,,N,N,100g
+11-021,"Flour, rice",AA,0,,,,,,N,N,100g
+11-023,"Sago, raw",AA,0,,,,,,0,Tr,100g
+11-027,"Tapioca, raw",AA,0,,,,,,0,Tr,100g
+11-1000,"Stuffing, sage and onion, homemade",AT,Tr,,,,,,1.3,1.5,100g
+11-1001,"Bread, white, toasted",AF,0,,,,,,0.2,Tr,100g
+11-1003,"Bread, white, 'with added fibre'",AF,0,,,,,,0.3,0.1,100g
+11-1004,"Bread, white, 'with added fibre', toasted",AF,0,,,,,,0.4,0.1,100g
+11-1005,"Cake, fruit, rich, homemade",AN,0.1,,,,,,15.4,17.3,100g
+11-1006,"Bread rolls, white, soft",AF,0,,,,,,0.2,0.2,100g
+11-1007,"Pie, fruit, one crust, homemade",AS,Tr,,,,,,1.6,1.4,100g
+11-1008,"Pie, fruit, pastry top and bottom, homemade",AS,Tr,,,,,,1.2,1.1,100g
+11-1009,"Currant buns, retail",AF,Tr,,,,,,7,8.2,100g
+11-1010,"Pastry, wholemeal, uncooked, homemade",AO,0.2,,,,,,Tr,Tr,100g
+11-1011,"Pizza, fish topped, takeaway",AE,0.1,,,,,,0.4,0.3,100g
+11-1012,"Pizza, chicken topped, retail",AE,Tr,,,,,,0.7,0.5,100g
+11-1013,"Pizza, ham and pineapple, retail",AE,0.2,,,,,,0.8,0.7,100g
+11-1014,"Pizza, vegetarian, retail and takeaway",AE,0.2,,,,,,0.7,0.6,100g
+11-1015,"Pizza, meat topped, retail and takeaway",AE,Tr,,,,,,0.5,0.4,100g
+11-1016,"Pizza base, raw",AE,Tr,,,,,,0.3,0.3,100g
+11-1017,"Pastry, shortcrust, uncooked, homemade",AO,0.2,,,,,,Tr,Tr,100g
+11-1019,"Breakfast cereal, multigrain hoops, fortified",AI,0,,,,,,N,N,100g
+11-1020,"Crumble, fruit, retail",AS,Tr,,,,,,4.2,4.1,100g
+11-1021,"Pudding, sponge, canned",AS,0.6,,,,,,3.8,4.6,100g
+11-1022,"Pudding, Christmas, retail",AS,0.1,,,,,,20.8,20.3,100g
+11-1023,"Prawn crackers, takeaway",AT,0,,,,,,Tr,Tr,100g
+11-1024,"Pie, apple, one crust, homemade",AS,Tr,,,,,,3.8,1.4,100g
+11-1025,"Pie, apple, pastry top and bottom, homemade",AS,Tr,,,,,,2.8,1.1,100g
+11-1026,"Pie, apple, wholemeal, one crust, homemade",AS,0,,,,,,3.8,1.3,100g
+11-1027,"Pie, apple, wholemeal, pastry top and bottom, homemade",AS,0.1,,,,,,2.8,1,100g
+11-1028,"Tart, bakewell, homemade",AS,Tr,,,,,,1.9,3.6,100g
+11-1029,"Banana bread, homemade",AN,Tr,,,,,,6.4,7.6,100g
+11-1030,"Bannocks, made with beremeal, homemade",AF,2,,,,,,0.1,0.1,100g
+11-1032,"Biscuits, plain, homemade",AM,0.1,,,,,,Tr,Tr,100g
+11-1034,"Biscuits, wholemeal, homemade",AM,2.9,,,,,,Tr,Tr,100g
+11-1035,"Biscuits, melting moments, homemade",AM,0.2,,,,,,N,N,100g
+11-1036,"Brandy snaps, homemade",AM,0.1,,,,,,6.3,6.3,100g
+11-1037,"Pudding, bread and butter, homemade",AS,4.2,,,,,,1.5,1.6,100g
+11-1038,"Bread pudding, homemade",AS,2,,,,,,8.5,8.9,100g
+11-1041,"Cake, carrot, with topping, homemade",AN,0.4,,,,,,1.2,1.3,100g
+11-1043,"Chelsea buns, homemade",AP,1,,,,,,4.3,4.4,100g
+11-1044,"Cake, cherry, homemade",AN,Tr,,,,,,4.2,7.9,100g
+11-1045,"Flour, corn",AA,0,,,,,,0,Tr,100g
+11-1046,"Cake, chocolate, not filled, homemade",AN,Tr,,,,,,Tr,Tr,100g
+11-1047,"Cake, chocolate, with butter icing, homemade",AN,0,,,,,,Tr,Tr,100g
+11-1048,"Pastry, choux, uncooked, homemade",AO,Tr,,,,,,Tr,Tr,100g
+11-1049,"Pastry, choux, cooked, homemade",AO,Tr,,,,,,Tr,Tr,100g
+11-1050,"Choux buns, homemade",AP,0.8,,,,,,Tr,Tr,100g
+11-1051,"Pudding, Christmas, homemade",AS,Tr,,,,,,N,N,100g
+11-1052,"Pastry, shortcrust, cooked, homemade",AO,0.2,,,,,,Tr,Tr,100g
+11-1053,"Cake, coconut, homemade",AN,0.5,,,,,,0.1,Tr,100g
+11-1055,"Crumble, apple, homemade",AS,Tr,,,,,,3.9,1.3,100g
+11-1056,"Crumble, fruit, homemade",AS,Tr,,,,,,1.6,1.3,100g
+11-1057,"Crumble, with pie filling, homemade",AS,Tr,,,,,,3.8,3.6,100g
+11-1058,"Tart, custard, large, homemade",AP,2.3,,,,,,Tr,0.1,100g
+11-1060,"Biscuits, oat based, chocolate, half coated",AM,2.2,,,,,,0.7,0.9,100g
+11-1064,"Pastries, chocolate eclairs, fresh, homemade",AP,0.5,,,,,,Tr,Tr,100g
+11-1065,"Pudding, Eve's pudding, homemade",AS,0.1,,,,,,3,1,100g
+11-1066,"Flan case, pastry, homemade",AS,Tr,,,,,,Tr,Tr,100g
+11-1067,"Flan case, sponge, homemade",AS,0,,,,,,Tr,Tr,100g
+11-1069,"Flan, pastry, with fruit, homemade",AS,Tr,,,,,,4.1,3.6,100g
+11-1070,"Flan, sponge, with fruit, homemade",AS,0,,,,,,3.5,3.1,100g
+11-1071,"Flapjacks, homemade",AM,Tr,,,,,,4.4,4.5,100g
+11-1072,"Cake, fruit, wholemeal, homemade",AN,0.4,,,,,,5.3,5.6,100g
+11-1073,"Pie, fruit, pastry top and bottom, blackcurrant, homemade",AS,Tr,,,,,,1.6,1.6,100g
+11-1074,"Pie, fruit, wholemeal, pastry top and bottom, blackcurrant, homemade",AS,0.1,,,,,,1.6,1.4,100g
+11-1075,"Pie, fruit, wholemeal, one crust, homemade",AS,Tr,,,,,,1.6,1.3,100g
+11-1076,"Pie, fruit, wholemeal, pastry top and bottom, homemade",AS,0,,,,,,1.2,1,100g
+11-1077,"Pie, fruit, wholemeal, with pie filling, homemade",AS,0.1,,,,,,2.9,2.7,100g
+11-1078,"Pie, fruit, with pie filling, homemade",AS,Tr,,,,,,2.9,2.9,100g
+11-1079,"Gingerbread, homemade",AN,0.5,,,,,,6,6,100g
+11-1081,"Gulab jamen/jambu, homemade",AP,7,,,,,,Tr,Tr,100g
+11-1083,"Gulab jamen/jambu, retail",AP,9.3,,,,,,Tr,Tr,100g
+11-1084,"Hot cross buns, homemade",AP,0.9,,,,,,4.1,5,100g
+11-1085,"Tarts, jam, homemade",AP,Tr,,,,,,8,14.8,100g
+11-1086,"Tarts, jam, wholemeal, homemade",AP,0.1,,,,,,8,14.7,100g
+11-1088,"Jellabi, homemade",AP,0,,,,,,N,N,100g
+11-1090,"Cake, lardy, homemade",AN,1.7,,,,,,Tr,Tr,100g
+11-1091,"Milk bread, homemade",AF,1.8,,,,,,Tr,Tr,100g
+11-1092,"Mince pies, homemade, individual",AP,Tr,,,,,,14.1,14.3,100g
+11-1093,"Tart, mincemeat, one crust, homemade",AP,Tr,,,,,,18.4,18.5,100g
+11-1094,"Muffins, American style, chocolate chip, homemade",AN,1.2,,,,,,Tr,Tr,100g
+11-1095,"Muffins, bran, homemade",AP,1.8,,,,,,1.3,1.3,100g
+11-1096,"Noodles, egg, fried with spring onions, homemade",AD,0,,,,,,0.1,0.1,100g
+11-1097,"Pudding, Queen of Puddings, homemade",AS,2.2,,,,,,1.4,2.5,100g
+11-1100,"Oatcakes, homemade",AM,0.1,,,,,,Tr,Tr,100g
+11-1101,"Pakoras, homemade",AT,0,,,,,,0.5,0.6,100g
+11-1102,"Pancakes, savoury, made with skimmed milk, homemade",AT,3.7,,,,,,Tr,Tr,100g
+11-1103,"Pancakes, savoury, wholemeal, made with whole milk, homemade",AT,3.6,,,,,,Tr,Tr,100g
+11-1104,"Paratha, homemade",AF,0.1,,,,,,Tr,Tr,100g
+11-1105,"Pinni, homemade",AP,Tr,,,,,,Tr,Tr,100g
+11-1106,"Porridge, made with milk and water",AI,2.4,,,,,,Tr,Tr,100g
+11-1107,"Porridge, made with water",AI,0,,,,,,Tr,Tr,100g
+11-1108,"Porridge, made with whole milk",AI,4.7,,,,,,Tr,Tr,100g
+11-1109,"Rock cakes, homemade",AN,0.4,,,,,,6,6.2,100g
+11-1111,"Rum baba, homemade",AP,Tr,,,,,,Tr,Tr,100g
+11-1112,"Scones, cheese, homemade",AP,1.5,,,,,,Tr,Tr,100g
+11-1113,"Scones, potato, homemade",AP,0.9,,,,,,0.1,0.1,100g
+11-1114,"Scones, wholemeal, homemade",AP,1.7,,,,,,Tr,Tr,100g
+11-1115,"Scones, fruit, wholemeal, homemade",AP,1.5,,,,,,4.5,4.5,100g
+11-1116,"Scotch pancakes, homemade",AP,1.9,,,,,,Tr,Tr,100g
+11-1117,"Bread, soda, made with white flour, homemade",AF,1.9,,,,,,Tr,Tr,100g
+11-1118,"Cake, sponge, with butter icing, homemade",AN,0.2,,,,,,Tr,Tr,100g
+11-1119,"Pudding, sponge, homemade",AS,0.5,,,,,,Tr,Tr,100g
+11-1120,"Pudding, sponge, with dried fruit, homemade",AS,0.4,,,,,,4.1,4.1,100g
+11-1121,"Pudding, sponge, with jam or treacle, homemade",AS,0.4,,,,,,2.3,3,100g
+11-1122,"Pudding, spotted dick, homemade",AS,1.3,,,,,,3,3,100g
+11-1123,"Tartlets, strawberry, homemade",AP,0.1,,,,,,1,1,100g
+11-1124,"Pudding, suet, homemade",AS,1.4,,,,,,0.1,0.1,100g
+11-1125,"Cake, Swiss roll, homemade",AN,0,,,,,,3.6,6.6,100g
+11-1126,"Treacle tart, homemade",AS,Tr,,,,,,9.6,9.8,100g
+11-1127,"Brownies, chocolate, homemade",AN,0.2,,,,,,0,0,100g
+11-1128,"Flapjacks, retail, chocolate covered",AM,0.7,,,,,,3.9,4,100g
+11-1129,"Pasta, white, dried, boiled in unsalted water",AD,0,,,,,,0.1,0.1,100g
+11-1130,"Waffles, homemade",AP,3.1,,,,,,Tr,Tr,100g
+11-1131,"Welsh cakes, homemade",AN,0.6,,,,,,4.9,5.1,100g
+11-1132,"Welsh cheesecakes, homemade",AP,Tr,,,,,,1.9,3.6,100g
+11-1134,"Crackers, wholemeal, homemade",AM,Tr,,,,,,Tr,Tr,100g
+11-1135,"Yorkshire pudding, made with skimmed milk, homemade",AT,3.4,,,,,,Tr,Tr,100g
+11-1136,"Bread, brown, toasted",AF,0,,,,,,0.4,Tr,100g
+11-1137,"Bread, white, sliced, fried in rapeseed oil",AF,0,,,,,,0.2,Tr,100g
+11-1138,Custard powder,AA,0,,,,,,0,Tr,100g
+11-1139,"Pastry, flaky, cooked, homemade",AO,0.2,,,,,,0,0,100g
+11-1140,"Pastry, flaky, uncooked, homemade",AO,0.2,,,,,,0,0,100g
+11-1141,"Pancakes, sweet, made with skimmed milk, homemade",AS,3.2,,,,,,Tr,Tr,100g
+11-1142,"Pancakes, sweet, made with whole milk, homemade",AS,3.1,,,,,,Tr,Tr,100g
+11-1143,"Pancakes, sweet, made with semi skimmed milk, homemade",AS,3.2,,,,,,Tr,Tr,100g
+11-1144,"Bread rolls, brown, crusty",AF,0,,,,,,N,N,100g
+11-1145,"Bread, white, average",AF,0,,,,,,0.2,Tr,100g
+11-1146,"Yorkshire pudding, made with whole milk",AT,3.3,,,,,,Tr,Tr,100g
+11-230,"Pastries, Asian",AP,N,,,,,,N,N,100g
+11-444,"Rice, egg fried, takeaway",AC,Tr,,,,,,Tr,Tr,100g
+11-450,"Pasta, plain, fresh, boiled",AD,Tr,,,,,,0,0.1,100g
+11-459,"Chapatis, made without fat",AF,0,,,,,,N,N,100g
+11-462,"Bread, malt, fruited",AF,0.7,,,,,,6.3,7.4,100g
+11-526,"Gateau, chocolate based, frozen",AN,0.9,,,,,,1.8,2.4,100g
+11-527,"Cake, chocolate fudge",AN,1,,,,,,0.4,1.7,100g
+11-530,"Gateau, fruit, frozen",AN,0.7,,,,,,1.5,2,100g
+11-532,"Cake, sponge, with dairy cream and jam, frozen",AN,0.9,,,,,,0.7,3,100g
+11-541,"Muffins, English style, white",AP,Tr,,,,,,0.8,0.5,100g
+11-542,"Muffins, English style, white, toasted",AP,Tr,,,,,,0.8,0.5,100g
+11-544,"Scotch pancakes, retail",AP,3.8,,,,,,1.6,2,100g
+11-548,"Pie, lemon meringue, retail",AS,0.4,,,,,,3.4,4.5,100g
+11-715,"Pasta, egg, white, dried, raw",AD,0,,,,,,0.2,0.2,100g
+11-716,"Pasta, white, dried, raw",AD,0,,,,,,0.2,0.1,100g
+11-717,"Pasta shapes, coloured, flavoured, dried, raw",AD,0,,,,,,0.3,0.2,100g
+11-718,"Pasta, wholewheat, spaghetti, dried, raw",AD,0,,,,,,0.4,0.4,100g
+11-719,"Noodles, egg, dried, raw",AD,0,,,,,,0.2,0.2,100g
+11-720,"Pasta, white, twists, fusilli, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-721,"Pasta, white, twists, fusilli, dried, boiled in salted water",AD,0,,,,,,Tr,Tr,100g
+11-722,"Pasta, white, spaghetti, dried, boiled in unsalted water",AD,0,,,,,,0.1,Tr,100g
+11-723,"Pasta, wholewheat, spaghetti, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-724,"Noodles, egg, medium, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-725,"Noodles, rice, fine, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-726,"Pasta, egg, fresh, raw",AD,0,,,,,,0.4,0.3,100g
+11-727,"Pasta, egg, white, tagliatelle, fresh, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-728,"Pasta, egg, fresh, filled with cheese only, boiled in unsalted water",AD,0.8,,,,,,Tr,Tr,100g
+11-729,"Pasta, egg, fresh, filled with cheese and tomato, boiled in unsalted water",AD,Tr,,,,,,0.2,Tr,100g
+11-730,"Pasta, egg, fresh, filled with mushrooms, boiled in unsalted water",AD,0.7,,,,,,Tr,Tr,100g
+11-731,"Pasta, egg, fresh, filled with green vegetables/herbs and cheese, boiled in unsalted water",AD,Tr,,,,,,0.1,Tr,100g
+11-732,"Pasta, egg, fresh, filled with meat, boiled in unsalted water",AD,0.3,,,,,,0.1,Tr,100g
+11-734,"Pasta and sauce mixes, dried, raw",AD,1.7,,,,,,0.5,0.4,100g
+11-735,"Pasta, spaghetti, canned, in tomato sauce",AD,0,,,,,,1.4,1.3,100g
+11-736,"Pasta, ravioli, meat filling, canned in tomato sauce",AD,0,,,,,,0.9,1,100g
+11-737,"Muffins, American, chocolate, retail",AN,1.5,,,,,,0.1,0.6,100g
+11-738,"Muffins, American, not chocolate, retail",AN,0.9,,,,,,0.7,1,100g
+11-739,Jaffa cakes,AM,0.2,,,,,,1.8,8.5,100g
+11-740,"Cake bars, chocolate",AN,4,,,,,,1,2.1,100g
+11-742,"Breakfast cereal, cornflakes, fortified",AI,0,,,,,,1.5,1.7,100g
+11-745,"Breakfast cereal, cornflakes, unfortified",AI,0,,,,,,0.6,0.7,100g
+11-746,"Breakfast cereal, cornflakes, crunchy / honey nut coated, fortified",AI,0,,,,,,1.6,2.7,100g
+11-749,"Breakfast cereal, cornflakes, frosted, fortified",AI,0,,,,,,1,1.1,100g
+11-750,"Breakfast cereal, rice, toasted/crisp, fortified",AI,0,,,,,,0.5,0.3,100g
+11-753,"Breakfast cereal, rice, chocolate flavoured, fortified",AI,0,,,,,,0.4,0.5,100g
+11-754,"Breakfast cereal, Ricicles, Kellogg's",AI,0,,,,,,0.2,0.1,100g
+11-755,"Breakfast cereal, honey loops and hoops, including Honey and Nut Cheerios, fortified",AI,0,,,,,,1.6,1.4,100g
+11-756,"Breakfast cereal, puffed wheat, unfortified",AI,0,,,,,,0.2,Tr,100g
+11-757,"Breakfast cereal, puffed wheat, honey coated, fortified",AI,0,,,,,,N,N,100g
+11-760,"Breakfast cereal, malted flake, fortified",AI,1,,,,,,0.5,0.3,100g
+11-761,"Breakfast cereal, malted wheat, fortified",AI,0,,,,,,0.4,0.3,100g
+11-762,"Breakfast cereal, wheat and multigrain, chocolate flavoured, fortified",AI,0.2,,,,,,0.1,0.2,100g
+11-763,"Breakfast cereal, bran flakes, fortified",AI,0,,,,,,2.6,2,100g
+11-767,"Breakfast cereal, bran type cereal, fortified",AI,0,,,,,,0.7,0.7,100g
+11-773,"Breakfast cereal, wheat biscuits, Weetabix type, fortified",AI,0,,,,,,0.9,0.7,100g
+11-774,"Breakfast cereal, wheat biscuits, Weetabix type, unfortified",AI,0,,,,,,0.9,0.7,100g
+11-775,"Breakfast cereal, shredded wheat type, unfortified",AI,0,,,,,,Tr,Tr,100g
+11-777,"Breakfast cereal, shredded wheat type with fruit, unfortified",AI,0,,,,,,6,4.7,100g
+11-778,"Breakfast cereal, Shredded Wheat, honey nut, Nestle",AI,0,,,,,,0.9,0.6,100g
+11-779,"Breakfast cereal, fruit and fibre type, fortified",AI,0,,,,,,9.4,8.4,100g
+11-780,"Muesli, Swiss style, unfortified",AI,4,,,,,,5,4.9,100g
+11-781,"Muesli, Swiss style, no added sugar or salt, unfortified",AI,3.2,,,,,,5.2,4.6,100g
+11-788,"Porridge oats, unfortified",A,0,,,,,,Tr,Tr,100g
+11-789,"Porridge oats, unfortified, cooked, made up with semi-skimmed milk",A,4.1,,,,,,Tr,Tr,100g
+11-792,"Breakfast cereal, instant hot oat, plain, raw, fortified",AI,0,,,,,,Tr,Tr,100g
+11-793,"Breakfast cereal, oat, instant, plain, fortified, cooked, made up with semi-skimmed milk",AI,4.2,,,,,,Tr,Tr,100g
+11-795,"Breakfast cereal, Oat, instant, flavoured, unfortified, made up with semi-skimmed milk",AI,3.7,,,,,,Tr,Tr,100g
+11-796,"Biscuits, short, sweet",AM,Tr,,,,,,0.6,0.6,100g
+11-797,"Biscuits, semi-sweet",AM,Tr,,,,,,Tr,0.6,100g
+11-798,"Biscuits, ginger nuts",AM,Tr,,,,,,2.4,3,100g
+11-799,"Biscuits, digestive, plain",AM,Tr,,,,,,Tr,Tr,100g
+11-800,"Wafers, plain ice cream wafers, not filled",AM,Tr,,,,,,Tr,Tr,100g
+11-801,"Biscuits, plain, reduced fat",AM,Tr,,,,,,Tr,0.9,100g
+11-802,Shortbread,AM,Tr,,,,,,Tr,Tr,100g
+11-803,"Biscuits, digestive, with oats, plain",AM,Tr,,,,,,0.9,1.2,100g
+11-804,"Biscuits, jam filled",AM,Tr,,,,,,2.1,6.1,100g
+11-805,Fig Rolls,AM,Tr,,,,,,8.4,11.5,100g
+11-806,"Biscuits, short or sweet, half coated in chocolate",AM,3,,,,,,Tr,Tr,100g
+11-807,"Biscuits, digestive, half coated in chocolate",AM,Tr,,,,,,Tr,Tr,100g
+11-808,"Biscuits, iced",AM,Tr,,,,,,Tr,Tr,100g
+11-809,"Biscuits, fully coated with chocolate",AM,5.9,,,,,,Tr,Tr,100g
+11-810,"Biscuits, fully coated with chocolate, with cream",AM,3.3,,,,,,Tr,Tr,100g
+11-811,"Biscuits, fully coated with chocolate, with marshmallow",AM,Tr,,,,,,Tr,6,100g
+11-812,Chocolate covered wafer biscuit,AM,6.9,,,,,,Tr,Tr,100g
+11-813,"Biscuits, sandwich, cream",AM,1.1,,,,,,Tr,1.6,100g
+11-814,"Flapjacks, retail",AM,Tr,,,,,,4.2,4.3,100g
+11-815,"Biscuits, cookies, chocolate chip, standard",AM,Tr,,,,,,Tr,Tr,100g
+11-816,"Biscuits, cookies, chocolate chip, American style",AM,Tr,,,,,,Tr,Tr,100g
+11-818,"Cereal bars, with fruit and/or nuts, with chocolate, unfortified",AM,1.9,,,,,,6.5,6.4,100g
+11-819,"Cereal bars, with fruit and/or nuts, no chocolate, unfortified",AM,1.2,,,,,,9,9.9,100g
+11-820,Cream crackers,AM,Tr,,,,,,Tr,Tr,100g
+11-821,"Biscuits, cheese flavoured",AM,Tr,,,,,,Tr,Tr,100g
+11-822,"Crispbread, rye",AM,Tr,,,,,,Tr,Tr,100g
+11-823,"Oatcakes, plain, retail",AM,Tr,,,,,,Tr,Tr,100g
+11-824,"Cheese straws/twists, retail",AM,Tr,,,,,,Tr,Tr,100g
+11-825,"Minibreads, toasted, retail",AM,Tr,,,,,,Tr,Tr,100g
+11-826,"Breadsticks, plain",AM,Tr,,,,,,Tr,Tr,100g
+11-827,"Scones, plain, retail",AN,1.5,,,,,,Tr,0.9,100g
+11-828,"Iced buns, retail",AN,Tr,,,,,,7,6.4,100g
+11-829,"Cake, fruit, retail",AN,Tr,,,,,,11.9,10.5,100g
+11-830,"Cake, chocolate, with filling and icing, retail",AN,2,,,,,,Tr,1.4,100g
+11-831,"Cake, sponge, with jam and butter cream, retail",AN,Tr,,,,,,1,3.5,100g
+11-832,"Cake, sponge, soft iced, retail",AN,Tr,,,,,,Tr,Tr,100g
+11-833,"Cake, loaf, retail",AN,Tr,,,,,,6.8,10.2,100g
+11-834,"Cake, Swiss rolls, chocolate covered and filled, retail",AN,Tr,,,,,,Tr,4.1,100g
+11-835,"Cake, battenberg, retail",AN,Tr,,,,,,0.3,5.1,100g
+11-836,"Cake, carrot, iced, retail",AN,Tr,,,,,,0.8,Tr,100g
+11-837,"Shortcake, caramel, chocolate covered, retail",AN,1.6,,,,,,2,1.8,100g
+11-838,"Eccles cakes, retail",AN,Tr,,,,,,15.4,10.8,100g
+11-839,"Cakes, fancy iced, individual, retail",AN,Tr,,,,,,Tr,1.5,100g
+11-840,Cakes from 'healthy eating' ranges,AN,Tr,,,,,,1.7,2.8,100g
+11-841,"Pastries, Danish, retail",AP,Tr,,,,,,2.7,3.3,100g
+11-842,"Pastries, Greek, baklava, retail",AP,Tr,,,,,,8.6,9.7,100g
+11-843,"Pastries, cream filled, retail",AP,1.2,,,,,,1,2.7,100g
+11-844,"Pastries, chocolate eclairs, cream filled, retail",AP,2.9,,,,,,Tr,2.7,100g
+11-845,"Tarts, bakewell, iced, retail",AS,Tr,,,,,,1.1,3.5,100g
+11-846,"Jam tarts, retail",AS,Tr,,,,,,3.7,9.4,100g
+11-847,"Pie, fruit, individual, retail",AS,0.7,,,,,,2.4,8.3,100g
+11-848,"Mince pies, retail",AS,0.4,,,,,,11.9,16.6,100g
+11-849,"Doughnuts, with jam",AP,Tr,,,,,,5.5,11.4,100g
+11-850,"Doughnuts, ring, iced",AP,Tr,,,,,,0.8,1.7,100g
+11-851,"Pastry, shortcrust, retail, uncooked",AO,Tr,,,,,,Tr,0.3,100g
+11-852,"Pastry, flaky/puff, retail, uncooked",AO,Tr,,,,,,Tr,Tr,100g
+11-853,"Pastry, shortcrust, retail, cooked",AO,Tr,,,,,,Tr,0.4,100g
+11-854,"Pastry, flaky/puff, retail, cooked",AO,Tr,,,,,,Tr,Tr,100g
+11-855,"Pastry, filo, retail, uncooked",AO,Tr,,,,,,0.1,0.2,100g
+11-856,"Pastry, filo, retail, cooked",AO,Tr,,,,,,0.1,0.2,100g
+11-857,"Rice, white, basmati, raw",AC,0,,,,,,Tr,Tr,100g
+11-858,"Rice, white, basmati, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-859,"Rice, white, basmati, easy cook, raw",AC,0,,,,,,Tr,Tr,100g
+11-860,"Rice, white, basmati, easy cook, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-861,"Rice, white, long grain, raw",AC,0,,,,,,Tr,Tr,100g
+11-862,"Rice, white, long grain, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-863,"Rice, white, long grain, easy cook, raw",AC,0,,,,,,Tr,Tr,100g
+11-864,"Rice, white, long grain, easy cook, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-865,"Rice, white, pudding, raw",AC,0,,,,,,Tr,Tr,100g
+11-866,"Rice, brown, basmati, raw",AC,0,,,,,,Tr,Tr,100g
+11-867,"Rice, brown, basmati, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-868,"Rice, brown, wholegrain, raw",AC,0,,,,,,Tr,Tr,100g
+11-869,"Rice, brown, wholegrain, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-870,"Rice, brown, easy cook, raw",AC,0,,,,,,Tr,0.1,100g
+11-871,"Rice, brown, easy cook, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-872,"Rice, wild, raw",AC,0,,,,,,Tr,Tr,100g
+11-873,"Rice, wild, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-874,"Rice, Thai fragrant, raw",AC,0,,,,,,Tr,Tr,100g
+11-875,"Rice, Thai fragrant, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-876,"Rice, red, raw",AC,0,,,,,,Tr,Tr,100g
+11-877,"Red rice, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-878,"Rice, white, Italian Arborio risotto, raw",AC,0,,,,,,Tr,Tr,100g
+11-879,"Rice, white, Italian ""Arborio"" risotto, boiled in unsalted water",AC,0,,,,,,Tr,Tr,100g
+11-880,"Rice, savoury, including chicken, beef, mushroom and vegetable varieties, dried, uncooked",AC,1.4,,,,,,1.1,0.9,100g
+11-881,"Rice, savoury, including chicken, beef, mushroom and vegetable varieties, dried, cooked",AC,0.8,,,,,,0.5,0.5,100g
+11-884,"Rice, ready-cooked, ""plain"", re-heated",AC,0,,,,,,Tr,Tr,100g
+11-885,"Rice, egg fried, ready cooked, re-heated, retail, not takeaway",AC,Tr,,,,,,Tr,Tr,100g
+11-886,"Flour, wheat, white, plain, soft",AA,0,,,,,,Tr,Tr,100g
+11-887,"Flour, wheat, bread/strong, white",AA,0,,,,,,Tr,Tr,100g
+11-888,"Flour, wheat, white, self raising",AA,0,,,,,,Tr,Tr,100g
+11-889,"Flour, wheat, wholemeal",AA,0,,,,,,Tr,Tr,100g
+11-890,"Flour, wheat, wholemeal, bread/strong",AA,0,,,,,,Tr,Tr,100g
+11-891,"Flour, wheat, wholemeal, self raising",AA,0,,,,,,Tr,Tr,100g
+11-892,"Flour, wheat, brown",AA,0,,,,,,Tr,Tr,100g
+11-893,"Flour, wheat, brown, bread/strong",AA,0,,,,,,Tr,Tr,100g
+11-894,"Flour, chapati, white",AA,0,,,,,,Tr,Tr,100g
+11-895,"Flour, chapati, brown",AA,0,,,,,,Tr,Tr,100g
+11-896,"Flour, gram",AA,0,,,,,,Tr,Tr,100g
+11-897,"Flour, rye",AA,0,,,,,,Tr,Tr,100g
+11-898,"Flour, soya",AA,0,,,,,,Tr,Tr,100g
+11-899,"Flour, gari (cassava flour)",AA,0,,,,,,Tr,Tr,100g
+11-901,"Couscous, plain, raw",AT,0,,,,,,Tr,Tr,100g
+11-902,"Couscous, plain, cooked",AT,0,,,,,,Tr,Tr,100g
+11-903,"Semolina, raw",AA,0,,,,,,Tr,Tr,100g
+11-904,"Wheat, bulgur, raw",AA,0,,,,,,Tr,Tr,100g
+11-905,"Polenta, hydrated, raw",AT,0,,,,,,Tr,Tr,100g
+11-906,"Bran, wheat",AA,0,,,,,,Tr,Tr,100g
+11-907,Wheatgerm,AA,0,,,,,,0.5,0.7,100g
+11-910,"Bread, naan, peshwari naan, takeaway and retail",AF,Tr,,,,,,Tr,Tr,100g
+11-911,"Puri, homemade",AF,0,,,,,,Tr,Tr,100g
+11-912,"Mooli paratha, homemade",AF,0,,,,,,0.5,0.9,100g
+11-913,Gajjeralla,AS,4.3,,,,,,1.1,1.1,100g
+11-915,"Sevyian, homemade",AS,4.3,,,,,,0.5,0.5,100g
+11-916,Cake rusks,AM,Tr,,,,,,Tr,Tr,100g
+11-919,"Strudel, fruit filled, retail, frozen",AS,Tr,,,,,,4.3,3.2,100g
+11-920,"Pie, apple, pastry, double crust, deep filled, retail",AS,Tr,,,,,,3.5,1.9,100g
+11-921,"Pie, apple, pastry, double crust, retail",AS,Tr,,,,,,1.3,1.1,100g
+11-922,"Pancakes (served with crispy duck), pancakes only, takeaway",AT,Tr,,,,,,Tr,0.1,100g
+11-923,"Bread, white, crusty bloomer, unsliced, fresh, large",AF,Tr,,,,,,0.2,Tr,100g
+11-925,"Tortilla, wheat, soft",AF,0,,,,,,0.4,Tr,100g
+11-936,"Pizza, cheese and tomato, retail",A,Tr,,,,,,0.9,0.8,100g
+11-937,"Bread, garlic and herb, retail",AF,Tr,,,,,,0.2,0.1,100g
+11-938,"Breakfast cereal, crunchy clusters type, without nuts, unfortified",AI,0,,,,,,3.8,3.6,100g
+11-939,"Breakfast cereal, crunchy/crispy muesli type cereal, with nuts, unfortified",AI,0,,,,,,1.6,1.4,100g
+11-940,Rusks,AK,Tr,,,,,,1.4,2.3,100g
+11-941,"Noodles, egg, fine, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-942,"Noodles, egg, thick, dried, boiled in unsalted water",AD,0,,,,,,Tr,Tr,100g
+11-947,"Bread, seeded",AF,0,,,,,,N,N,100g
+11-948,"Currant buns, toasted",AP,Tr,,,,,,7.8,9.1,100g
+11-951,"Bannocks, made with wheat flour, homemade",AF,2,,,,,,Tr,Tr,100g
+11-952,"Biscuits, gingernut, homemade",AM,0.1,,,,,,8.2,8.2,100g
+11-954,"Macaroni cheese, homemade",AD,2.4,,,,,,0,0,100g
+11-955,"Sandwich, white bread, bacon, lettuce and tomato",AB,Tr,,,,,,0.4,0.2,100g
+11-956,"Cake, sponge, homemade",AN,0.2,,,,,,Tr,Tr,100g
+11-957,"Cake, sponge, fatless, homemade",AN,0,,,,,,Tr,Tr,100g
+11-958,"Scones, plain, homemade",AP,1.8,,,,,,Tr,Tr,100g
+11-959,"Pancakes, savoury, made with semi-skimmed milk, homemade",AT,3.7,,,,,,Tr,Tr,100g
+11-960,"Yorkshire pudding, made with semi-skimmed milk, homemade",AT,3.3,,,,,,Tr,Tr,100g
+11-961,"Pastry, wholemeal, cooked, homemade",AO,0.2,,,,,,Tr,Tr,100g
+11-962,"Dumplings, homemade",AT,0,,,,,,0,0,100g
+11-963,"Sandwich, white bread, cheddar cheese and pickle",AB,Tr,,,,,,1.1,0.9,100g
+11-964,"Sandwich, white bread, chicken salad",AB,0,,,,,,0.4,0.2,100g
+11-965,"Sandwich, white bread, ham salad",AB,Tr,,,,,,0.4,0.2,100g
+11-966,"Sandwich, white bread, egg mayonnaise",AB,0,,,,,,0.1,0,100g
+11-967,"Sandwich, white bread, tuna mayonnaise",AB,Tr,,,,,,0.1,0,100g
+11-968,"Rice, pilau, plain, homemade",AC,0,,,,,,0.2,0.3,100g
+11-969,"Bread, ciabatta",AF,0,,,,,,0.1,Tr,100g
+11-970,"Bagels, plain",AP,0,,,,,,1,0.8,100g
+11-971,"Bread, brown, average",AF,0,,,,,,0.3,Tr,100g
+11-972,"Bread, malted wheat",AF,0,,,,,,0.3,0.1,100g
+11-973,"Bread, naan, retail",AF,0.4,,,,,,0.8,0.7,100g
+11-974,"Bread, pitta, white",AF,0,,,,,,0.5,0.5,100g
+11-975,"Bread, wheatgerm",AF,0,,,,,,0.6,0.2,100g
+11-976,"Bread, white, Danish style",AF,0,,,,,,0.2,0.1,100g
+11-977,"Bread, white, farmhouse or split tin",AF,0,,,,,,0.2,Tr,100g
+11-978,"Bread, white, French stick",AF,0,,,,,,0.2,Tr,100g
+11-979,"Bread, white, premium",AF,0,,,,,,0.2,Tr,100g
+11-980,"Bread, white, sliced",AF,0,,,,,,0.2,Tr,100g
+11-981,"Bread, wholemeal, average",AF,0,,,,,,0.4,0.2,100g
+11-982,"Bread, wholemeal, toasted",AF,0,,,,,,0.5,0.2,100g
+11-983,"Bread rolls, brown, soft",AG,0,,,,,,0.4,0.5,100g
+11-984,"Bread rolls, malted wheat",AG,0,,,,,,0.6,0.3,100g
+11-985,"Bread rolls, white, crusty",AG,0,,,,,,0.2,Tr,100g
+11-986,"Bread rolls, wholemeal",AG,0,,,,,,0.5,0.5,100g
+11-987,"Chapatis, made with fat, retail",AF,0,,,,,,N,N,100g
+11-988,Croissants,AG,0.2,,,,,,2,1.2,100g
+11-989,"Crumpets, toasted",AP,0,,,,,,0.3,1.1,100g
+11-990,"Cakes, crispie, homemade",AN,0.1,,,,,,0.4,0.4,100g
+11-991,"Cake, fruit, rich, iced, homemade",AN,0.1,,,,,,11,12.9,100g
+11-992,"Pastry, cheese, shortcrust, homemade",AO,0.2,,,,,,Tr,Tr,100g
+11-993,"Scones, fruit, retail",AP,2.8,,,,,,2.7,3,100g
+11-994,"Crumble, fruit, wholemeal, homemade",AS,Tr,,,,,,1.6,1.3,100g
+11-995,"Quiche, cheese and egg, wholemeal, homemade",CD,1.3,,,,,,Tr,Tr,100g
+11-997,"Cheese and onion rolls, pastry, retail",AT,0.6,,,,,,0.3,0.4,100g
+11-998,"Papadums, takeaway",AF,Tr,,,,,,Tr,Tr,100g
+11-999,"Risotto, plain, homemade",AT,0,,,,,,0.3,0.3,100g
+12-038,"Milk, human, colostrum",BC,6.6,,,,,,0,0,100g
+12-039,"Milk, human, transitional",BC,6.9,,,,,,0,0,100g
+12-112,"Cream, half, fresh",BJC,4.3,,,,,,0,0,100g
+12-132,"Cheese, Caerphilly",BL,0.1,,,,,,0,0,100g
+12-152,"Cheese, Derby",BL,0.1,,,,,,0,0,100g
+12-164,"Cheese, Gruyere",BL,Tr,,,,,,0,0,100g
+12-173,"Cheese, processed, smoked",BL,0.2,,,,,,0,0,100g
+12-174,"Cheese, Quark",BL,4,,,,,,0,0,100g
+12-175,"Cheese, Red Windsor",BL,Tr,,,,,,0,0,100g
+12-176,"Cheese, Ricotta",BL,2,,,,,,0,0,100g
+12-177,"Cheese, Roquefort",BL,Tr,,,,,,0,0,100g
+12-178,"Cheese, Sage Derby",BL,0.1,,,,,,0,0,100g
+12-181,"Cheese, Stilton, white",BL,0.1,,,,,,0,0,100g
+12-184,"Yogurt, whole milk, plain",BNE,4.7,,,,,,0,0,100g
+12-232,"Fruit fool, homemade",BR,0.7,,,,,,0.9,0.8,100g
+12-237,"Jelly, made with water",BR,0,,,,,,1.7,3.5,100g
+12-240,"Jelly, made with skimmed milk",BR,2.2,,,,,,1.7,3.4,100g
+12-307,"Milk, skimmed, pasteurised, average",BAE,4.8,,,,,,0,0,100g
+12-308,"Milk, skimmed, pasteurised, summer",BAE,4.4,,,,,,0,0,100g
+12-309,"Milk, skimmed, pasteurised, winter",BAE,4.2,,,,,,0,0,100g
+12-313,"Milk, semi-skimmed, pasteurised, average",BAH,4.7,,,,,,0,0,100g
+12-314,"Milk, semi-skimmed, UHT",BAH,4.9,,,,,,0,0,100g
+12-320,"Milk, whole, UHT",BAK,4.8,,,,,,0,0,100g
+12-321,"Milk, Channel Islands, whole, pasteurised",BAB,4.3,,,,,,0,0,100g
+12-322,"Milk, Channel islands, whole, summer",BAB,4.1,,,,,,0,0,100g
+12-323,"Milk, Channel islands, whole, winter",BAB,4.4,,,,,,0,0,100g
+12-324,"Milk, evaporated, light",BAR,10.3,,,,,,0,0,100g
+12-326,"Milk, flavoured, pasteurised, strawberry, banana",BAR,4.9,,,,,,Tr,Tr,100g
+12-327,"Milkshake, thick, takeaway",BAR,4.5,,,,,,4.2,0.3,100g
+12-328,"Milk, goats, pasteurised",BC,4.4,,,,,,0,0,100g
+12-329,"Milk, sheeps, raw",BC,5.1,,,,,,0,0,100g
+12-332,"Cream, fresh, single",BJC,2.2,,,,,,0,0,100g
+12-333,"Cream, fresh, whipping",BJC,2.7,,,,,,0,0,100g
+12-334,"Cream, fresh, double, including Jersey cream",BJC,1.7,,,,,,0,0,100g
+12-335,"Creme fraiche, full fat",BJC,2.1,,,,,,0,0,100g
+12-336,"Creme fraiche, half fat",BJC,3,,,,,,0,0,100g
+12-337,"Cream, dairy, extra thick (24% fat)",BJC,3.4,,,,,,0,0,100g
+12-338,"Cream, dairy, UHT, canned spray, 85% cream",BJP,3.3,,,,,,0,0,100g
+12-339,"Cream, dairy, UHT, half fat, canned spray",BJP,3.6,,,,,,0,0,100g
+12-342,"Cream substitute, double",BJS,3.6,,,,,,0,0,100g
+12-344,"Cheese, Brie, with outer rind removed",BL,Tr,,,,,,0,0,100g
+12-345,"Cheese, Camembert",BL,Tr,,,,,,0,0,100g
+12-346,"Cheese, Cheddar, English",BL,0.1,,,,,,0,0,100g
+12-348,"Cheese, Cheddar type, half fat",BL,Tr,,,,,,0,0,100g
+12-354,"Cheese, Danish blue",BL,Tr,,,,,,0,0,100g
+12-355,"Cheese, Edam",BL,Tr,,,,,,0,0,100g
+12-357,"Cheese, goats milk, full fat, soft, white rind",BL,0.9,,,,,,0,0,100g
+12-358,"Cheese, Gouda",BL,Tr,,,,,,0,0,100g
+12-360,"Cheese, Mozzarella, fresh",BL,Tr,,,,,,0,0,100g
+12-367,"Cheese, Stilton, blue",BL,0.1,,,,,,0,0,100g
+12-368,"Cheese, white, average",BL,0.1,,,,,,0,0,100g
+12-372,"Fromage frais, virtually fat free, fruit",BN,2.9,,,,,,0.9,0.7,100g
+12-373,"Lassi, sweetened",BN,8.6,,,,,,0.1,0.1,100g
+12-375,"Yogurt, whole milk, fruit",BN,4,,,,,,2.2,3.3,100g
+12-377,"Yogurt, Greek style, fruit",BN,4,,,,,,1,Tr,100g
+12-379,"Yogurt, low fat, plain",BN,4.6,,,,,,0,0,100g
+12-380,"Yogurt, low fat, fruit",BN,4.4,,,,,,1,Tr,100g
+12-384,"Ice cream bars/choc ices, non-dairy, with chocolate flavoured coating",BP,4.7,,,,,,Tr,0.3,100g
+12-385,"Ice cream desserts, frozen",BP,4.1,,,,,,Tr,0.5,100g
+12-389,"Lollies, with real fruit juice",BP,0,,,,,,0.9,1,100g
+12-390,"Lollies, containing ice-cream",BP,5,,,,,,0.4,2.9,100g
+12-393,"Sorbet, fruit",BP,0,,,,,,1.6,3.6,100g
+12-394,"Pie, banoffee",BR,2.4,,,,,,1.3,1.4,100g
+12-395,"Cheesecake, fruit, frozen",BR,1.3,,,,,,1.6,1.8,100g
+12-397,"Creme caramel, retail",BR,3.5,,,,,,1.3,2.3,100g
+12-398,"Desserts, dairy, chocolate",BR,5.4,,,,,,0.2,0.4,100g
+12-401,"Mousse, chocolate, low fat",BR,5.7,,,,,,6.3,Tr,100g
+12-402,"Mousse, fruit",BR,3.7,,,,,,2.9,3.1,100g
+12-405,"Profiteroles with sauce, frozen",BR,1.5,,,,,,0.8,1.8,100g
+12-408,"Torte, fruit",BR,1.8,,,,,,0.6,1.3,100g
+12-409,"Trifle, fruit, retail",BR,2.7,,,,,,4.6,1.8,100g
+12-418,"Milk, semi-skimmed, pasteurised, summer and autumn",BAH,4.5,,,,,,0,0,100g
+12-419,"Milk, semi-skimmed, pasteurised, winter and spring",BAH,4.9,,,,,,0,0,100g
+12-461,"Tarts, custard, individual",BR,Tr,,,,,,Tr,0.9,100g
+12-467,"Sambar, homemade",DR,0,,,,,,0.3,0.3,100g
+12-468,"Urad dahl, homemade",DR,0,,,,,,0.3,0.2,100g
+12-472,"Pilau, vegetable, homemade",DR,0,,,,,,0.3,Tr,100g
+12-475,"Pavlova, toffee/chocolate, no fruit",BR,1.1,,,,,,0.8,2.1,100g
+12-476,Tiramisu,BR,1.5,,,,,,1.4,2.3,100g
+12-482,"Ice cream, virtually fat free alternative",BP,5.5,,,,,,Tr,1.9,100g
+12-485,"Cheese, Red Leicester",BL,0.1,,,,,,0,0,100g
+12-486,"Cheese, White Cheshire",BL,0.1,,,,,,0,0,100g
+12-487,"Cheese, Double Gloucester",BL,0.1,,,,,,0,0,100g
+12-488,"Cheese, Lancashire",BL,0.1,,,,,,0,0,100g
+12-489,"Cheese, Wensleydale",BL,0.1,,,,,,0,0,100g
+12-490,"Cheese, Mascarpone",BL,4.3,,,,,,0,0,100g
+12-491,"Cheese, Brie, rind only",BL,,,,,,,,,100g
+12-492,"Cheese, Port Salut, St Paulin type",BL,Tr,,,,,,0,0,100g
+12-493,"Cheese, Emmental",BL,Tr,,,,,,0,0,100g
+12-494,"Cheese, Dolcelatte, rind removed",BL,Tr,,,,,,0,0,100g
+12-495,"Cheese, Paneer",BL,0.9,,,,,,0,0,100g
+12-496,"Cheese, Halloumi",BL,1.5,,,,,,0,0,100g
+12-497,"Fat spread, low fat (26-39%), not polyunsaturated, including dairy type",OA,0.4,,,,,,0,0,100g
+12-498,"Fat spread, low fat (26-39%), not polyunsaturated, with olive oil",OA,0.5,,,,,,0,0,100g
+12-499,"Fat spread, low fat (26-39%), polyunsaturated",OA,1.3,,,,,,0,0,100g
+12-500,"Baking fat and margarine (75-90% fat), hard block",BTM,0,,,,,,0,0,100g
+12-501,"Cooking fat, compound, not polyunsaturated",BTM,0,,,,,,0,0,100g
+12-502,Ghee made from vegetable oil,BTM,0,,,,,,0,0,100g
+12-503,"Fat spread, reduced fat (41-62%), polyunsaturated",OA,Tr,,,,,,0,0,100g
+12-504,"Fat spread, reduced fat (41-62%), not polyunsaturated",OA,1.3,,,,,,0,0,100g
+12-505,"Fat spread, reduced fat (41-62%), not polyunsaturated, with olive oil",OA,1.1,,,,,,0,0,100g
+12-506,"Fat spread, reduced fat (62-75%), not polyunsaturated",OA,Tr,,,,,,0,0,100g
+12-507,Cornetto type ice cream cone,BP,3.3,,,,,,1.5,2,100g
+12-508,"Ice cream, dairy, vanilla, soft scoop",BP,5.1,,,,,,0.9,2.7,100g
+12-509,"Ice cream, non dairy, vanilla, soft scoop",BP,5.3,,,,,,0.8,5,100g
+12-510,"Ice cream bars/choc ices, chocolate coated, luxury",BP,6.2,,,,,,1.5,1.4,100g
+12-511,"Ice cream, dairy, luxury, with chocolate/caramel",BP,3.8,,,,,,1.2,1.2,100g
+12-512,"Milk, 1% fat, pasteurised",BA,4.8,,,,,,0,0,100g
+12-513,"Milk drink, fermented, with probiotics",BH,N,,,,,,N,N,100g
+12-514,"Pudding, rice, homemade, with semi-skimmed milk",BR,4.9,,,,,,Tr,Tr,100g
+12-515,"Yogurt, whole milk, twin pot, not fruit",BN,N,,,,,,N,N,100g
+12-516,"Jelly, sugar free, made with water",BR,0,,,,,,0,0,100g
+12-517,"Meringue, homemade",BR,0,,,,,,0,Tr,100g
+12-518,Chocolate nut sundae,BP,2.8,,,,,,8.8,9.7,100g
+12-519,"Custard, made up with semi-skimmed milk",BR,5.4,,,,,,0,Tr,100g
+12-520,"Milk, condensed, whole, sweetened",BAR,12.3,,,,,,0,0,100g
+12-521,"Milk, skimmed, dried, fortified",BAR,52.9,,,,,,0,0,100g
+12-522,"Milk, evaporated, whole",BAR,12.7,,,,,,0,0,100g
+12-523,"Milk, soya, non-dairy alternative to milk, sweetened, fortified",BC,0,,,,,,1.2,0.3,100g
+12-524,"Milk, soya, non-dairy alternative to milk, unsweetened, fortified",BC,0,,,,,,0,0,100g
+12-525,"Cheese, Feta",BL,1.4,,,,,,0,0,100g
+12-526,"Cheese, Parmesan, fresh",BL,0.9,,,,,,0,0,100g
+12-527,"Cheese, processed, plain",BL,5,,,,,,0,0,100g
+12-528,"Fromage frais, virtually fat free, natural",BN,4.1,,,,,,0,0.2,100g
+12-530,"Yogurt, whole milk, infant, fruit flavour",BN,3.6,,,,,,1.5,Tr,100g
+12-531,"Yogurt, whole milk, twin pot, thick and creamy with fruit",BN,3.5,,,,,,2.2,2.3,100g
+12-532,"Yogurt, virtually fat free/diet, fruit",BN,4.4,,,,,,0.5,1.3,100g
+12-533,"Yogurt, virtually fat free/diet, plain",BN,4.6,,,,,,Tr,1.6,100g
+12-534,"Fromage frais, fruit, children's, fortified",BNS,N,,,,,,N,N,100g
+12-535,"Milk, flavoured, pasteurised, chocolate",BAR,5.5,,,,,,1.7,Tr,100g
+12-536,"Milk, human, mature",BC,7.2,,,,,,0,0,100g
+12-537,"Cheese spread, plain, reduced fat",BL,7.3,,,,,,0,0,100g
+12-538,"Cheese, spreadable, medium fat, soft, white",BL,3.5,,,,,,0,0,100g
+12-539,"Cheese, cottage, plain",BL,3.1,,,,,,0,0,100g
+12-540,"Cheese spread, plain",BL,6.5,,,,,,0,0,100g
+12-541,"Cheese, spreadable, soft white, low fat",BL,5,,,,,,0,0,100g
+12-542,"Cheesecake, fruit, individual",BR,2.6,,,,,,2,2.3,100g
+12-543,"Custard, ready to eat, canned and tetra-pak",BR,4.6,,,,,,Tr,Tr,100g
+12-544,"Cream substitute, single",BJS,4,,,,,,0,0,100g
+12-545,Cocoa powder,BH,0,,,,,,0,0,100g
+12-546,"Coffeemate, whitener powder",BAR,Tr,,,,,,0,5,100g
+12-547,Tzatziki,BN,1.9,,,,,,0.3,0.4,100g
+12-548,"Cheese, Cheddar type, '30% less fat'",BL,0.1,,,,,,0,0,100g
+12-549,"Cheese, processed, slices, reduced fat",BL,7.6,,,,,,0,0,100g
+12-550,"Cheese, cottage, plain, reduced fat",BL,3.3,,,,,,0,0,100g
+12-551,"Cheese, spreadable, full fat, soft, white",BL,3,,,,,,0,0,100g
+12-552,"Pavlova, with fruit and cream",BR,0.9,,,,,,1.7,2.5,100g
+12-553,"Pudding, rice, canned, low fat",BR,3.9,,,,,,Tr,Tr,100g
+12-554,"Milk, skimmed, UHT",BAE,4.9,,,,,,0,0,100g
+12-555,"Yogurt, Greek style, plain",BN,3.5,,,,,,Tr,0.1,100g
+12-556,"Banana split, homemade",BP,2.6,,,,,,2.3,4.3,100g
+12-557,"Blancmange, homemade",BR,4.4,,,,,,0,Tr,100g
+12-560,"Pie, cheese and potato, homemade",BV,1,,,,,,0.2,0.2,100g
+12-561,"Cheese pudding, homemade",BV,2.8,,,,,,N,N,100g
+12-562,"Cheesecake, homemade",BR,1.6,,,,,,0.1,0,100g
+12-563,"Cocoa powder, made up with semi-skimmed milk",BH,4.5,,,,,,0,0,100g
+12-564,"Cocoa powder, made up with skimmed milk",BH,4.6,,,,,,0,0,100g
+12-565,"Cocoa powder, made up with whole milk",BH,4.4,,,,,,0,0,100g
+12-566,"Complan powder, savoury, made up with water",BH,0.2,,,,,,0,0.4,100g
+12-567,"Complan powder, sweet, made up with water",BH,7.8,,,,,,0,0.1,100g
+12-568,"Complan powder, sweet, made up with semi-skimmed milk",BH,11.3,,,,,,0,0.1,100g
+12-569,"Complan powder, sweet, made up with skimmed milk",BH,11.3,,,,,,0,0.1,100g
+12-570,"Complan powder, sweet, made up with whole milk",BH,11.2,,,,,,0,0.1,100g
+12-571,"Crème caramel, homemade",BR,2.4,,,,,,0,Tr,100g
+12-572,"Custard, confectioners'",BR,3.6,,,,,,Tr,Tr,100g
+12-573,"Custard, egg",BR,4.7,,,,,,0,Tr,100g
+12-574,"Custard, made up with skimmed milk",BR,5.5,,,,,,0,Tr,100g
+12-575,"Custard, made up with whole milk",BR,5.2,,,,,,0,Tr,100g
+12-580,"Pudding, rice, canned",BR,3.9,,,,,,Tr,Tr,100g
+12-581,"Ice cream with cone, non-dairy, vanilla",BP,5.1,,,,,,0.8,4.8,100g
+12-582,"Ice cream with wafers, non-dairy, vanilla",BP,5.1,,,,,,0.8,4.8,100g
+12-583,"Instant dessert powder, made up with skimmed milk",BR,4.3,,,,,,Tr,Tr,100g
+12-584,"Instant dessert powder, made up with whole milk",BR,4.1,,,,,,Tr,Tr,100g
+12-585,"Meringue, with cream, homemade",BR,1.6,,,,,,0,Tr,100g
+12-589,"Milk shake, powder, made up with semi-skimmed milk",BH,4.4,,,,,,0,0,100g
+12-590,"Milk shake, powder, made up with skimmed milk",BH,4.4,,,,,,0,0,100g
+12-591,"Milk shake, powder, made up with whole milk",BH,4.2,,,,,,0,0,100g
+12-592,"Cream, fresh, clotted",BJC,2.3,,,,,,0,0,100g
+12-593,"Sauce, cheese, packet mix, dry",BV,5.3,,,,,,Tr,Tr,100g
+12-594,"Peach melba, homemade",BP,2.7,,,,,,1.8,3.3,100g
+12-595,"Raita, yogurt and gram flour, homemade",BV,1.8,,,,,,0.7,0.9,100g
+12-596,"Milk, whole, pasteurised, average",BAK,4.6,,,,,,0,0,100g
+12-597,"Milk, whole, pasteurised, winter and spring",BAK,5,,,,,,0,0,100g
+12-598,"Milk, whole, pasteurised, summer and autumn",BAK,4.1,,,,,,0,0,100g
+12-600,"Trifle, homemade",BR,2.2,,,,,,2,2.7,100g
+12-601,"Trifle, with Dream Topping",BR,2.4,,,,,,2,2.7,100g
+12-602,"Welsh rarebit, homemade",BV,0.8,,,,,,0.1,Tr,100g
+12-603,"Welsh rarebit, wholemeal, homemade",BV,0.8,,,,,,0.2,0.1,100g
+12-604,"Cheese, hard, average",BL,0.1,,,,,,0,0,100g
+12-605,"Knickerbocker glory, homemade",BP,2,,,,,,1.2,2.5,100g
+12-606,"Kulfi, homemade",BP,5.2,,,,,,4.4,3.6,100g
+12-607,"Pudding, rice, homemade, with skimmed milk",BR,5,,,,,,Tr,Tr,100g
+12-608,"Pudding, rice, homemade, with whole milk",BR,4.8,,,,,,Tr,Tr,100g
+12-609,"Yogurt, soya, non-dairy alternative to yogurt, fruit, fortified",BN,0,,,,,,1.7,2.3,100g
+12-814,"Eggs, duck, boiled and salted",CA,0,,,,,,0,Tr,100g
+12-815,"Eggs, quail, whole, raw",CA,0,,,,,,0,Tr,100g
+12-816,"Eggs, turkey, whole, raw",CA,0,,,,,,0,Tr,100g
+12-904,"Yogurt, low fat, hazelnut",BNH,5.1,,,,,,0.8,Tr,100g
+12-905,"Yogurt, low fat, toffee",BNH,5.6,,,,,,0.5,Tr,100g
+12-920,"Eggs, duck, whole, raw",CA,0,,,,,,0,Tr,100g
+12-936,"Quiche, Lorraine, shortcrust pastry, retail",CD,1.5,,,,,,0.3,0.4,100g
+12-937,"Eggs, chicken, whole, raw",CA,0,,,,,,0,Tr,100g
+12-938,"Eggs, chicken, white, raw",CA,0,,,,,,0,Tr,100g
+12-939,"Eggs, chicken, yolk, raw",CA,0,,,,,,0,Tr,100g
+12-940,"Eggs, chicken, whole, boiled",CA,0,,,,,,0,Tr,100g
+12-941,"Eggs, chicken, white, boiled",CA,0,,,,,,0,Tr,100g
+12-942,"Eggs, chicken, yolk, boiled",CA,0,,,,,,0,Tr,100g
+12-943,"Eggs, chicken, whole, poached",CA,0,,,,,,0,Tr,100g
+12-944,"Eggs, chicken, whole, fried in sunflower oil",CA,0,,,,,,0,Tr,100g
+12-945,"Eggs, chicken, scrambled, with semi-skimmed milk",CD,0.7,,,,,,Tr,Tr,100g
+12-946,"Omelette, plain, homemade",CD,0,,,,,,0,Tr,100g
+12-947,"Omelette, cheese, homemade",CD,Tr,,,,,,0,Tr,100g
+12-948,"Quiche, cheese and egg, homemade",CD,1.3,,,,,,Tr,0.1,100g
+12-949,"Quiche, vegetable, retail",CD,1.8,,,,,,0.4,0.6,100g
+12-950,Egg fu yung,CDE,0,,,,,,0.6,0.6,100g
+12-951,"Macaroon, homemade",CDH,0,,,,,,Tr,Tr,100g
+12-952,"Quiche, Lorraine, homemade",CD,1.9,,,,,,Tr,0.1,100g
+12-953,"Quiche, Lorraine, wholemeal pastry, homemade",CD,1.9,,,,,,Tr,Tr,100g
+12-954,"Quiche, mushroom, homemade",CD,0.9,,,,,,0.1,0.1,100g
+12-955,"Quiche, mushroom, wholemeal, homemade",CD,1,,,,,,0.1,Tr,100g
+12-956,"Omelette, curried, homemade",CDE,0.2,,,,,,0.3,0.5,100g
+12-957,"Omelette, Spanish, homemade",CD,0,,,,,,1.1,1.1,100g
+12-958,"Souffle, cheese, homemade",CD,2.1,,,,,,Tr,Tr,100g
+12-959,"Souffle, plain, homemade",CD,2.4,,,,,,Tr,Tr,100g
+12-960,"Eggs, chicken, white, dried",CA,0,,,,,,Tr,Tr,100g
+12-961,"Eggs, chicken, whole, dried",CA,0,,,,,,0,Tr,100g
+12-962,"Eggs, chicken, whole, fried, without fat",CA,0,,,,,,0,Tr,100g
+12-963,"Eggs, chicken, whole, scrambled, without milk",CA,0,,,,,,0,Tr,100g
+13-024,"Potato chips, crinkle cut, frozen, fried in corn oil",DAP,0,,,,,,0.2,0.2,100g
+13-025,"Potato chips, straight cut, frozen, fried in corn oil",DAP,0,,,,,,0.2,0.2,100g
+13-026,"Potato chips, fine cut, frozen, fried in corn oil",DAP,0,,,,,,0.2,0.2,100g
+13-027,"Potato chips, thick cut, frozen, fried in corn oil",DAP,0,,,,,,0.2,0.2,100g
+13-038,"Potato croquettes, fried in blended oil",DAR,0,,,,,,0.3,0.2,100g
+13-041,"Beans, aduki, whole, dried, raw",DB,0,,,,,,Tr,0.1,100g
+13-042,"Beans, aduki, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-049,"Beans, balor, ends trimmed, raw",DB,0,,,,,,N,N,100g
+13-056,"Black gram, urad gram, whole, dried, raw",DB,0,,,,,,0.1,0.1,100g
+13-057,"Black gram, urad gram, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-058,"Black gram, chilki urad dahl, split, dried, raw",DB,0,,,,,,0.1,0.1,100g
+13-059,"Black gram, chilki urad dahl, dried, split, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-060,"Black gram, duhli urad dahl, split, dried, raw",DB,0,,,,,,0.1,0.1,100g
+13-061,"Black gram, duhli urad dahl, split, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-062,"Beans, blackeye, whole, dried, raw",DB,0,,,,,,0.1,0.2,100g
+13-063,"Beans, blackeye, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,0.1,100g
+13-064,"Beans, broad, whole, raw",DB,0,,,,,,0.3,0.1,100g
+13-067,"Beans, broad, dried, raw",DB,0,,,,,,1.5,0.6,100g
+13-070,"Beans, butter, dried, raw",DB,0,,,,,,Tr,Tr,100g
+13-074,"Beans, chick peas, Kabuli, whole, dried, raw",DB,0,,,,,,0.2,Tr,100g
+13-076,"Beans, chick peas, Kabuli, split, dried, raw",DB,0,,,,,,0.2,Tr,100g
+13-077,"Beans, chick peas, Kabuli, split, dried, boiled in unsalted water",DB,0,,,,,,0.1,Tr,100g
+13-080,"Beans, cluster, raw",DB,0,,,,,,N,N,100g
+13-086,"Beans, haricot, whole, dried, raw",DB,0,,,,,,0.1,0.2,100g
+13-087,"Beans, haricot, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,0.1,100g
+13-089,"Lentils, green and brown, whole, dried, raw",DB,0,,,,,,0.1,Tr,100g
+13-096,"Beans, mung, whole, dried, raw",DB,0,,,,,,0.3,0.2,100g
+13-098,"Beans, mung, dahl, dried, raw",DB,0,,,,,,0.3,0.2,100g
+13-099,"Beans, mung, dahl, dried, boiled in unsalted water",DB,0,,,,,,0.1,0.1,100g
+13-100,"Beans, papri, raw",DB,0,,,,,,N,N,100g
+13-102,"Beans, pigeon peas, whole, dried, raw",DB,0,,,,,,0.2,0.1,100g
+13-103,"Beans, pigeon peas, whole, dried, boiled in unsalted water",DB,0,,,,,,0.1,Tr,100g
+13-104,"Beans, pigeon peas, dahl, dried, raw",DB,0,,,,,,0.2,0.1,100g
+13-105,"Beans, pigeon peas, dahl, dried, boiled in unsalted water",DB,0,,,,,,0.1,Tr,100g
+13-106,"Beans, pinto, dried, raw",DB,0,,,,,,N,N,100g
+13-107,"Beans, pinto, dried, boiled in unsalted water",DB,0,,,,,,N,N,100g
+13-108,"Beans, pinto, re-fried beans",DB,0,,,,,,N,N,100g
+13-109,"Beans, red kidney, dried, raw",DB,0,,,,,,0.1,0.2,100g
+13-112,"Beans, runner, raw",DB,0,,,,,,1.3,0.9,100g
+13-115,"Beans, soya, dried, raw",DB,0,,,,,,0.5,0.2,100g
+13-116,"Beans, soya, dried, boiled in unsalted water",DB,0,,,,,,0.2,0.1,100g
+13-117,"Beans, sword, raw",DB,0,,,,,,N,N,100g
+13-118,Tempeh,DB,0,,,,,,Tr,Tr,100g
+13-122,"Peas, mange-tout, raw",DF,0,,,,,,0.3,2.6,100g
+13-130,"Peas, dried, raw",DF,0,,,,,,0.1,0.1,100g
+13-131,"Peas, dried, boiled in unsalted water",DF,0,,,,,,Tr,Tr,100g
+13-141,"Peas, split, dried, raw",DF,0,,,,,,0.1,0.1,100g
+13-142,"Peas, split, dried, boiled in unsalted water",DF,0,,,,,,Tr,Tr,100g
+13-143,"Peas, sugar-snap, raw",DF,0,,,,,,0.4,2.4,100g
+13-145,"Ackee, canned, drained",DG,0,,,,,,Tr,0.1,100g
+13-146,"Agar, dried",DG,0,,,,,,0,0,100g
+13-147,"Agar, dried, soaked and drained",DG,0,,,,,,0,0,100g
+13-148,"Alfalfa sprouts, raw",DG,0,,,,,,0.2,0.1,100g
+13-149,"Amaranth leaves, raw",DG,0,,,,,,0.2,Tr,100g
+13-150,"Amaranth leaves, boiled in unsalted water",DG,0,,,,,,0.2,Tr,100g
+13-151,"Arrowhead, raw",DG,0,,,,,,N,N,100g
+13-152,"Arrowhead, boiled in unsalted water",DG,0,,,,,,N,N,100g
+13-153,"Artichoke, globe, raw",DG,0,,,,,,0.4,0.8,100g
+13-154,"Artichoke, globe, boiled, weighed as served",DG,0,,,,,,0.2,0.3,100g
+13-155,"Artichoke, globe, base of leaves and heart, boiled in unsalted water",DG,0,,,,,,0.4,0.8,100g
+13-156,"Artichoke, Jerusalem, boiled in unsalted water, flesh only",DG,0,,,,,,0.2,0.1,100g
+13-157,"Asparagus, raw",DG,0,,,,,,1.1,0.7,100g
+13-161,"Aubergine, raw",DG,0,,,,,,0.8,1.1,100g
+13-162,"Aubergine, fried in corn oil",DG,0,,,,,,1.1,1.4,100g
+13-164,"Beetroot, raw",DG,0,,,,,,0.1,0.2,100g
+13-166,"Beetroot, pickled, drained",DG,0,,,,,,0.6,0.6,100g
+13-167,"Breadfruit, raw",DG,0,,,,,,N,N,100g
+13-168,"Breadfruit, boiled in unsalted water",DG,0,,,,,,N,N,100g
+13-174,"Broccoli, purple sprouting, raw",DG,0,,,,,,1.1,0.7,100g
+13-176,"Broccoli, purple sprouting, boiled in unsalted water",DG,0,,,,,,0.5,0.3,100g
+13-177,"Brussels sprouts, raw",DG,0,,,,,,1.3,1.1,100g
+13-187,"Cabbage, Chinese, raw",DG,0,,,,,,0.6,0.8,100g
+13-190,"Cabbage, red, raw",DG,0,,,,,,1.4,1.5,100g
+13-208,"Cassava, raw",DG,0,,,,,,0.1,0.2,100g
+13-209,"Cassava, baked",DG,0,,,,,,0.1,0.2,100g
+13-210,"Cassava, boiled in unsalted water",DG,0,,,,,,0.1,0.2,100g
+13-211,"Cassava, steamed",DG,0,,,,,,0.1,0.2,100g
+13-212,"Cassava, frozen, raw",DG,0,,,,,,0.1,0.1,100g
+13-219,"Celeriac, raw",DG,0,,,,,,0.4,0.3,100g
+13-223,"Chard, Swiss, raw",DG,0,,,,,,0.2,0.4,100g
+13-224,"Chard, Swiss, boiled in unsalted water",DG,0,,,,,,0.2,0.2,100g
+13-225,"Chicory, pale variety, raw",DG,0,,,,,,0.4,0.3,100g
+13-227,"Cho cho, raw",DG,0,,,,,,1.7,1.4,100g
+13-228,"Cho cho, boiled in unsalted water",DG,0,,,,,,1.3,1.1,100g
+13-229,"Cole leaves, dried, boiled in unsalted water",DG,0,,,,,,0.4,0.4,100g
+13-232,"Courgette, fried in corn oil",DG,0,,,,,,1.2,1,100g
+13-234,"Curly kale, raw",DG,0,,,,,,0.6,0.6,100g
+13-236,"Drumstick leaves, raw",DG,0,,,,,,N,N,100g
+13-237,"Drumstick leaves, boiled in unsalted water",DG,0,,,,,,N,N,100g
+13-238,"Drumstick pods, raw",DG,0,,,,,,N,N,100g
+13-239,"Drumstick pods, boiled in unsalted water",DG,0,,,,,,N,N,100g
+13-240,"Endive, raw",DG,0,,,,,,0.5,0.4,100g
+13-241,"Fennel, Florence, raw",DG,0,,,,,,0.7,0.9,100g
+13-243,"Fenugreek leaves, raw",DG,0,,,,,,N,N,100g
+13-244,"Garlic, raw",DG,0,,,,,,0.6,0.4,100g
+13-245,"Gherkins, raw",DG,0,,,,,,0.8,0.8,100g
+13-246,"Gherkins, pickled, drained",DG,0,,,,,,0.8,0.5,100g
+13-248,"Gourd, ash, raw",DG,0,,,,,,N,N,100g
+13-249,"Gourd, bottle, raw",DG,0,,,,,,N,N,100g
+13-250,"Gourd, kantola, raw",DG,0,,,,,,N,N,100g
+13-252,"Gourd, karela, raw",DG,0,,,,,,Tr,Tr,100g
+13-254,"Gourd, ridge, raw",DG,0,,,,,,1.6,1.5,100g
+13-255,"Gourd, snake, raw",DG,0,,,,,,N,N,100g
+13-256,"Gourd, tinda, raw",DG,0,,,,,,N,N,100g
+13-258,"Horseradish, raw",DG,0,,,,,,0.1,0.7,100g
+13-259,"Jackfruit, raw",DG,0,,,,,,5.1,4.5,100g
+13-261,"Kohl rabi, raw",DG,0,,,,,,1.3,1.5,100g
+13-271,"Lotus tubers, raw",DG,0,,,,,,N,N,100g
+13-273,"Mango, unripe, green flesh, raw",DG,0,,,,,,2,3.5,100g
+13-274,"Marrow, raw",DG,0,,,,,,1.1,0.8,100g
+13-276,"Marrow, boiled in unsalted water",DG,0,,,,,,0.7,0.5,100g
+13-277,"Marrow, parwal, raw",DG,0,,,,,,N,N,100g
+13-279,"Matoki, raw",DG,0,,,,,,0.1,0.1,100g
+13-288,"Mushrooms, Chinese, dried, raw",DG,0,,,,,,N,N,100g
+13-289,"Mushrooms, Jew's ear, tender, dried, raw",DG,0,,,,,,N,N,100g
+13-290,"Mushrooms, Jew's ear, tender, dried, soaked, raw",DG,0,,,,,,N,N,100g
+13-291,"Mushrooms, Jew's ear, tough, dried, raw",DG,0,,,,,,N,N,100g
+13-292,"Mushrooms, Jew's ear, tough, dried, soaked, raw",DG,0,,,,,,N,N,100g
+13-293,"Mushrooms, oyster, raw",DG,0,,,,,,Tr,Tr,100g
+13-294,"Mushrooms, shiitake, dried, raw",DG,0,,,,,,N,N,100g
+13-295,"Mushrooms, shiitake, cooked",DG,0,,,,,,N,N,100g
+13-297,"Mustard and cress, raw",DG,0,,,,,,N,N,100g
+13-298,"Mustard leaves, raw",DG,0,,,,,,0.3,0.4,100g
+13-299,"Mustard leaves, boiled in unsalted water",DG,0,,,,,,0.2,0.3,100g
+13-300,"Okra, raw",DG,0,,,,,,0.9,0.6,100g
+13-302,"Okra, stir-fried in corn oil",DG,0,,,,,,1.3,0.9,100g
+13-309,"Onions, pickled, drained",DG,0,,,,,,1.4,0.9,100g
+13-311,"Papaya, unripe, green flesh, raw",DG,0,,,,,,N,N,100g
+13-312,"Parsnip, raw",DG,0,,,,,,0.5,0.8,100g
+13-315,"Patra leaves, raw",DG,0,,,,,,N,N,100g
+13-316,"Peppers, capsicum, chilli, green, raw",DG,0,,,,,,0.2,0.4,100g
+13-317,"Peppers, capsicum, chilli, red, raw",DG,0,,,,,,2.3,1.9,100g
+13-318,"Peppers, capsicum, green, raw",DG,0,,,,,,1.4,1,100g
+13-323,"Plantain, green flesh, raw",DG,0,,,,,,0.9,0.8,100g
+13-324,"Plantain, boiled in unsalted water, flesh only",DG,0,,,,,,0.9,0.8,100g
+13-326,"Pumpkin, flesh only, raw",DG,0,,,,,,0.6,0.7,100g
+13-329,"Raddiccio, raw",DG,0,,,,,,1.2,0.5,100g
+13-331,"Radish, white/mooli, raw",DG,0,,,,,,1.3,1.4,100g
+13-332,"Radish leaves, raw",DG,0,,,,,,N,N,100g
+13-333,"Rape leaves, raw",DG,0,,,,,,N,N,100g
+13-334,"Salsify, flesh only, raw",DG,0,,,,,,0.1,Tr,100g
+13-336,Sauerkraut,DR,0,,,,,,0.3,0.7,100g
+13-337,"Seakale, stem only, boiled in unsalted water",DG,0,,,,,,N,N,100g
+13-338,"Seaweed, Irish moss, raw",DG,0,,,,,,Tr,Tr,100g
+13-339,"Seaweed, kombu, dried, raw",DG,0,,,,,,Tr,Tr,100g
+13-340,"Seaweed, nori, dried, raw",DG,0,,,,,,Tr,Tr,100g
+13-341,"Seaweed, wakame, dried, raw",DG,0,,,,,,Tr,Tr,100g
+13-342,"Shallots, raw",DG,0,,,,,,1,1.2,100g
+13-348,"Spring greens, raw",DG,0,,,,,,1.2,1.3,100g
+13-350,"Spring greens, boiled in unsalted water",DG,0,,,,,,0.6,0.7,100g
+13-351,"Spring onions, bulbs only, raw",DG,0,,,,,,N,N,100g
+13-352,"Spring onions, bulbs and tops, raw",DG,0,,,,,,1.4,1.2,100g
+13-353,"Squash, acorn, raw",DG,0,,,,,,0.6,0.3,100g
+13-354,"Squash, acorn, baked",DG,0,,,,,,0.9,0.5,100g
+13-355,"Squash, butternut, raw",DG,0,,,,,,1.5,1.5,100g
+13-357,"Squash, spaghetti, raw",DG,0,,,,,,1.3,1.5,100g
+13-358,"Squash, spaghetti, baked",DG,0,,,,,,1.2,1.4,100g
+13-359,"Swede, flesh only, raw",DG,0,,,,,,2,2.7,100g
+13-375,"Tannia, raw",DG,0,,,,,,0.1,0.1,100g
+13-376,"Taro, raw",DG,0,,,,,,0.2,0.2,100g
+13-377,"Taro, baked",DG,0,,,,,,0.2,0.2,100g
+13-378,"Taro, boiled in unsalted water",DG,0,,,,,,0.2,0.2,100g
+13-379,"Taro, steamed",DG,0,,,,,,0.2,0.2,100g
+13-380,"Taro leaves, raw",DG,0,,,,,,N,N,100g
+13-381,"Taro leaves, steamed",DG,0,,,,,,N,N,100g
+13-382,Tomato juice,PE,0,,,,,,1.6,1.4,100g
+13-389,"Turnip, flesh only, raw",DG,0,,,,,,1.7,2.3,100g
+13-391,"Turnip, boiled in unsalted water",DG,0,,,,,,0.7,0.9,100g
+13-392,"Turnip tops, boiled in unsalted water",DG,0,,,,,,Tr,0.1,100g
+13-394,"Water chestnuts, raw",DG,0,,,,,,N,N,100g
+13-397,"Yam, flesh only, raw",DG,0,,,,,,0.1,0.2,100g
+13-398,"Yam, baked",DG,0,,,,,,0.1,0.3,100g
+13-401,"Yam, steamed",DG,0,,,,,,0.1,0.2,100g
+13-412,"Aubergine, fried in butter",DG,0,,,,,,1.1,1.4,100g
+13-414,"Courgette, fried in butter",DG,0,,,,,,1.2,1,100g
+13-426,"Beansprouts, mung, raw",DB,0,,,,,,1.1,1.1,100g
+13-438,"Peas, raw",DF,0,,,,,,0.1,0.1,100g
+13-439,"Peas, boiled in unsalted water",DF,0,,,,,,Tr,Tr,100g
+13-448,"Carrots, young, raw",DG,0,,,,,,1.5,1.7,100g
+13-449,"Carrots, young, boiled in unsalted water",DG,0,,,,,,1.1,1.3,100g
+13-458,"Spinach, frozen, boiled in unsalted water",DG,0,,,,,,Tr,0.1,100g
+13-463,"Sweet potato, raw, flesh only",DG,0,,,,,,0.6,0.7,100g
+13-483,"Potato wedges, retail, cooked",DAR,0,,,,,,0.2,0.2,100g
+13-484,"Dahl, mixed, homemade",DB,0,,,,,,0.2,Tr,100g
+13-485,"Potato chips, fried in commercial oil, from takeaway fish and chip shops",DAP,Tr,,,,,,0.1,0.1,100g
+13-486,"Potato chips, fine cut, from fast food outlets",DAP,Tr,,,,,,Tr,Tr,100g
+13-487,"Potato chips, oven ready, no batter, baked",DAP,Tr,,,,,,0.3,0.4,100g
+13-488,"Potato chips, oven ready, with batter, baked",DAP,Tr,,,,,,Tr,0.1,100g
+13-489,"Potatoes, old, raw, flesh only",DAM,0,,,,,,0.4,0.5,100g
+13-490,"Potatoes, old, boiled in unsalted water, flesh only",DAM,0,,,,,,0.3,0.3,100g
+13-491,"Potatoes, old, baked, flesh and skin",DAM,0,,,,,,0.5,0.6,100g
+13-492,"Potatoes, old, roasted in sunflower oil, flesh only",DAM,0,,,,,,0.5,0.7,100g
+13-493,"Potatoes, old, wedges, with skin, homemade, cooked in rapeseed oil",DAM,0,,,,,,0.6,0.7,100g
+13-494,"Potatoes, old, microwaved, flesh and skin",DAM,0,,,,,,0.8,0.9,100g
+13-495,"Potatoes, new and salad, boiled in unsalted water, flesh and skin",DAE,0,,,,,,0.4,0.5,100g
+13-496,"Carrots, old, raw",DG,0,,,,,,1.1,1.1,100g
+13-497,"Carrots, old, boiled in unsalted water",DG,0,,,,,,0.7,0.9,100g
+13-498,"Carrots, old, microwaved",DG,0,,,,,,1.1,1.1,100g
+13-499,"Onions, raw",DG,0,,,,,,1.8,2.3,100g
+13-500,"Onions, boiled in unsalted water",DG,0,,,,,,1.2,1.6,100g
+13-501,"Onions, fried in sunflower oil",DG,0,,,,,,2.5,3.2,100g
+13-502,"Broccoli, green, raw",DG,0,,,,,,1.2,0.7,100g
+13-503,"Broccoli, green, boiled in unsalted water",DG,0,,,,,,0.8,0.8,100g
+13-504,"Broccoli, green, steamed",DG,0,,,,,,0.9,0.8,100g
+13-505,"Mushrooms, white, raw",DG,0,,,,,,0.3,Tr,100g
+13-506,"Mushrooms, white, stewed in unsalted water",DG,0,,,,,,Tr,Tr,100g
+13-507,"Mushrooms, white, fried in rapeseed oil",DG,0,,,,,,0.4,Tr,100g
+13-508,"Sweetcorn, kernels, boiled 'on the cob' in unsalted water",DG,0,,,,,,0.1,2.4,100g
+13-509,"Cabbage, white, raw",DG,0,,,,,,2.1,2.4,100g
+13-510,"Cabbage, green, raw",DG,0,,,,,,1.8,2,100g
+13-511,"Cabbage, green, boiled in unsalted water",DG,0,,,,,,0.9,1,100g
+13-512,"Cauliflower, raw",DG,0,,,,,,1.3,1.2,100g
+13-513,"Cauliflower, boiled in unsalted water",DG,0,,,,,,1,0.9,100g
+13-514,"Beans, green, raw",DB,0,,,,,,1.4,0.8,100g
+13-515,"Beans, green, boiled in unsalted water",DB,0,,,,,,1.2,1.3,100g
+13-516,"Pak choi, steamed",DG,0,,,,,,0.6,0.8,100g
+13-517,"Tomatoes, standard, raw",DG,0,,,,,,1.6,1.4,100g
+13-518,"Tomatoes, standard, grilled, flesh and seeds only",DG,0,,,,,,1.8,1.6,100g
+13-519,"Tomatoes, cherry, raw",DG,0,,,,,,2,1.6,100g
+13-520,"Lettuce, average, raw",DG,0,,,,,,0.8,0.6,100g
+13-521,"Spinach, baby, raw",DG,0,,,,,,Tr,Tr,100g
+13-522,"Rocket, raw",DG,0,,,,,,Tr,Tr,100g
+13-523,"Cucumber, raw, flesh and skin",DG,0,,,,,,0.7,0.5,100g
+13-524,"Pepper, capsicum, red, raw",DG,0,,,,,,2.2,2,100g
+13-525,"Pepper, capsicum, red, boiled in unsalted water",DG,0,,,,,,1.9,1.2,100g
+13-526,"Pepper, capsicum, yellow, raw",DG,0,,,,,,2.6,1.8,100g
+13-527,"Peas, frozen, raw",DF,0,,,,,,Tr,Tr,100g
+13-528,"Peas, frozen, microwaved",DF,0,,,,,,Tr,Tr,100g
+13-529,"Sweetcorn kernels, canned in water, drained",DG,0,,,,,,0.1,0.3,100g
+13-530,"Tomatoes, canned, whole contents",DG,0,,,,,,1.9,1.9,100g
+13-531,Tomato puree,DG,0,,,,,,7.4,5.5,100g
+13-532,"Baked beans, canned in tomato sauce",DB,0,,,,,,0.8,0.6,100g
+13-533,"Potato products, shaped, frozen, baked",DA,0,,,,,,Tr,0.2,100g
+13-534,"Potatoes, old, roasted in rapeseed oil",DA,0,,,,,,0.5,0.7,100g
+13-535,"Baked beans, canned in tomato sauce, reduced sugar, reduced salt",DB,0,,,,,,0.8,0.6,100g
+13-536,"Peas, frozen, boiled in unsalted water",DF,0,,,,,,Tr,Tr,100g
+13-537,"Pepper, capsicum, yellow, boiled in unsalted water",DG,0,,,,,,3,2.1,100g
+13-540,"Cabbage, red, boiled in unsalted water",DG,0,,,,,,0.9,0.9,100g
+13-542,"Fennel, Florence, boiled in unsalted water",DG,0,,,,,,0.6,0.7,100g
+13-543,"Vegetables, mixed, frozen, boiled in unsalted water",DG,0,,,,,,0.4,0.4,100g
+13-545,"Mushrooms, white, fried in salted butter",DG,0.1,,,,,,0.4,Tr,100g
+13-546,"Mushrooms, white, fried in corn oil",DG,0,,,,,,0.4,Tr,100g
+13-548,"Peppers, capsicum, green, boiled in unsalted water",DG,0,,,,,,1.4,0.9,100g
+13-549,"Pumpkin, flesh only, boiled in unsalted water",DG,0,,,,,,0.6,0.7,100g
+13-550,"Spinach, baby, boiled in unsalted water",DG,0,,,,,,Tr,Tr,100g
+13-553,"Potatoes, old, mashed with butter",DAM,0.3,,,,,,0.3,0.3,100g
+13-554,"Potatoes, old, mashed with reduced fat spread",DAM,0.3,,,,,,0.3,0.3,100g
+13-555,"Potato chips, homemade, fried in rapeseed oil",DAP,0,,,,,,0.4,0.5,100g
+13-556,Houmous,DB,0,,,,,,0.1,Tr,100g
+13-557,"Potato chips, microwave, cooked",DAP,0,,,,,,0.1,0.2,100g
+13-558,"Potato powder, instant, made up with water",DAR,0.6,,,,,,0.1,0.1,100g
+13-559,"Beans, butter, canned, re-heated, drained",DB,0,,,,,,Tr,Tr,100g
+13-562,"Peas, marrowfat, canned, re-heated, drained",DF,0,,,,,,Tr,Tr,100g
+13-563,"Peas, mushy, canned, re-heated",DF,0,,,,,,Tr,Tr,100g
+13-564,"Peas, canned in water, re-heated, drained",DF,0,,,,,,Tr,Tr,100g
+13-565,"Carrots, young, canned in water, re-heated, drained",DG,0,,,,,,0.7,0.8,100g
+13-566,"Potatoes, old, potato wedges, with skin, cooked in sunflower oil, homemade",DAM,0,,,,,,0.6,0.7,100g
+13-567,"Beansprouts, mung, stir-fried in rapeseed oil",DB,0,,,,,,0.8,0.6,100g
+13-569,"Plantain, ripe, fried in rapeseed oil",DG,0,,,,,,2.3,2.3,100g
+13-570,"Tofu, soya bean, steamed",DB,0,,,,,,Tr,Tr,100g
+13-571,"Tofu, soya bean, steamed, fried",DB,0,,,,,,0.1,0.1,100g
+13-572,"Spinach, mature, raw",DG,0,,,,,,0.5,0.5,100g
+13-573,"Spinach, mature, boiled in unsalted water",DG,0,,,,,,0.3,0.3,100g
+13-574,"Quorn, pieces, as purchased",DG,Tr,,,,,,Tr,0.4,100g
+13-576,"Kohl rabi, boiled in unsalted water",DG,0,,,,,,1.1,1.3,100g
+13-577,"Aubergine, fried in rapeseed oil",DG,0,,,,,,1.1,1.4,100g
+13-578,"Baked beans, canned in barbecue sauce",DB,0,,,,,,1.1,0.9,100g
+13-579,"Baked beans, canned in tomato sauce, with pork sausages",DB,0,,,,,,0.7,0.5,100g
+13-580,"Beansprouts, mung, boiled in unsalted water",DB,0,,,,,,0.7,0.7,100g
+13-581,"Cabbage, average, boiled in unsalted water",DG,0,,,,,,1.1,1.3,100g
+13-582,"Cabbage, average, raw",DG,0,,,,,,1.9,2.2,100g
+13-583,"Broccoli, green, boiled in salted water",DG,0,,,,,,0.8,0.8,100g
+13-584,"Cabbage, white, boiled in unsalted water",DG,0,,,,,,1.4,1.6,100g
+13-585,"Celeriac, boiled in unsalted water",DG,0,,,,,,0.3,0.2,100g
+13-586,"Chicory, pale variety, boiled in unsalted water",DG,0,,,,,,0.3,0.2,100g
+13-587,"Courgette, fried in rapeseed oil",DG,0,,,,,,1.2,1,100g
+13-588,"Matoki, boiled in unsalted water",DG,0,,,,,,Tr,Tr,100g
+13-589,"Onions, baked",DG,0,,,,,,2.2,2.9,100g
+13-590,"Onions, dried, raw",DG,0,,,,,,15.8,20.2,100g
+13-591,"Onions, fried in rapeseed oil",DG,0,,,,,,2.5,3.2,100g
+13-592,"Onions, fried in corn oil",DG,0,,,,,,2.5,3.2,100g
+13-593,"Onions, fried in lard",DG,0,,,,,,2.5,3.2,100g
+13-594,"Peas, sugar-snap, boiled in unsalted water",DG,0,,,,,,0.1,1.9,100g
+13-595,"Potato chips, homemade, fried in corn oil",DAP,0,,,,,,0.7,0.8,100g
+13-596,"Potato chips, homemade, fried in dripping",DAP,0,,,,,,0.7,0.8,100g
+13-597,"Potato chips, homemade, fried in sunflower oil",DAP,0,,,,,,0.7,0.8,100g
+13-598,"Potato powder, instant, raw",DAR,3.1,,,,,,0.5,0.5,100g
+13-599,"Potatoes, old, roasted in corn oil",DAM,0,,,,,,0.5,0.7,100g
+13-600,"Potatoes, old, roasted in lard",DAM,0,,,,,,0.5,0.7,100g
+13-601,"Salsify, flesh only, boiled in unsalted water",DG,0,,,,,,0.1,Tr,100g
+13-602,"Tomatoes, standard, fried in rapeseed oil",DG,0,,,,,,2.4,2.1,100g
+13-603,"Tomatoes, standard, fried in corn oil",DG,0,,,,,,2.4,2.1,100g
+13-604,"Vegetables, mixed, stir-fry type, frozen, fried in rapeseed oil",DG,0,,,,,,1.2,1.4,100g
+13-605,"Potatoes, old, boiled in salted water, flesh only",DAM,0,,,,,,0.3,0.3,100g
+13-606,"Sweetcorn, kernels, boiled 'on the cob' in unsalted water, weighed with core",DG,0,,,,,,0.1,1.4,100g
+13-607,Carrot juice,DG,0,,,,,,0.9,1.3,100g
+13-608,"Green beans, dried",DI,0,,,,,,14.4,8.2,100g
+13-609,"Sweetcorn, dried",DI,0,,,,,,0.4,9,100g
+13-610,"Potatoes, new and salad, boiled in salted water, flesh and skin",DAE,0,,,,,,0.4,0.5,100g
+13-611,"Onions, fried in butter",D,0,,,,,,2.5,3.2,100g
+13-612,"Potato chips, fried in palm oil, from takeaway fish and chip shops",DAR,Tr,,,,,,0.1,0.1,100g
+13-613,"Potato chips, fried in beef dripping, from takeaway fish and chip shops",DAR,Tr,,,,,,0.1,0.1,100g
+13-614,"Potato chips, fried in rapeseed oil, from takeaway fish and chip shops",DAR,Tr,,,,,,0.1,0.1,100g
+13-615,"Potato powder, instant, made up with semi-skimmed milk",DAR,1.3,,,,,,0.1,0.1,100g
+13-616,"Potato powder, instant, made up with skimmed milk",DAR,1.3,,,,,,0.1,0.1,100g
+13-617,"Potato powder, instant, made up with whole milk",DAR,1.9,,,,,,0.1,0.1,100g
+13-618,"Potatoes, new and salad, flesh only, raw",DAE,0,,,,,,0.3,0.3,100g
+13-619,"Potatoes, new, frozen, `roast' in corn oil",DAE,0,,,,,,0.3,0.4,100g
+13-620,"Potatoes, old, baked, flesh only",DAM,0,,,,,,0.1,0.2,100g
+13-621,"Potatoes, old, baked, flesh only, weighed with skin",DAM,0,,,,,,0.1,0.1,100g
+13-622,"Sweetcorn, kernels, raw",DG,0,,,,,,0.1,1.9,100g
+13-623,"Sweetcorn, kernels, 'on-the-cob', raw, weighed with core",DG,0,,,,,,0.1,1.1,100g
+13-624,"Leeks, raw",DG,0,,,,,,2,1.6,100g
+13-625,"Leeks, boiled in unsalted water",DG,0,,,,,,1.3,0.7,100g
+13-626,"Leeks, roasted in rapeseed oil",DG,0,,,,,,2.2,1.8,100g
+13-627,"Courgette, raw",DG,0,,,,,,1.3,0.9,100g
+13-628,"Courgette, boiled in unsalted water",DG,0,,,,,,1.1,0.4,100g
+13-629,"Courgette, roasted in rapeseed oil",DG,0,,,,,,2,1.39,100g
+13-630,"Brussels sprouts, boiled in unsalted water",DG,0,,,,,,0.5,0.6,100g
+13-631,"Parsnip, boiled in unsalted water",DG,0,,,,,,0.1,0.1,100g
+13-632,"Parsnip, roasted in rapeseed oil",DG,0,,,,,,0.2,0.2,100g
+13-633,"Beetroot, cooked in unsalted water",DG,0,,,,,,0.2,0.2,100g
+13-634,"Sweetcorn, baby, boiled in unsalted water",DG,0,,,,,,1.3,1.6,100g
+13-635,"Sweetcorn, baby, stir-fried in rapeseed oil",DG,0,,,,,,1.5,1.9,100g
+13-636,"Celery, raw",DG,0,,,,,,0.4,1,100g
+13-637,"Celery, boiled in unsalted water",DG,0,,,,,,0.2,0.6,100g
+13-638,"Asparagus, steamed",DG,0,,,,,,0.9,0.4,100g
+13-639,"Asparagus, grilled",DG,0,,,,,,1.1,0.5,100g
+13-640,"Asparagus, roasted in rapeseed oil",DG,0,,,,,,1.1,0.5,100g
+13-641,"Peas, mange-tout, boiled in unsalted water",DF,0,,,,,,0.3,2.2,100g
+13-642,"Peas, mange-tout, stir-fried in rapeseed oil",DF,0,,,,,,0.3,1.9,100g
+13-643,"Squash, butternut, boiled in unsalted water",DG,0,,,,,,0.5,0.5,100g
+13-644,"Squash, butternut, baked",DG,0,,,,,,0.8,0.8,100g
+13-646,"Sweet potato, flesh only, boiled in unsalted water",DG,0,,,,,,0.5,0.7,100g
+13-647,"Sweet potato, wedges, flesh and skin, baked in rapeseed oil",DG,0,,,,,,1.2,1.5,100g
+13-648,"Beans, broad, whole, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-649,"Curly kale, boiled in unsalted water",DG,0,,,,,,0.4,0.5,100g
+13-650,"Swede, flesh only, boiled in unsalted water",DG,0,,,,,,2.2,3,100g
+13-651,"Aubergine, flesh and skin, boiled in unsalted water",DG,0,,,,,,0.6,0.7,100g
+13-652,"Okra, boiled in unsalted water",DG,0,,,,,,0.5,0.5,100g
+13-654,"Beans, runner, boiled in unsalted water",DB,0,,,,,,1,0.2,100g
+13-655,"Yam, flesh only, boiled in unsalted water",DG,0,,,,,,Tr,Tr,100g
+13-656,"Radish, red, flesh and skin, raw",DG,0,,,,,,0.5,0.9,100g
+13-657,"Lentils, red, split, dried, raw",DB,0,,,,,,Tr,Tr,100g
+13-658,"Lentils, red, split, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-659,"Beans, red kidney, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-660,"Beans, red kidney, canned in water, re-heated, drained",DB,0,,,,,,Tr,Tr,100g
+13-661,"Lentils, green and brown, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-662,"Beans, chick peas, Kabuli, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-663,"Beans, butter, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-664,"Beans, mung, whole, dried, boiled in unsalted water",DB,0,,,,,,Tr,Tr,100g
+13-665,"Beans, haricot, canned, re-heated, drained",DB,0,,,,,,Tr,Tr,100g
+13-666,"Beans, cannellini, canned, re-heated, drained",DB,0,,,,,,Tr,Tr,100g
+13-667,"Beans, edamame, frozen, boiled in unsalted water",DB,0,,,,,,0.1,Tr,100g
+13-668,"Courgette, dried",DI,0,,,,,,23.3,16.1,100g
+13-669#1,"Aubergine, flesh and skin, roasted in rapeseed oil",DG,0,,,,,,1.7,2,100g
+13-669#2,"Watercress, raw",DG,0,,,,,,Tr,Tr,100g
+13-670,"Beans, chick peas, canned, re-heated, drained",DB,0,,,,,,Tr,Tr,100g
+13-671,"Sweet potato, steamed",DG,0,,,,,,0.4,0.6,100g
+13-672,"Sweet potato, baked",DG,0,,,,,,0.8,1.1,100g
+13-801,"Allspice, ground",H,0,,,,,,N,N,100g
+13-802,Anise seeds,H,0,,,,,,N,N,100g
+13-803,Asafoetida,H,0,,,,,,N,N,100g
+13-804,"Basil, fresh",H,0,,,,,,N,N,100g
+13-805,"Basil, dried, ground",H,0,,,,,,N,N,100g
+13-806,"Bay leaf, dried",H,0,,,,,,N,N,100g
+13-807,"Betel leaves, fresh",H,0,,,,,,N,N,100g
+13-808,Caraway seeds,H,0,,,,,,N,N,100g
+13-809,"Cardamom, ground",H,0,,,,,,N,N,100g
+13-810,Celery seeds,H,0,,,,,,N,N,100g
+13-811,"Chervil, dried",H,0,,,,,,N,N,100g
+13-813,Chinese 5 spice,H,0,,,,,,N,N,100g
+13-816,"Cloves, dried",H,0,,,,,,N,N,100g
+13-818,"Coriander leaves, dried",H,0,,,,,,N,N,100g
+13-821,"Curry leaves, fresh",H,0,,,,,,N,N,100g
+13-823,"Curry powder, mixed flavours",H,0,,,,,,N,N,100g
+13-824,"Dill, fresh",H,0,,,,,,0.2,0.3,100g
+13-825,"Dill, dried",H,0,,,,,,9.4,14.1,100g
+13-826,Dill seeds,H,0,,,,,,N,N,100g
+13-827,Fennel seeds,H,0,,,,,,N,N,100g
+13-828,Fenugreek seeds,H,0,,,,,,N,N,100g
+13-829,Garam masala,H,0,,,,,,N,N,100g
+13-830,Garlic powder,H,0,,,,,,1.6,1.1,100g
+13-832,"Ginger, ground",H,0,,,,,,10.2,9.6,100g
+13-833,Liquorice powder,H,0,,,,,,N,N,100g
+13-834,"Mace, ground",H,0,,,,,,N,N,100g
+13-835,"Marjoram, dried",H,0,,,,,,N,N,100g
+13-836,"Mint, fresh",H,0,,,,,,N,N,100g
+13-837,"Mint, dried",H,0,,,,,,N,N,100g
+13-839,Mustard seeds,H,0,,,,,,N,N,100g
+13-844,"Parsley, fresh",H,0,,,,,,0.9,1.4,100g
+13-845,"Parsley, dried",H,0,,,,,,4.8,7.5,100g
+13-847,"Pepper, cayenne, ground",H,0,,,,,,N,N,100g
+13-849,Poppy seeds,G,0,,,,,,N,N,100g
+13-852,Saffron,H,0,,,,,,N,N,100g
+13-853,"Sage, fresh",H,0,,,,,,N,N,100g
+13-854,"Sage, dried, ground",H,0,,,,,,N,N,100g
+13-855,"Tamarind leaves, fresh",H,0,,,,,,N,N,100g
+13-856,"Tamarind pulp, flesh only",H,0,,,,,,N,N,100g
+13-857,"Tarragon, fresh",H,0,,,,,,N,N,100g
+13-858,"Tarragon, dried, ground",H,0,,,,,,N,N,100g
+13-861,"Turmeric, ground",H,0,,,,,,N,N,100g
+13-873,Chilli powder,H,0,,,,,,4.3,2.1,100g
+13-874,"Cinnamon, ground",H,0,,,,,,1.1,1,100g
+13-875,Coriander seeds,H,0,,,,,,N,N,100g
+13-876,Curry powder,H,0,,,,,,N,N,100g
+13-877,"Nutmeg, ground",H,0,,,,,,N,N,100g
+13-878,"Oregano, dried, ground",H,0,,,,,,1.1,1.9,100g
+13-879,Paprika,H,0,,,,,,6.7,2.6,100g
+13-880,"Pepper, black",H,0,,,,,,0.2,0.2,100g
+13-881,"Pepper, white",H,0,,,,,,N,N,100g
+13-882,"Rosemary, dried",H,0,,,,,,N,N,100g
+13-883,"Thyme, dried, ground",H,0,,,,,,N,N,100g
+13-884,"Mixed herbs, dried",H,0,,,,,,N,N,100g
+13-886,Mixed curry spices,H,0,,,,,,N,N,100g
+13-887,"Chives, fresh",H,0,,,,,,1,0.9,100g
+13-888,"Coriander leaves, fresh",H,0,,,,,,0.4,0.5,100g
+13-889,Cumin seeds,H,0,,,,,,N,N,100g
+13-890,"Ginger, fresh",H,0,,,,,,0.9,0.8,100g
+13-891,"Oregano, fresh",H,0,,,,,,0.2,0.4,100g
+13-892,"Rosemary, fresh",H,0,,,,,,N,N,100g
+13-893,"Thyme, fresh",H,0,,,,,,N,N,100g
+14-001,Amla,FA,0,,,,,,N,N,100g
+14-016,"Apples, eating, dried",FA,0,,,,,,31.7,8.6,100g
+14-025,"Apricots, raw, flesh and skin",FA,0,,,,,,0.9,1.6,100g
+14-026,"Apricots, raw, flesh and skin, weighed with stones",FA,0,,,,,,0.8,1.5,100g
+14-027,"Apricots, stewed with sugar",FA,0,,,,,,2.1,2.2,100g
+14-028,"Apricots, stewed with sugar, weighed with stones",FA,0,,,,,,2,2.1,100g
+14-029,"Apricots, stewed without sugar",FA,0,,,,,,1,1.6,100g
+14-030,"Apricots, stewed without sugar, weighed with stones",FA,0,,,,,,0.9,1.5,100g
+14-031,"Apricots, dried",FA,0,,,,,,10,20.8,100g
+14-032,"Apricots, dried, stewed with sugar",FA,0,,,,,,4.4,8.7,100g
+14-033,"Apricots, dried, stewed without sugar",FA,0,,,,,,4.4,8.8,100g
+14-039,"Avocado, Fuerte, flesh only",FA,0,,,,,,0.1,0.3,100g
+14-040,"Avocado, Fuerte, flesh only, weighed with skin and stone",FA,0,,,,,,0.1,0.2,100g
+14-043,"Babaco, flesh only",FA,0,,,,,,1.1,1.3,100g
+14-049,"Blackberries, stewed with sugar",FA,0,,,,,,2.5,2.5,100g
+14-050,"Blackberries, stewed without sugar",FA,0,,,,,,2.2,2.1,100g
+14-053,"Blackcurrants, raw",FA,0,,,,,,3.4,3,100g
+14-054,"Blackcurrants, stewed with sugar",FA,0,,,,,,3.2,2.8,100g
+14-055,"Blackcurrants, stewed without sugar",FA,0,,,,,,2.9,2.5,100g
+14-059,Star fruit,FA,0,,,,,,3.2,3.1,100g
+14-060,"Cashew fruit, flesh only",FA,0,,,,,,N,N,100g
+14-063,"Cherries, stewed with sugar",FA,0,,,,,,4.8,5.2,100g
+14-064,"Cherries, stewed with sugar, weighed with stones",FA,0,,,,,,4.1,4.5,100g
+14-065,"Cherries, stewed without sugar",FA,0,,,,,,4.7,5.2,100g
+14-066,"Cherries, stewed without sugar, weighed with stones",FA,0,,,,,,4,4.4,100g
+14-069,"Cherries, West Indian, flesh only",FA,0,,,,,,N,N,100g
+14-073,Cranberries,FA,0,,,,,,1.2,2.2,100g
+14-074,Currants,FA,0,,,,,,33.3,34.4,100g
+14-075,"Custard apple/Bullock's heart, flesh only",FA,0,,,,,,5.6,5.4,100g
+14-076,"Sugar apple, flesh only",FA,0,,,,,,5.6,5.4,100g
+14-077,"Damsons, flesh and skin, raw",FA,0,,,,,,3.4,5.2,100g
+14-078,"Damsons, flesh and skin, raw, weighed with stones",FA,0,,,,,,3.1,4.7,100g
+14-079,"Damsons, stewed with sugar",FA,0,,,,,,3.4,4.9,100g
+14-080,"Damsons, stewed with sugar, weighed with stones",FA,0,,,,,,3.1,4.4,100g
+14-081,"Damsons, stewed without sugar",FA,0,,,,,,3.1,4.8,100g
+14-082,"Damsons, stewed without sugar, weighed with stones",FA,0,,,,,,2.9,4.3,100g
+14-083,"Dates, raw, flesh and skin",FA,0,,,,,,15.1,16.2,100g
+14-084,"Dates, raw, flesh and skin, weighed with stones",FA,0,,,,,,13,13.9,100g
+14-087,Dried mixed fruit,FA,0,,,,,,31.6,33.3,100g
+14-088,"Durian, flesh only",FA,0,,,,,,N,N,100g
+14-089,"Elderberries, whole fruit",FA,0,,,,,,N,N,100g
+14-090,"Feijoa, flesh only",FA,0,,,,,,N,N,100g
+14-091,"Figs, whole green fruit, raw",FA,0,,,,,,4.1,5.2,100g
+14-092,"Figs, whole fruit, dried",FA,0,,,,,,22.7,28.6,100g
+14-093,"Figs, dried, stewed with sugar",FA,0,,,,,,12.3,15.4,100g
+14-094,"Figs, dried, stewed without sugar",FA,0,,,,,,12.7,15.9,100g
+14-097,"Fruit cocktail, canned in syrup, whole contents",FA,0,,,,,,6.4,6.1,100g
+14-100,"Gooseberries, cooking, raw",FA,0,,,,,,1.6,1.3,100g
+14-101,"Gooseberries, cooking, stewed with sugar",FA,0,,,,,,2.6,2.4,100g
+14-102,"Gooseberries, cooking, stewed without sugar",FA,0,,,,,,1.3,1.1,100g
+14-103,"Gooseberries, dessert, raw",FA,0,,,,,,4.5,4.3,100g
+14-107,"Grapefruit, canned in juice, whole contents",FA,0,,,,,,3.4,3.6,100g
+14-111,"Greengages, raw",FA,0,,,,,,2.2,4.7,100g
+14-112,"Greengages, raw, weighed with stones",FA,0,,,,,,2.1,4.5,100g
+14-113,"Greengages, stewed with sugar",FA,0,,,,,,2.7,4.9,100g
+14-114,"Greengages, stewed with sugar, weighed with stones",FA,0,,,,,,2.6,4.8,100g
+14-115,"Greengages, stones, removed, stewed without sugar",FA,0,,,,,,2.1,4.3,100g
+14-116,"Greengages, stewed without sugar, weighed with stones",FA,0,,,,,,2,4.1,100g
+14-117,"Grenadillas, flesh and seeds",FA,0,,,,,,2.2,2.9,100g
+14-118,"Guava, flesh only, raw",FA,0,,,,,,2.3,2.1,100g
+14-119,"Guava, raw, weighed with skin and pips",FA,0,,,,,,2.1,1.9,100g
+14-121,"Jambu fruit, flesh only",FA,0,,,,,,N,N,100g
+14-122,"Jujube, flesh only",FA,0,,,,,,N,N,100g
+14-125,"Kumquats, whole fruit, raw",FA,0,,,,,,3.1,2.6,100g
+14-128,"Lemons, whole, without pips",FA,0,,,,,,1.4,1.4,100g
+14-129,"Lemons, peeled, flesh only",FA,0,,,,,,0.7,0.9,100g
+14-130,"Lemons, flesh only, raw, weighed with peel and pips",FA,0,,,,,,0.4,0.6,100g
+14-131,"Limes, flesh only",FA,0,,,,,,0.3,0.3,100g
+14-132,"Limes, flesh only, weighed with peel and pips",FA,0,,,,,,0.2,0.2,100g
+14-133,"Loganberries, raw",FA,0,,,,,,1.3,1.9,100g
+14-134,"Loganberries, stewed with sugar",FA,0,,,,,,1.5,2,100g
+14-135,"Loganberries, stewed without sugar",FA,0,,,,,,1.1,1.6,100g
+14-137,"Longans, flesh only, dried",FA,0,,,,,,N,N,100g
+14-138,"Longans, canned in syrup, drained",FA,0,,,,,,N,N,100g
+14-139,"Longans, canned in syrup, whole contents",FA,0,,,,,,N,N,100g
+14-140,"Loquats, flesh only, raw",FA,0,,,,,,3,2.7,100g
+14-142,"Lychees, raw, flesh only",FA,0,,,,,,7.3,7,100g
+14-143,"Lychees, flesh only, raw, weighed with skin and stone",FA,0,,,,,,4.5,4.3,100g
+14-145,"Mammie apple, flesh only",FA,0,,,,,,N,N,100g
+14-146,"Mandarin oranges, canned in juice, whole contents",FA,0,,,,,,3.1,2.8,100g
+14-151,"Mangosteen, flesh only",FA,0,,,,,,N,N,100g
+14-152,"Medlars, flesh only",FA,0,,,,,,N,N,100g
+14-159,"Melon, Galia, flesh only",FA,0,,,,,,2,1.6,100g
+14-160,"Melon, Galia, flesh only, weighed whole",FA,0,,,,,,1.3,1,100g
+14-161,"Melon, Galia, flesh only, weighed with skin",FA,0,,,,,,1.4,1.1,100g
+14-168,"Mulberries, whole fruit, raw",FA,0,,,,,,4.3,3.8,100g
+14-169,"Mulberries, whole fruit, stewed with sugar",FA,0,,,,,,3.9,3.5,100g
+14-170,"Mulberries, whole fruit, stewed without sugar",FA,0,,,,,,3.7,3.3,100g
+14-177,"Ortaniques, flesh only",FA,0,,,,,,N,N,100g
+14-178,"Passion fruit, flesh and pips",FA,0,,,,,,1.9,2.2,100g
+14-179,"Passion fruit, flesh and pips, weighed with skin",FA,0,,,,,,1.1,1.3,100g
+14-188,"Peaches, canned in juice, whole contents",FA,0,,,,,,3.7,2.4,100g
+14-189,"Peaches, canned in syrup, whole contents",FA,0,,,,,,3.6,3.7,100g
+14-196,"Pears, dried",FA,0,,,,,,36.8,11.9,100g
+14-197,"Pears, canned in juice, whole contents",FA,0,,,,,,5.7,2.3,100g
+14-205,"Pears, Nashi, flesh and skin, raw",FA,0,,,,,,4.9,2.2,100g
+14-206,"Pears, Nashi, flesh and skin, raw, weighed with core",FA,0,,,,,,4.4,2,100g
+14-207,"Physalis, fruit only",FA,0,,,,,,N,N,100g
+14-211,"Pineapple, canned in juice, whole contents",FA,0,,,,,,4,4,100g
+14-212,"Pineapple, canned in syrup, whole contents",FA,0,,,,,,4.8,6,100g
+14-220,"Plums, Victoria, flesh and skin, raw",FA,0,,,,,,2.2,4.7,100g
+14-221,"Plums, Victoria, flesh and skin, raw, weighed with stones",FA,0,,,,,,2.1,4.4,100g
+14-222,"Plums, Victoria, stewed without sugar",FA,0,,,,,,2,4.2,100g
+14-223,"Plums, Victoria, stewed without sugar, weighed with stones",FA,0,,,,,,1.9,4,100g
+14-224,"Plums, yellow, flesh and skin, raw",FA,0,,,,,,1.4,2.1,100g
+14-225,"Plums, yellow, flesh and skin, raw, weighed with stones",FA,0,,,,,,1.3,2,100g
+14-226,"Pomegranate, flesh and pips",FA,0,,,,,,5.2,6.4,100g
+14-227,"Pomegranate, flesh and pips, weighed with skin",FA,0,,,,,,3.4,4.2,100g
+14-228,"Pomelo, flesh only",FA,0,,,,,,2.3,2.1,100g
+14-229,"Pomelo, flesh only, weighed with peel and pips",FA,0,,,,,,1.4,1.3,100g
+14-230,"Prickly pears, flesh and seeds",FA,0,,,,,,5.4,6,100g
+14-231,"Prunes, flesh and skin",FA,0,,,,,,13.7,20.2,100g
+14-232,"Prunes, flesh and skin, weighed with stones",FA,0,,,,,,11.8,16.7,100g
+14-233,"Prunes, flesh and skin, stewed with sugar",FA,0,,,,,,7,10.1,100g
+14-234,"Prunes, flesh and skin, stewed with sugar, weighed with stones",FA,0,,,,,,6.4,9.3,100g
+14-235,"Prunes, flesh and skin, stewed without sugar",FA,0,,,,,,7.1,10.4,100g
+14-236,"Prunes, flesh and skin, stewed without sugar, weighed with stones",FA,0,,,,,,6.4,9.4,100g
+14-237,"Prunes, canned in juice, whole contents",FA,0,,,,,,8.4,10.2,100g
+14-241,"Quinces, flesh only",FA,0,,,,,,3.7,2.3,100g
+14-243,"Rambutan, flesh only",FA,0,,,,,,3.1,2.9,100g
+14-245,"Raspberries, stewed with sugar",FA,0,,,,,,2.7,2.2,100g
+14-246,"Raspberries, stewed without sugar",FA,0,,,,,,2.3,1.8,100g
+14-249,"Redcurrants, raw",FA,0,,,,,,2.6,1.7,100g
+14-250,"Redcurrants, stewed with sugar",FA,0,,,,,,2.5,1.8,100g
+14-251,"Redcurrants, stewed without sugar",FA,0,,,,,,2.2,1.5,100g
+14-252,"Rhubarb, stems only, raw",FA,0,,,,,,0.4,0.4,100g
+14-253,"Rhubarb, stems only, stewed with sugar",FA,0,,,,,,1.2,1.2,100g
+14-256,"Sapodilla, flesh only",FA,0,,,,,,5.3,6.7,100g
+14-259,"Sharon fruit, flesh only",FA,0,,,,,,9.3,9.3,100g
+14-263,Sultanas,FA,0,,,,,,34.6,34.8,100g
+14-264,"Tamarillos, flesh and seeds",FA,0,,,,,,1.2,1.1,100g
+14-265,Tamarind,FA,0,,,,,,N,N,100g
+14-268,"Whitecurrants, raw",FA,0,,,,,,2.3,2.4,100g
+14-269,"Whitecurrants, stewed with sugar",FA,0,,,,,,2.3,2.4,100g
+14-270,"Whitecurrants, stewed without sugar",FA,0,,,,,,2,2.1,100g
+14-272,"Apple juice concentrate, unsweetened, commerical",PE,0,,,,,,33.9,13.2,100g
+14-275,"Grapefruit juice, unsweetened",PE,0,,,,,,3.3,3,100g
+14-277,"Lemon juice, fresh",PE,0,,,,,,0.9,0.5,100g
+14-278,"Lemon juice, fresh, weighed as whole fruit",FC,0,,,,,,0.3,0.2,100g
+14-279,"Lime juice, fresh",FC,0,,,,,,0.6,0.6,100g
+14-285,Passion fruit juice,FC,0,,,,,,3.5,4.1,100g
+14-286,"Pineapple juice, unsweetened",PE,0,,,,,,2.9,2.9,100g
+14-289,Prune juice,FC,0,,,,,,4.4,10,100g
+14-296,"Melon, watermelon, flesh only",FA,0,,,,,,2.3,1.3,100g
+14-299,"Peaches, raw, flesh and skin",FA,0,,,,,,1.1,1.1,100g
+14-309,"Melon, watermelon, flesh only, weighed whole",FA,0,,,,,,1.3,0.7,100g
+14-312,"Peaches, flesh and skin, raw, weighed with stone",FA,0,,,,,,1,1,100g
+14-314,"Plums, average, stewed with sugar, flesh and skin",FA,0,,,,,,1.7,3.6,100g
+14-315,"Plums, average, flesh and skin, stewed without sugar",FA,0,,,,,,1.7,3.6,100g
+14-316,"Plums, average, flesh and skin, stewed with sugar, weighed with stones",FA,0,,,,,,1.6,3.4,100g
+14-317,"Plums, average, flesh and skin, stewed without sugar, weighed with stones",FA,0,,,,,,1.6,3.4,100g
+14-318,"Bananas, flesh only",FA,0,,,,,,7.5,7.9,100g
+14-319,"Apples, eating, raw, flesh and skin",FA,0,,,,,,6.7,2.1,100g
+14-320,"Apples, cooking, stewed without sugar, flesh only",FA,0,,,,,,5.9,2.1,100g
+14-321,"Pears, raw, flesh and skin",FA,0,,,,,,6.6,3.1,100g
+14-322,"Grapes, green",FA,0,,,,,,7.9,7.3,100g
+14-323,"Grapes, red",FA,0,,,,,,9.3,7.7,100g
+14-324,"Strawberries, raw",FA,0,,,,,,3.1,3,100g
+14-325,Blueberries,FA,0,,,,,,5.2,3.9,100g
+14-326,"Citrus fruit, soft/easy peelers, flesh only",FA,0,,,,,,1.9,1.6,100g
+14-327,"Oranges, flesh only",FA,0,,,,,,2.2,2,100g
+14-328,"Melon, yellow flesh, flesh only",FA,0,,,,,,2.5,1.7,100g
+14-329,"Orange juice, chilled",FC,0,,,,,,2.4,2,100g
+14-330,"Orange juice, ambient, UHT",FC,0,,,,,,2.4,2,100g
+14-331,"Apple juice, clear, ambient and chilled",FC,0,,,,,,5.5,2.4,100g
+14-332,"Apples, cooking, stewed with sugar, flesh only",FA,0,,,,,,6.7,3.1,100g
+14-333,"Fruit salad, homemade",FA,0,,,,,,4.6,3.3,100g
+14-335,"Cherries, glace",FA,0,,,,,,N,N,100g
+14-336,"Fruit cocktail, canned in juice, whole contents",FA,0,,,,,,5.7,5.2,100g
+14-337,Lemon peel,FA,0,,,,,,N,N,100g
+14-338,"Peel, mixed",FA,0,,,,,,3.8,16.7,100g
+14-339,"Melon, Canteloupe-type, flesh only",FA,0,,,,,,2.2,1.8,100g
+14-340,"Olives, green, in brine, drained, flesh and skin",FA,0,,,,,,Tr,Tr,100g
+14-341,Pomegranate juice drink,FC,0,,,,,,5.1,6.3,100g
+14-342,"Apples, cooking, baked without sugar, flesh only",FA,0,,,,,,7,2.5,100g
+14-343,"Apples, cooking, baked without sugar, flesh only, weighed with skin",FA,0,,,,,,5.9,2.1,100g
+14-344,"Apples, cooking, baked with sugar, flesh only",FA,0,,,,,,6.6,2.4,100g
+14-345,"Apples, cooking, baked with sugar, flesh only, weighed with skin",FA,0,,,,,,5.5,2,100g
+14-346,"Apples, eating, raw, flesh and skin, weighed with core",FA,0,,,,,,5.8,1.8,100g
+14-347,"Bananas, raw, flesh only, weighed with skin",FA,0,,,,,,4.7,5,100g
+14-348,"Citrus fruit, soft/easy peelers, flesh only, weighed with peel and pips",FA,0,,,,,,1.5,1.2,100g
+14-349,"Blackberry and apple, stewed with sugar",FA,0,,,,,,3.6,1.7,100g
+14-350,"Grapes, average",FA,0,,,,,,8.6,7.5,100g
+14-351,"Grapes, average, weighed with pips",FA,0,,,,,,8.4,7.4,100g
+14-352,"Melon, Canteloupe-type, flesh only, weighed whole",FA,0,,,,,,1.3,1.1,100g
+14-353,"Melon, Canteloupe-type, flesh only, weighed with skin",FA,0,,,,,,1.5,1.2,100g
+14-354,"Melon, flesh only, average",FA,0,,,,,,2.2,1.7,100g
+14-355,"Melon, flesh only, average, weighed whole",FA,0,,,,,,1.4,1.1,100g
+14-356,"Melon, flesh only, average, weighed with skin",FA,0,,,,,,1.5,1.1,100g
+14-357,"Melon, Honeydew, flesh only, weighed whole",FA,0,,,,,,1.5,1,100g
+14-358,"Melon, Honeydew, flesh only, weighed with skin",FA,0,,,,,,1.6,1.1,100g
+14-359,"Olives, green, in brine, drained, flesh and skin, weighed with stones",FA,0,,,,,,Tr,Tr,100g
+14-360,"Oranges, flesh only, weighed with peel and pips",FA,0,,,,,,1.6,1.4,100g
+14-361,"Pears, average, flesh and skin, raw, weighed with core and stalk",FA,0,,,,,,5.6,2.6,100g
+14-362,"Apples, cooking, raw, flesh only, peeled",F,0,,,,,,5.9,2,100g
+14-363,"Apples, cooking, raw, flesh only, weighed with skin and core",F,0,,,,,,4.3,1.5,100g
+14-364,"Blackberry and apple, stewed without sugar",F,0,,,,,,3.9,1.9,100g
+14-365,"Pears, average, raw, flesh only",F,0,,,,,,6.9,3.2,100g
+14-366,"Pears, raw, flesh only, peeled, weighed with skin and core",F,0,,,,,,4.8,2.3,100g
+14-367,"Pears, average, stewed with sugar",F,0,,,,,,5.4,2.5,100g
+14-368,"Pears, average, stewed without sugar",F,0,,,,,,6,2.8,100g
+14-369,"Orange juice, freshly squeezed",FC,0,,,,,,2.2,2,100g
+14-370,"Orange juice, freshly squeezed, weighed as whole fruit",FC,0,,,,,,1,0.9,100g
+14-371,"Kiwi fruit, flesh only, raw",FA,0,,,,,,4.5,3.6,100g
+14-372,"Plums, dessert, flesh and skin, raw",FA,0,,,,,,3.7,5.3,100g
+14-373,"Kiwi fruit, flesh only, raw, weighed with skin",FA,0,,,,,,3.3,2.6,100g
+14-374,"Plums, dessert, flesh and skin, raw, weighed with stones",FA,0,,,,,,3.6,5.1,100g
+14-375,"Raspberries, raw",FA,0,,,,,,3,2.1,100g
+14-376,"Pineapple, flesh only, raw",FA,0,,,,,,3.4,2.7,100g
+14-377,"Pineapple, flesh only, raw, weighed with skin and top",FA,0,,,,,,1.5,1.2,100g
+14-378,"Mangoes, ripe, flesh only, raw",FA,0,,,,,,3.4,1,100g
+14-379,"Mangoes, ripe, flesh only, raw, weighed with skin and stone",FA,0,,,,,,2.1,0.6,100g
+14-380,"Nectarines, flesh and skin, raw",FA,0,,,,,,2.1,2.1,100g
+14-381,"Nectarines, flesh and skin, raw, weighed with stones",FA,0,,,,,,1.9,1.9,100g
+14-382,"Cherries, flesh and skin, raw",FA,0,,,,,,6,8.6,100g
+14-383,"Cherries, flesh and skin, raw, weighed with stones",FA,0,,,,,,5.5,7.9,100g
+14-384,"Grapefruit, flesh only, raw",FA,0,,,,,,2.1,1.9,100g
+14-385,"Grapefruit, flesh only, raw, weighed with peel and pips",FA,0,,,,,,1.5,1.3,100g
+14-386,"Avocado, Hass, flesh only",FA,0,,,,,,0.2,0.2,100g
+14-387,"Avocado, Hass, flesh only, weighed with skin and stone",FA,0,,,,,,0.1,0.1,100g
+14-388,"Blackberries, raw",FA,0,,,,,,3,2.6,100g
+14-389,"Rhubarb, stems only, stewed without sugar",FA,0,,,,,,0.5,0.5,100g
+14-390,"Papaya, flesh only, raw",FA,0,,,,,,4.7,4.8,100g
+14-391,"Prunes, ready-to-eat, semi-dried",FA,0,,,,,,11.7,24.8,100g
+14-392,"Apricots, ready-to-eat, semi-dried",FA,0,,,,,,10.4,25.1,100g
+14-393,"Raisins, dried",FA,0,,,,,,34.4,28.2,100g
+14-394,"Dates, dried, flesh and skin",FA,0,,,,,,29.9,28.1,100g
+14-395,"Figs, ready-to-eat, semi-dried",FA,0,,,,,,22.1,21.2,100g
+14-396,"Pineapple, dried",FA,0,,,,,,22.7,18,100g
+14-397,"Papaya, flesh only, raw, weighed with skin and pips",FA,0,,,,,,2.8,2.9,100g
+14-398,"Prunes, ready-to-eat, semi-dried, weighed with stones",FA,0,,,,,,10.1,21.3,100g
+14-399,"Dates, dried, flesh and skin, weighed with stones",FA,0,,,,,,25.1,23.6,100g
+14-804,"Barcelona nuts, Kernel only",GA,0,,,,,,0,0,100g
+14-805,"Barcelona nuts, kernel only, weighed with shells",GA,0,,,,,,0,0,100g
+14-806,Betel nuts,GA,0,,,,,,0,0,100g
+14-811,"Cashew nuts, kernel only, plain",GA,0,,,,,,0,0,100g
+14-812,"Cashew nuts, kernel only, roasted and salted",GA,0,,,,,,0,0,100g
+14-813,"Chestnuts, kernel only, raw",GA,0,,,,,,Tr,Tr,100g
+14-814,"Chestnuts, kernel only, raw, weighed with shells",GA,0,,,,,,Tr,Tr,100g
+14-815,"Chestnuts, dried",GA,0,,,,,,Tr,Tr,100g
+14-816,"Coconut, flesh only, fresh",GA,0,,,,,,Tr,Tr,100g
+14-820,Coconut milk,GA,0,,,,,,Tr,0.3,100g
+14-826,Melon seeds,GA,0,,,,,,N,N,100g
+14-834,"Peanuts, roasted and salted",GA,0,,,,,,0,0,100g
+14-837,"Pecan nuts, kernel only",GA,0,,,,,,0.3,0.3,100g
+14-838,"Pecan nuts, kernel only, weighed with shells",GA,0,,,,,,0.1,0.1,100g
+14-839,"Pine nuts, kernel only",GA,0,,,,,,0.1,0.1,100g
+14-840,"Pistachio nuts, kernel only, roasted and salted",GA,0,,,,,,Tr,Tr,100g
+14-841,"Pistachio nuts, kernel only, roasted and salted, weighed with shells",GA,0,,,,,,Tr,Tr,100g
+14-842,Pumpkin seeds,GA,0,,,,,,0,0,100g
+14-843,"Quinoa, raw",GA,0,,,,,,0.6,2.7,100g
+14-844,Sesame seeds,GA,0,,,,,,0.1,0.1,100g
+14-845,Sunflower seeds,GA,0,,,,,,0,0,100g
+14-846,"Sunflower seeds, toasted",GA,0,,,,,,0,0,100g
+14-847,Tahini paste,GA,0,,,,,,0.1,0.1,100g
+14-848,Tigernuts,GA,0,,,,,,0,0,100g
+14-849,Trail mix,GA,0,,,,,,16.1,17.3,100g
+14-870,"Almonds, flaked and ground",GA,0,,,,,,Tr,Tr,100g
+14-871,"Brazil nuts, kernel only",GA,0,,,,,,0,0,100g
+14-873,"Coconut, desiccated",GA,0,,,,,,0.8,Tr,100g
+14-874,"Hazelnuts, kernel only",GA,0,,,,,,0.1,0.2,100g
+14-875,"Marzipan, white and yellow, retail",GA,0,,,,,,1.1,2.7,100g
+14-877,"Peanuts, kernel only, plain, unsalted",GA,0,,,,,,0,0,100g
+14-878,"Peanuts, dry roasted",GA,0,,,,,,0,0,100g
+14-879,"Walnuts, kernel only",GA,0,,,,,,0.2,0.2,100g
+14-880,"Nuts, mixed",GA,0,,,,,,0,0,100g
+14-882,Peanuts and raisins,GA,0,,,,,,15.3,15.2,100g
+14-884,"Brazil nuts, kernel only, weighed with shells",GA,0,,,,,,0,0,100g
+14-885,"Hazelnuts, kernel only, weighed with shells",GA,0,,,,,,Tr,0.1,100g
+14-886,"Peanuts, kernel only, plain, weighed with shells",GA,0,,,,,,0,0,100g
+14-887,"Walnuts, kernel only, weighed with shells",GA,0,,,,,,0.1,0.1,100g
+14-889,"Coconut milk, retail",GA,0,,,,,,N,N,100g
+14-890,"Coconut milk, reduced fat, retail",GA,0,,,,,,N,N,100g
+14-891,"Macadamia nuts, salted",G,0,,,,,,0.1,0.1,100g
+14-892,"Peanut butter, smooth",GA,0,,,,,,0,0,100g
+14-893,"Marzipan, homemade",GA,0,,,,,,0,0,100g
+14-894,"Peanuts, raisins and chocolate chips",GA,2.3,,,,,,12.9,12.8,100g
+14-895,"Breadnut seeds, dried",G,0,,,,,,N,N,100g
+14-896,"Almonds, whole kernels",GA,0,,,,,,0.1,0.2,100g
+14-897,"Almonds, toasted",GA,0,,,,,,Tr,Tr,100g
+14-898,"Almonds, weighed with shells",GA,0,,,,,,Tr,0.1,100g
+15-001,"Aubergine, stuffed with lentils and vegetables",DR,0,,,,,,0.7,0.8,100g
+15-016,"Bhaji, cabbage and spinach",DR,0,,,,,,1.4,1.6,100g
+15-021,"Bhaji, cauliflower, potato and pea, with butter",DR,Tr,,,,,,1,1.1,100g
+15-022,"Bhaji, cauliflower, potato and pea, with vegetable oil",DR,0,,,,,,1,1.1,100g
+15-024,"Bhaji, green bean",DR,0,,,,,,2,1.6,100g
+15-025,"Bhaji, karela, with butter ghee, homemade",DR,Tr,,,,,,Tr,Tr,100g
+15-026,"Bhaji, karela, with vegetable oil, homemade",DR,0,,,,,,Tr,Tr,100g
+15-040,"Bhaji, potato, spinach and cauliflower, homemade",DR,Tr,,,,,,0.5,0.6,100g
+15-047,"Bhaji, vegetable, Punjabi, with butter",DR,Tr,,,,,,1.7,1.9,100g
+15-048,"Bhaji, vegetable, Punjabi, with vegetable oil",DR,0,,,,,,1.7,1.9,100g
+15-095,"Curry, black-eye bean, Punjabi, homemade",DR,Tr,,,,,,0.1,0.2,100g
+15-107,"Curry, chick pea, whole and tomato, Punjabi, with butter, homemade",DR,Tr,,,,,,0.2,0.2,100g
+15-108,"Curry, chick pea, whole and tomato, Punjabi, with vegetable oil, homemade",DR,0,,,,,,0.2,0.2,100g
+15-125,"Curry, lentil, red/masoor dahl, mung bean dahl and tomato, homemade",DR,0,,,,,,0.2,0.2,100g
+15-132,"Curry, mung bean dahl and tomato, homemade",DR,0,,,,,,0.3,0.3,100g
+15-146,"Curry, red kidney bean, Punjabi, homemade",DR,0,,,,,,0.3,0.3,100g
+15-186,"Lasagne, spinach, wholemeal, homemade",DR,0.7,,,,,,0.4,0.5,100g
+15-188,"Lasagne, vegetable, wholemeal, homemade",DR,1,,,,,,0.7,0.8,100g
+15-190,Laverbread,DR,0,,,,,,Tr,Tr,100g
+15-198,"Lentil roast, homemade",DR,0,,,,,,N,N,100g
+15-199,"Lentil roast, with egg, homemade",DR,0,,,,,,N,N,100g
+15-200,"Lentil and nut roast, homemade",DR,0,,,,,,N,N,100g
+15-201,"Lentil and nut roast, with egg, homemade",DR,0,,,,,,N,N,100g
+15-208,"Nut croquettes, fried in sunflower oil, homemade",DR,0,,,,,,N,N,100g
+15-209,"Nut croquettes, fried in vegetable oil, homemade",DR,0,,,,,,N,N,100g
+15-210,"Nut cutlets, retail, fried in sunflower oil",DR,0,,,,,,0.2,0.3,100g
+15-211,"Nut cutlets, retail, fried in vegetable oil",DR,0,,,,,,0.2,0.3,100g
+15-212,"Nut cutlets, retail, grilled",DR,0,,,,,,0.2,0.3,100g
+15-214,"Nut roast, mixed nuts with egg, homemade",DR,0,,,,,,N,N,100g
+15-215,"Nut and rice roast, mixed nuts, homemade",DR,0,,,,,,N,N,100g
+15-216,"Nut and rice roast, mixed nuts with egg, homemade",DR,0,,,,,,N,N,100g
+15-217,"Nut and seed roast, mixed nuts and sunflower seeds, homemade",DR,0,,,,,,N,N,100g
+15-218,"Nut and seed roast, mixed nuts and sunflower seeds with egg, homemade",DR,0,,,,,,N,N,100g
+15-219,"Nut and vegetable roast, mixed nuts, homemade",DR,0,,,,,,N,N,100g
+15-220,"Nut and vegetable roast, mixed nuts with egg, homemade",DR,0,,,,,,N,N,100g
+15-221,"Nut, mushroom and rice roast, homemade",DR,0,,,,,,N,N,100g
+15-255,"Pizza, tomato, homemade",DR,0,,,,,,1.1,1,100g
+15-259,"Potato, leek and celery bake",DR,1.1,,,,,,0.1,0.2,100g
+15-261,"Potatoes with onions and eggs, fried",DR,0,,,,,,0.4,0.5,100g
+15-262,Quorn korma,DR,0.2,,,,,,0.3,0.3,100g
+15-279,"Rissoles, lentil, fried in sunflower oil",DR,0,,,,,,N,N,100g
+15-280,"Rissoles, lentil, fried in vegetable oil",DR,0,,,,,,N,N,100g
+15-281,"Rissoles, brown rice, fried in sunflower oil",DR,0,,,,,,N,N,100g
+15-282,"Rissoles, brown rice, fried in vegetable oil",DR,0,,,,,,N,N,100g
+15-294,"Salad, wholemeal pasta, with vegetables and mayonnaise",DR,0,,,,,,0.6,0.7,100g
+15-305,"Samosas, vegetable, retail",DR,0,,,,,,0.2,0.3,100g
+15-321,"Tomatoes, stuffed with rice",DR,0,,,,,,2.9,2.9,100g
+15-344,"Vegetable stir fry mix, fried in corn oil",DR,0,,,,,,1.2,1.4,100g
+15-345,"Vegetable stir fry mix, fried in sunflower oil",DR,0,,,,,,1.2,1.4,100g
+15-364,"Vegetables, stir-fried, takeaway",DR,0,,,,,,0.2,Tr,100g
+15-397,"Bhaji, cabbage and potato, with rapeseed oil, homemade",DR,0,,,,,,1.9,2.2,100g
+15-490,"Curry, mung bean, whole, Punjabi, homemade",DR,0,,,,,,0.3,0.3,100g
+15-511,"Dal Dhokari, homemade",DR,0,,,,,,0,0,100g
+15-513,"Dosa, filling, vegetable, homemade",DR,0,,,,,,1.4,1.6,100g
+15-528,"Khichadi, with butter ghee",DR,Tr,,,,,,Tr,Tr,100g
+15-529,"Khichadi, with vegetable oil",DR,0,,,,,,Tr,Tr,100g
+15-617,"Sushi, vegetable",DR,0.1,,,,,,2.4,2.5,100g
+15-619,"Curry, vegetable, ready meal, without rice, cooked",DR,0.6,,,,,,0.9,0.9,100g
+15-620,"Pakora, vegetable, takeaway and restaurant",DR,0,,,,,,0.6,0.2,100g
+15-621,"Vegetables, mixed, cooked with onion, spice and tomatoes, homemade",DR,0,,,,,,1.4,1.4,100g
+15-625,"Tori ki subji, homemade",DR,0,,,,,,1.7,1.7,100g
+15-626,"Tinda subji, homemade",DR,0,,,,,,1.7,1.8,100g
+15-627,"Curry, bhindi subji, homemade",DR,0,,,,,,1.5,1.8,100g
+15-628,"Methi aloo, homemade",DR,0,,,,,,0.7,0.6,100g
+15-629,"Saag, homemade",DR,0,,,,,,0.6,0.6,100g
+15-634,"Curry, Thai, stir-fry vegetable, takeaway and restaurant",DR,Tr,,,,,,0.8,0.8,100g
+15-635,"Coleslaw, not low calorie, retail",DR,Tr,,,,,,1.2,1.4,100g
+15-636,"Coleslaw, with reduced calorie dressing, retail",DR,Tr,,,,,,1.3,1.6,100g
+15-637,"Cauliflower cheese, retail",DR,0.7,,,,,,0.5,0.6,100g
+15-638,"Casserole, vegetable, homemade",DR,0,,,,,,1.4,1.6,100g
+15-639,"Cauliflower cheese, made with semi-skimmed milk, homemade",DR,1.2,,,,,,0.9,0.8,100g
+15-640,"Chilli, vegetable, homemade",DR,0,,,,,,0.8,0.8,100g
+15-641,"Curry, chick pea dhal, homemade",DR,0,,,,,,0.5,0.4,100g
+15-642,"Garlic mushrooms, not coated, homemade",DR,0.1,,,,,,0.3,0,100g
+15-643,"Nut roast, homemade",DR,0,,,,,,0.4,0.4,100g
+15-645,"Pancakes, stuffed with vegetables, homemade",DR,1.9,,,,,,1,1.1,100g
+15-646,"Pasty, vegetable, homemade",DR,Tr,,,,,,0.3,0.5,100g
+15-647,"Pie, vegetable, homemade",DR,Tr,,,,,,1,1,100g
+15-648,"Salad, green",DR,0,,,,,,0.9,0.7,100g
+15-649,"Salad, rice, homemade",DR,0,,,,,,1.9,2,100g
+15-650,"Vegetable bake, homemade",DR,1.9,,,,,,0.6,0.6,100g
+15-651,"Lasagne, vegetable, retail",DR,1.2,,,,,,0.7,0.7,100g
+15-652,"Moussaka, vegetable, retail",DR,1.1,,,,,,1,1,100g
+15-653,"Pakora/bhajia, vegetable, retail",DR,0,,,,,,0.6,0.7,100g
+15-654,"Salad, potato, with mayonnaise, retail",DR,0,,,,,,0.2,0.4,100g
+15-655,"Shepherd's pie, vegetable, retail",DR,0.1,,,,,,0.5,0.6,100g
+15-656,"Vegeburger, retail, grilled",DR,0,,,,,,0.4,0.5,100g
+15-657,"Vegetable and cheese grill/burger, in crumbs, baked/grilled",DR,0.4,,,,,,0.2,0.2,100g
+15-658,"Sausages, vegetarian, baked/grilled",DR,0,,,,,,0.5,0.5,100g
+15-659,"Ratatouille, homemade",DR,0,,,,,,1.4,1.5,100g
+15-661,"Vegetable stir fry mix, fried in rapeseed oil",DR,0,,,,,,1.2,1.4,100g
+15-662,"Aubergine, stuffed with rice",DR,0,,,,,,2.7,3,100g
+15-663,"Aubergine, stuffed with vegetables, cheese topping",DR,0,,,,,,1.4,1.5,100g
+15-664,"Bean loaf, mixed beans, homemade",DR,0,,,,,,1.2,1.1,100g
+15-665,"Beanburger, aduki, fried in rapeseed oil, homemade",DR,0,,,,,,0.5,0.7,100g
+15-666,"Beanburger, butter bean, fried in rapeseed oil, homemade",DR,0,,,,,,0.5,0.6,100g
+15-667,"Beanburger, red kidney bean, fried in rapeseed oil",DR,0,,,,,,0.5,0.6,100g
+15-668,"Beanburger, soya, fried in rapeseed oil",DR,0,,,,,,1,1,100g
+15-669,"Bhaji, aubergine and potato, homemade",DR,0,,,,,,1.1,1.4,100g
+15-670,"Bhaji, aubergine, pea, potato and cauliflower, homemade",DR,0,,,,,,0.8,0.9,100g
+15-671,"Bhaji, cabbage, homemade",DR,0,,,,,,2.3,2.6,100g
+15-672,"Bhaji, cabbage and pea, with butter ghee, homemade",DR,Tr,,,,,,2,2.3,100g
+15-673,"Bhaji, cabbage and pea, with rapeseed oil, homemade",DR,0,,,,,,2,2.3,100g
+15-674,"Bhaji, cabbage and potato, with butter, homemade",DR,0,,,,,,2,2.3,100g
+15-675,"Bhaji, cabbage and potato, with vegetable oil",DR,0,,,,,,2,2.3,100g
+15-676,"Bhaji, carrot, potato and pea, with butter, homemade",DR,0,,,,,,1.2,1.3,100g
+15-677,"Bhaji, carrot, potato and pea, with vegetable oil, homemade",DR,0,,,,,,1.2,1.3,100g
+15-678,"Bhaji, cauliflower, homemade",DR,0,,,,,,1.6,1.5,100g
+15-679,"Bhaji, cauliflower and potato, homemade",DR,0,,,,,,1.3,1.2,100g
+15-680,"Bhaji, cauliflower and vegetable, homemade",DR,0.1,,,,,,1.6,1.6,100g
+15-681,"Bhaji, mushroom, homemade",DR,0,,,,,,1,1.1,100g
+15-682,"Bhaji, mustard leaves, homemade",DR,0,,,,,,0.5,0.6,100g
+15-683,"Bhaji, mustard leaves and spinach, homemade",DR,0,,,,,,0.5,0.6,100g
+15-684,"Bhaji, okra, Bangladeshi, with butter ghee, homemade",DR,Tr,,,,,,1.7,1.9,100g
+15-685,"Bhaji, okra, Bangladeshi, with vegetable oil, homemade",DR,0,,,,,,1.7,1.9,100g
+15-686,"Bhaji, okra, Islami, homemade",DR,0,,,,,,2.4,2.3,100g
+15-687,"Bhaji, pea, homemade",DR,0.2,,,,,,0.5,0.7,100g
+15-688,"Bhaji, potato and fenugreek leaves, homemade",DR,0,,,,,,N,N,100g
+15-689,"Bhaji, potato and green pepper, homemade",DR,0,,,,,,1.2,1.1,100g
+15-690,"Bhaji, potato and onion, homemade",DR,0.1,,,,,,0.9,1.2,100g
+15-691,"Bhaji, potato, onion and mushroom, homemade",DR,0,,,,,,1,1.3,100g
+15-692,"Bhaji, potato, with butter ghee, homemade",DR,Tr,,,,,,0.4,0.5,100g
+15-693,"Bhaji, potato, with vegetable oil, homemade",DR,0,,,,,,0.4,0.5,100g
+15-694,"Bhaji, spinach, homemade",DR,0,,,,,,0.7,0.7,100g
+15-695,"Bhaji, spinach and potato, homemade",DR,0,,,,,,0.5,0.5,100g
+15-696,"Bhaji, turnip, homemade",DR,Tr,,,,,,2,2.7,100g
+15-697,"Bhaji, turnip and onion, homemade",DR,Tr,,,,,,2,2.6,100g
+15-698,"Bhaji, vegetable, with butter, homemade",DR,0.1,,,,,,1.5,1.8,100g
+15-699,"Bhaji, vegetable, with rapeseed oil, homemade",DR,0,,,,,,1.5,1.8,100g
+15-700,"Broccoli in cheese sauce, made with semi-skimmed milk, homemade",DR,1.8,,,,,,0.7,0.4,100g
+15-701,"Broccoli in cheese sauce, made with skimmed milk, homemade",DR,1.8,,,,,,0.7,0.4,100g
+15-702,"Broccoli in cheese sauce, made with whole milk, homemade",DR,1.7,,,,,,0.7,0.4,100g
+15-703,"Bubble and squeak, fried in sunflower oil, homemade",DR,0,,,,,,0.6,0.7,100g
+15-704,"Bubble and squeak, fried in rapeseed oil, homemade",DR,0,,,,,,0.6,0.7,100g
+15-705,"Cabbage, red, cooked with apple",DR,Tr,,,,,,2.1,1.6,100g
+15-706,"Callaloo and cho cho, homemade",DR,0,,,,,,0.9,0.9,100g
+15-707,"Callaloo and okra, homemade",DR,0,,,,,,0.7,0.7,100g
+15-708,"Cannelloni, spinach, homemade",DR,1.7,,,,,,0.1,0.1,100g
+15-709,"Cannelloni, vegetable, homemade",DR,1.7,,,,,,0.2,0.2,100g
+15-710,"Cauliflower cheese, made with skimmed milk, homemade",DR,1.2,,,,,,0.9,0.8,100g
+15-711,"Cauliflower cheese, made with whole milk, homemade",DR,1.1,,,,,,0.9,0.8,100g
+15-712,"Casserole, bean and mixed vegetable, homemade",DR,0,,,,,,0.8,0.8,100g
+15-713,"Casserole, bean and root vegetable, homemade",DR,0,,,,,,1.1,1.2,100g
+15-714,"Casserole, sweet potato and green banana, homemade",DR,0,,,,,,N,N,100g
+15-715,"Cauliflower in white sauce, made with semi-skimmed milk, homemade",DR,1.7,,,,,,0.7,0.6,100g
+15-716,"Cauliflower in white sauce, made with skimmed milk, homemade",DR,1.7,,,,,,0.7,0.6,100g
+15-717,"Cauliflower in white sauce, made with whole milk, homemade",DR,1.6,,,,,,0.7,0.6,100g
+15-718,"Cauliflower with onions and chilli pepper, homemade",DR,0,,,,,,1.2,1.2,100g
+15-719,"Chilli, bean and lentil, homemade",DR,0,,,,,,1.5,1.5,100g
+15-720,"Chilli, Quorn, homemade",DR,Tr,,,,,,1.2,1.3,100g
+15-721,"Cho cho fritters, fried in rapeseed oil, homemade",DR,0.9,,,,,,1.1,0.9,100g
+15-722,"Coco fritters, fried in rapeseed oil, homemade",DR,0,,,,,,0.1,0.1,100g
+15-723,"Coo-coo, homemade",DR,0,,,,,,N,N,100g
+15-724,"Corn fritters, fried in rapeseed oil, homemade",DR,0.9,,,,,,0.2,0.3,100g
+15-725,"Corn pudding, homemade",DR,2.1,,,,,,0.2,0.3,100g
+15-726,"Courgettes with eggs, homemade",DR,0,,,,,,0.9,0.8,100g
+15-727,"Crumble, vegetable, with white sauce, homemade",DR,1.3,,,,,,0.4,0.4,100g
+15-728,"Crumble, vegetable, with white sauce, wholemeal, homemade",DR,1.3,,,,,,0.5,0.5,100g
+15-729,"Crumble, vegetable, with tinned tomatoes, homemade",DR,Tr,,,,,,1.8,1.9,100g
+15-730,"Crumble, vegetable, with tinned tomatoes, wholemeal, homemade",DR,Tr,,,,,,1.8,1.9,100g
+15-731,"Curry, almond, homemade",DR,Tr,,,,,,0.1,0.1,100g
+15-734,"Moussaka, vegetable, homemade",DR,0.8,,,,,,0.6,0.7,100g
+15-735,"Curry, black gram, whole and red kidney bean, homemade",DR,0,,,,,,0.3,0.4,100g
+15-736,"Curry, black gram, whole, Bengali, homemade",DR,0,,,,,,0.3,0.3,100g
+15-737,"Curry, black gram, whole, Gujerati, homemade",DR,0,,,,,,0.9,0.9,100g
+15-738,"Curry, black-eye bean, homemade",DR,0,,,,,,0.1,0.1,100g
+15-739,"Curry, Bombay potato, homemade",DR,0,,,,,,0.4,0.5,100g
+15-740,"Curry, cabbage, masala, homemade",DR,0,,,,,,2.6,2.9,100g
+15-741,"Curry, cauliflower and potato, homemade",DR,0,,,,,,1.1,1.3,100g
+15-742,"Curry, chick pea dahl and spinach, with butter, homemade",DR,0.1,,,,,,0.1,0.1,100g
+15-743,"Curry, chick pea dahl and spinach, with vegetable oil, homemade",DR,0,,,,,,0.1,0.1,100g
+15-744,"Curry, chick pea, whole, Gujerati type, homemade",DR,0,,,,,,0.1,Tr,100g
+15-745,"Curry, chick pea, whole and potato, homemade",DR,0.9,,,,,,0.1,Tr,100g
+15-746,"Curry, chick pea, whole and tomato, Gujerati, with butter ghee, homemade",DR,Tr,,,,,,0.9,0.8,100g
+15-747,"Curry, chick pea, whole and tomato, Gujerati, with vegetable oil, homemade",DR,0,,,,,,0.9,0.8,100g
+15-748,"Curry, chick pea, UK type, homemade",DR,0,,,,,,0.9,0.9,100g
+15-749,"Curry, courgette and potato, homemade",DR,0,,,,,,0.9,0.8,100g
+15-750,"Curry, egg and potato, homemade",DR,0,,,,,,0.5,0.6,100g
+15-751,"Sauce, curry, sweet, UK type, homemade",DR,0,,,,,,2.5,2.2,100g
+15-752,"Curry, egg, in sweet sauce, UK type, homemade",DR,0,,,,,,1.5,1.3,100g
+15-753,"Curry, egg, with butter, homemade",DR,0,,,,,,1.1,1.3,100g
+15-754,"Curry, egg, with rapeseed oil, homemade",DR,0,,,,,,1.1,1.3,100g
+15-755,"Curry, green bean, masala, homemade",DR,0,,,,,,0.9,0.6,100g
+15-756,"Curry, karela, homemade",DR,0,,,,,,1.1,1.3,100g
+15-757,"Curry, lentil, red/masoor dahl and mung bean dahl, homemade",DR,0,,,,,,0.2,0.2,100g
+15-758,"Curry, lentil, red/masoor dahl and tomato, Punjabi, homemade",DR,0,,,,,,1,0.9,100g
+15-759,"Curry, lentil, red/masoor dahl and tomato, with butter, homemade",DR,0,,,,,,0.3,0.3,100g
+15-760,"Curry, lentil, red/masoor dahl and tomato, with vegetable oil, homemade",DR,0,,,,,,0.3,0.3,100g
+15-761,"Curry, lentil, red/masoor dahl and vegetable, UK type, homemade",DR,0,,,,,,0.8,0.7,100g
+15-762,"Curry, lentil, red/masoor dahl, Punjabi, homemade",DR,0,,,,,,1,1.2,100g
+15-763,"Curry, lentil, red/masoor dahl, with butter, homemade",DR,0,,,,,,0.5,0.6,100g
+15-764,"Curry, lentil, red/masoor dahl, with vegetable oil, homemade",DR,0,,,,,,0.5,0.6,100g
+15-765,"Curry, lentil, whole/masoor, Gujerati, homemade",DR,0,,,,,,0.7,0.7,100g
+15-766,"Curry, lentil, whole/masoor, Punjabi, homemade",DR,0,,,,,,0.3,0.3,100g
+15-767,"Curry, mung bean dahl and spinach, homemade",DR,0,,,,,,0.5,0.4,100g
+15-768,"Curry, mung bean dahl, Bengali, homemade",DR,0,,,,,,0.1,0.1,100g
+15-769,"Curry, mung bean, whole and turnip leaves, homemade",DR,0,,,,,,0,0.1,100g
+15-771,"Curry, mung bean, whole, Gujerati, homemade",DR,0,,,,,,0.7,0.7,100g
+15-774,"Curry, dudhi, kofta, homemade",DR,Tr,,,,,,N,N,100g
+15-776,"Curry, pea and potato, homemade",DR,0,,,,,,0.5,0.6,100g
+15-777,"Curry, pigeon pea dahl and tomato, homemade",DR,0,,,,,,0.1,0.1,100g
+15-778,"Curry, pigeon pea dahl with tomatoes and peanuts, homemade",DR,0,,,,,,0.2,0.2,100g
+15-779,"Curry, pigeon pea dahl, with butter, homemade",DR,0,,,,,,0.1,0.1,100g
+15-780,"Curry, pigeon pea dahl, with vegetable oil, homemade",DR,0,,,,,,0.1,0.1,100g
+15-781,"Curry, potato and pea, homemade",DR,0,,,,,,0.9,1,100g
+15-782,"Curry, potato, Gujerati, homemade",DR,0,,,,,,0.2,0.3,100g
+15-783,"Curry, potato, Punjabi, homemade",DR,0,,,,,,0.8,0.9,100g
+15-784,"Curry, red kidney and mung bean, whole, homemade",DR,Tr,,,,,,Tr,Tr,100g
+15-785,"Curry, red kidney bean, Gujerati, homemade",DR,0,,,,,,0.3,0.3,100g
+15-787,"Curry, spinach and potato, masala, homemade",DR,0,,,,,,1.8,2.1,100g
+15-788,"Curry, tinda gourd and potato, homemade",DR,0,,,,,,N,N,100g
+15-789,"Curry, vegetable, frozen mixed vegetables, homemade",DR,0,,,,,,0.5,0.6,100g
+15-790,"Curry, vegetable, in sweet sauce, UK type, homemade",DR,0,,,,,,1.6,1.5,100g
+15-791,"Curry, vegetable, Islami, homemade",DR,0,,,,,,1.7,1.8,100g
+15-792,"Curry, vegetable, Pakistani, homemade",DR,0,,,,,,1.2,1.3,100g
+15-793,"Curry, vegetable, West Indian, homemade",DR,0,,,,,,0.8,0.8,100g
+15-794,"Curry, vegetable, with yogurt, UK type, homemade",DR,0.5,,,,,,1.1,1.2,100g
+15-795,"Falafel, fried in rapeseed oil, homemade",DR,0,,,,,,0.6,0.8,100g
+15-796,"Flan, cheese and mushroom, homemade",DR,1.7,,,,,,0.1,0.2,100g
+15-797,"Flan, cheese and mushroom, wholemeal, homemade",DR,1.8,,,,,,0.1,0.1,100g
+15-798,"Flan, cheese, onion and potato, homemade",DR,0,,,,,,0.2,0.3,100g
+15-799,"Flan, cheese, onion and potato, wholemeal, homemade",DR,0.1,,,,,,0.2,0.2,100g
+15-800,"Flan, lentil and tomato, homemade",DR,0,,,,,,0.8,0.9,100g
+15-801,"Flan, lentil and tomato, wholemeal, homemade",DR,0,,,,,,0.8,0.9,100g
+15-802,"Flan, spinach, homemade",DR,0.9,,,,,,0.2,0.3,100g
+15-803,"Flan, spinach, wholemeal, homemade",DR,0.9,,,,,,0.2,0.3,100g
+15-804,"Flan, vegetable, homemade",DR,0.6,,,,,,0.4,0.6,100g
+15-805,"Flan, vegetable, wholemeal, homemade",DR,0.7,,,,,,0.4,0.5,100g
+15-806,"Fu-fu, sweet potato, homemade",DR,0,,,,,,N,N,100g
+15-807,"Fu-fu, yam, homemade",DR,0,,,,,,N,N,100g
+15-809,Khadhi,DR,2,,,,,,Tr,Tr,100g
+15-810,Khatiyu,DR,0,,,,,,N,N,100g
+15-813,"Leeks in cheese sauce, made with semi-skimmed milk, homemade",DR,1.4,,,,,,0.5,0.4,100g
+15-814,"Leeks in cheese sauce, made with skimmed milk, homemade",DR,1.4,,,,,,0.5,0.4,100g
+15-815,"Leeks in cheese sauce, made with whole milk, homemade",DR,1.4,,,,,,0.5,0.4,100g
+15-816,"Pie, lentil and cheese, homemade",DR,0,,,,,,0.4,0.4,100g
+15-817,"Lentil and potato pie, homemade",DR,0,,,,,,0.3,0.4,100g
+15-818,"Lentil and rice roast, homemade",DR,0,,,,,,0.2,0.3,100g
+15-819,"Lentil and rice roast, with egg, homemade",DR,0,,,,,,0.2,0.3,100g
+15-820,"Lentil cutlets, fried in vegetable oil, homemade",DR,Tr,,,,,,0.2,0.1,100g
+15-821,"Lentil pie, homemade",DR,Tr,,,,,,0.8,0.8,100g
+15-822,"Mchicha, homemade",DR,0,,,,,,1,1.1,100g
+15-823,"Vine leaves, stuffed with rice",DR,0,,,,,,4.6,5,100g
+15-824,"Okra with tomatoes and onion, Greek, homemade",DR,0,,,,,,1.6,1.4,100g
+15-825,"Okra with tomatoes and onion, West Indian, homemade",DR,0,,,,,,1.5,1.2,100g
+15-826,"Pakora/bhajia, aubergine, fried in vegetable oil, homemade",DR,0,,,,,,0.6,0.8,100g
+15-827,"Pakora/bhajia, cauliflower, fried in vegetable oil, homemade",DR,0,,,,,,0.9,0.8,100g
+15-828,"Pakora/bhajia, onion, fried in vegetable oil, homemade",DR,0,,,,,,0.7,0.8,100g
+15-829,"Pakora/bhajia, potato and cauliflower, fried in vegetable oil, homemade",DR,0,,,,,,0.4,0.5,100g
+15-830,"Pakora/bhajia, potato, carrot and pea, fried in vegetable oil, homemade",DR,0,,,,,,0.1,0.1,100g
+15-831,"Pakora/bhajia, potato, fried in vegetable oil, homemade",DR,0,,,,,,0.3,0.3,100g
+15-832,"Pakora/bhajia, spinach, fried in vegetable oil, homemade",DR,0,,,,,,0.2,0.2,100g
+15-833,"Pancakes, stuffed with vegetables, wholemeal, homemade",DR,1.7,,,,,,1,1.1,100g
+15-835,Pastichio,DR,1.1,,,,,,0.6,0.6,100g
+15-836,"Pasty, vegetable, wholemeal, homemade",DR,0.1,,,,,,0.3,0.3,100g
+15-837,"Peppers, green, stuffed with rice, homemade",DR,0,,,,,,2.8,2.6,100g
+15-838,"Pesto sauce, homemade",DR,0.4,,,,,,N,N,100g
+15-839,"Pie, Quorn and vegetable",DR,1.3,,,,,,0.2,0.4,100g
+15-840,"Pie, spinach, homemade",DR,0.8,,,,,,0.6,0.5,100g
+15-841,"Pie, vegetable, wholemeal, homemade",DR,0,,,,,,1,1,100g
+15-842,"Pilaf, rice with spinach, homemade",DR,0,,,,,,0.5,0.5,100g
+15-843,"Pilaf, rice with tomato, homemade",DR,0,,,,,,0.4,0.4,100g
+15-844,"Pilau, egg and potato, homemade",DR,0,,,,,,0.4,0.5,100g
+15-845,"Pilau, egg and potato, brown rice, homemade",DR,0,,,,,,0.4,0.6,100g
+15-846,"Pilau, mushroom, homemade",DR,Tr,,,,,,0.2,0.3,100g
+15-849,"Potato cakes, fried in rapeseed oil",DR,0.4,,,,,,0.2,0.2,100g
+15-850,"Potatoes, duchesse",DR,0,,,,,,0.3,0.3,100g
+15-852,"Peppers, green, stuffed with vegetables, cheese topping, homemade",DR,0,,,,,,N,N,100g
+15-853,Red pea loaf,DR,0,,,,,,0,0.1,100g
+15-854,Re-fried beans,DR,Tr,,,,,,0.2,0.3,100g
+15-855,Rice and black-eye beans,DR,Tr,,,,,,0.1,0.1,100g
+15-856,"Rice and black-eye beans, brown rice",DR,Tr,,,,,,0.1,0.3,100g
+15-857,Rice and pigeon peas,DR,Tr,,,,,,0.1,0.1,100g
+15-858,"Rice and pigeon peas, brown rice",DR,Tr,,,,,,0.1,0.3,100g
+15-859,Rice and red kidney beans,DR,Tr,,,,,,0,0,100g
+15-860,"Rice and red kidney beans, brown rice",DR,Tr,,,,,,0,0.2,100g
+15-861,Rice and split peas,DR,Tr,,,,,,0.1,0.1,100g
+15-862,"Rice and split peas, brown rice",DR,Tr,,,,,,0.1,0.3,100g
+15-863,"Risotto, white rice, vegetable, homemade",DR,0,,,,,,0.5,0.5,100g
+15-864,"Risotto, vegetable, brown rice",DR,0,,,,,,0.5,0.5,100g
+15-865,"Rissoles, chick pea, fried in sunflower oil",DR,0,,,,,,0,0,100g
+15-866,"Rissoles, chick pea, fried in vegetable oil",DR,0,,,,,,0,0,100g
+15-867,"Rissoles, vegetable, fried in sunflower oil",DR,Tr,,,,,,0.4,0.4,100g
+15-868,"Rissoles, vegetable, fried in vegetable oil",DR,Tr,,,,,,0.4,0.4,100g
+15-869,"Roulade, spinach",DR,1.6,,,,,,0.1,0.1,100g
+15-870,"Salad, beetroot and onion in French dressing",DR,0,,,,,,N,N,100g
+15-871,"Salad, Greek",DR,0.2,,,,,,0.9,0.7,100g
+15-872,"Salad, pasta, vegetables and mayonnaise",DR,Tr,,,,,,0.5,0.4,100g
+15-873,"Salad, potato, with French dressing",DR,0,,,,,,N,N,100g
+15-874,"Salad, potato, with mayonnaise",DR,Tr,,,,,,0.4,0.4,100g
+15-875,"Salad, rice, brown",DR,0,,,,,,1.9,2,100g
+15-876,"Salad, tomato and onion",DR,0,,,,,,N,N,100g
+15-878,"Salad, Waldorf",DR,Tr,,,,,,4.3,1.4,100g
+15-879,"Sauce, curry, onion, with butter, homemade",DR,0.2,,,,,,1.2,1.6,100g
+15-880,"Sauce, curry, onion, with vegetable oil, homemade",DR,0,,,,,,1.2,1.6,100g
+15-881,"Sauce, curry, tomato and onion, homemade",DR,0,,,,,,1.9,2,100g
+15-882,"Sauce, tomato and mushroom, homemade",DR,0,,,,,,1.9,2,100g
+15-883,"Shepherd's pie, vegetable",DR,0,,,,,,0.4,0.5,100g
+15-884,Sweet potato and onion layer,DR,1.6,,,,,,0.7,0.8,100g
+15-885,Tabouleh,DR,0,,,,,,0.3,0.3,100g
+15-886,"Tempeh burgers, fried in vegetable oil",DR,0,,,,,,0.2,0.3,100g
+15-887,"Tofu burger, baked",DR,0,,,,,,0.5,0.6,100g
+15-888,Tofu spread,DR,Tr,,,,,,0.5,0.6,100g
+15-889,"Tomatoes, stuffed with vegetables",DR,0,,,,,,2.2,2.2,100g
+15-892,"Curry, vegetable, retail, with rice",DR,0.3,,,,,,0.5,0.5,100g
+16-001,"Ayr, raw",JA,0,,,,,,0,0,100g
+16-003,"Bele, raw",JA,0,,,,,,0,0,100g
+16-004,"Boal, raw",JA,0,,,,,,0,0,100g
+16-005,Bombay duck,JA,0,,,,,,0,0,100g
+16-006,"Bream, Sea, raw",JA,0,,,,,,0,0,100g
+16-007,"Catfish, raw",JA,0,,,,,,0,0,100g
+16-008,"Catfish, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-009,"Catfish, flesh only, steamed, weighed with bones",JA,0,,,,,,0,0,100g
+16-010,"Salted fish, Chinese, bones removed, steamed",JA,0,,,,,,0,0,100g
+16-011,"Chital, raw",JA,0,,,,,,0,0,100g
+16-015,"Cod, flesh only, poached in milk, butter and salt added",JA,Tr,,,,,,0,0,100g
+16-016,"Cod, flesh only, poached in milk, butter and salt added, weighed with bones and skin",JA,Tr,,,,,,0,0,100g
+16-035,"Eel, conger, flesh only, raw",JA,0,,,,,,0,0,100g
+16-036,"Eel, conger, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-037,"Eel, conger, flesh only, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-038,"Dab, raw",JA,0,,,,,,0,0,100g
+16-039,"Dover sole, raw",JA,0,,,,,,0,0,100g
+16-040,"Flounder, raw",JA,0,,,,,,0,0,100g
+16-041,"Flounder, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-042,"Flounder, flesh only, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-043,"Flying fish, raw",JA,0,,,,,,0,0,100g
+16-052,"Haddock, in batter, fried in blended oil",JA,Tr,,,,,,Tr,Tr,100g
+16-053,"Haddock, in batter, fried in dripping",JA,Tr,,,,,,Tr,Tr,100g
+16-055,"Haddock, in batter, fried in sunflower oil",JA,Tr,,,,,,Tr,Tr,100g
+16-057,"Haddock, fillets, flesh only, in flour, fried in blended oil, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-058,"Haddock, fillets, flesh only, in flour, fried in dripping",JA,0,,,,,,Tr,Tr,100g
+16-059,"Haddock, fillets, flesh only, in flour, fried in dripping, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-060,"Haddock, fillets, flesh only, in flour, fried in sunflower oil",JA,0,,,,,,Tr,Tr,100g
+16-061,"Haddock, fillets, flesh only, in flour, fried in sunflower oil, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-062,"Haddock, coated in crumbs, frozen, raw",JA,0,,,,,,Tr,Tr,100g
+16-063,"Haddock, coated in crumbs, frozen, fried in blended oil",JA,0,,,,,,Tr,Tr,100g
+16-064,"Haddock, coated in crumbs, frozen, fried in blended oil, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-070,"Hake, flesh only, raw",JA,0,,,,,,0,0,100g
+16-071,"Hake, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-072,"Hake, flesh only, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-073,"Halibut, flesh only, raw",JA,0,,,,,,0,0,100g
+16-074,"Halibut, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-075,"Halibut, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-076,"Halibut, flesh only, poached",JA,1.1,,,,,,0,0,100g
+16-077,"Halibut, flesh only, poached, weighed with bones and skin",JA,1,,,,,,0,0,100g
+16-078,"Hoki, raw",JA,0,,,,,,0,0,100g
+16-079,"Hoki, grilled",JA,0,,,,,,0,0,100g
+16-080,"John Dory, raw",JA,0,,,,,,0,0,100g
+16-081,"Kalabasu, raw",JA,0,,,,,,0,0,100g
+16-087,"Lemon sole, goujons, baked",JA,0.4,,,,,,Tr,Tr,100g
+16-091,"Ling, raw",JA,0,,,,,,0,0,100g
+16-092,"Monkfish, flesh only, raw",JA,0,,,,,,0,0,100g
+16-093,"Monkfish, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-094,"Monkfish, flesh only, grilled, weighed with bones",JA,0,,,,,,0,0,100g
+16-095,"Mullet, Grey, flesh only, raw",JA,0,,,,,,0,0,100g
+16-096,"Mullet, Grey, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-097,"Mullet, Grey, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-098,"Mullet, Red, flesh only, raw",JA,0,,,,,,0,0,100g
+16-099,"Mullet, Red, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-100,"Mullet, Red, flesh only, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-101,"Parrot fish, raw",JA,0,,,,,,0,0,100g
+16-124,"Pomfret, black, raw",JA,0,,,,,,0,0,100g
+16-125,"Pomfret, white, raw",JA,0,,,,,,0,0,100g
+16-126,"Red snapper, flesh only, raw",JA,0,,,,,,0,0,100g
+16-127,"Red snapper, flesh only, fried in blended oil, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-128,"Red snapper, flesh only, fried in blended oil, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-129,"Red snapper, flesh only, fried in sunflower oil",JA,0,,,,,,0,0,100g
+16-130,"Red snapper, flesh only, fried in sunflower oil, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-131,"Redfish, raw",JA,0,,,,,,0,0,100g
+16-132,"Rohu, raw",JA,0,,,,,,0,0,100g
+16-133,"Rock Salmon/Dogfish, raw",JA,0,,,,,,0,0,100g
+16-134,"Rock Salmon/Dogfish, in batter, fried in blended oil",JA,Tr,,,,,,Tr,Tr,100g
+16-135,"Rock Salmon/Dogfish, in batter, fried in blended oil, weighed with bones",JA,Tr,,,,,,Tr,Tr,100g
+16-136,"Rock Salmon/Dogfish, in batter, fried in dripping",JA,Tr,,,,,,Tr,Tr,100g
+16-137,"Rock Salmon/Dogfish, in batter, fried in dripping, weighed with bones",JA,Tr,,,,,,Tr,Tr,100g
+16-138,"Rock Salmon/Dogfish, in batter, fried in retail blend oil",JA,Tr,,,,,,Tr,Tr,100g
+16-139,"Rock Salmon/Dogfish, in batter, fried in retail blend oil, weighed with bones",JA,Tr,,,,,,Tr,Tr,100g
+16-140,"Rock Salmon/Dogfish, in batter, fried in sunflower oil",JA,Tr,,,,,,Tr,Tr,100g
+16-141,"Rock Salmon/Dogfish, in batter, fried in sunflower oil, weighed with bones",JA,Tr,,,,,,Tr,Tr,100g
+16-142,"Shark, raw",JA,0,,,,,,0,0,100g
+16-143,"Skate, raw",JA,0,,,,,,0,0,100g
+16-144,"Skate, grilled",JA,0,,,,,,0,0,100g
+16-145,"Skate, grilled, weighed with bones",JA,0,,,,,,0,0,100g
+16-154,"Tilapia, raw",JA,0,,,,,,0,0,100g
+16-155,"Turbot, flesh only, raw",JA,0,,,,,,0,0,100g
+16-156,"Turbot, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-157,"Turbot, flesh only, grilled, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-158,"White fish, dried, salted",JA,0,,,,,,0,0,100g
+16-159,"Whiting, flesh only, raw",JA,0,,,,,,0,0,100g
+16-160,"Whiting, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-161,"Whiting, flesh only, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-162,"Whiting, in crumbs, fried in blended oil",JA,0,,,,,,Tr,Tr,100g
+16-163,"Whiting, in crumbs, fried in blended oil, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-164,"Whiting, in crumbs, fried in dripping",JA,0,,,,,,Tr,Tr,100g
+16-165,"Whiting, in crumbs, fried in dripping, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-166,"Whiting, in crumbs, fried in sunflower oil",JA,0,,,,,,Tr,Tr,100g
+16-167,"Whiting, in crumbs, fried in sunflower oil, weighed with bones and skin",JA,0,,,,,,Tr,Tr,100g
+16-169,"Bacha, raw",JC,0,,,,,,0,0,100g
+16-170,"Bloater, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-171,"Bloater, flesh only, grilled, weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-172,"Carp, raw",JA,0,,,,,,0,0,100g
+16-173,"Eel, yellow, raw",JC,0,,,,,,0,0,100g
+16-175,"Herring, flesh only, raw",JC,0,,,,,,0,0,100g
+16-176,"Herring, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-177,"Herring, flesh only, grilled, weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-183,"Herring, pickled",JC,0,,,,,,0,0,100g
+16-184,"Hilsa, raw",JC,0,,,,,,0,0,100g
+16-185,"Jackfish, raw",JC,0,,,,,,0,0,100g
+16-186,"Katla, raw",JA,0,,,,,,0,0,100g
+16-199,"Orange roughy, raw",JC,0,,,,,,0,0,100g
+16-218,"Sprats, raw",JC,0,,,,,,0,0,100g
+16-219,"Sprats, fried",JC,0,,,,,,0,0,100g
+16-220,"Sprats, fried, weighed with bones",JC,0,,,,,,0,0,100g
+16-221,"Swordfish, flesh only, raw",JC,0,,,,,,0,0,100g
+16-222,"Swordfish, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-223,"Swordfish, flesh only, grilled, weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-224,"Trout, brown, raw",JC,0,,,,,,0,0,100g
+16-231,"Whitebait, in flour, fried",JC,0,,,,,,Tr,Tr,100g
+16-235,"Crayfish, raw",JK,0,,,,,,0,0,100g
+16-245,"Shrimps, boiled",JK,0,,,,,,0,0,100g
+16-246,"Shrimps, boiled, weighed with shells",JK,0,,,,,,0,0,100g
+16-247,"Shrimps, canned in brine, drained",JK,0,,,,,,0,0,100g
+16-248,"Shrimps, frozen",JK,0,,,,,,0,0,100g
+16-249,"Shrimps, dried",JK,0,,,,,,0,0,100g
+16-252,"Cockles, boiled",JM,0,,,,,,0,0,100g
+16-254,"Cuttlefish, raw",JM,0,,,,,,0,0,100g
+16-259,"Octopus, raw",JM,0,,,,,,0,0,100g
+16-260,"Oysters, raw",JM,0,,,,,,0,0,100g
+16-261,"Oysters, raw, weighed with shells",JM,0,,,,,,0,0,100g
+16-262,"Scallops, steamed",JM,0,,,,,,0,0,100g
+16-263,"Squid, raw",JM,0,,,,,,0,0,100g
+16-267,"Squid, dried",JM,0,,,,,,0,0,100g
+16-268,"Whelks, boiled",JM,0,,,,,,0,0,100g
+16-269,"Whelks, boiled, weighed with shells",JM,0,,,,,,0,0,100g
+16-270,"Winkles, boiled",JM,0,,,,,,0,0,100g
+16-271,"Winkles, boiled, weighed with shells",JM,0,,,,,,0,0,100g
+16-272,"Caviare, bottled in brine, drained",JR,0,,,,,,0,0,100g
+16-279,"Fish balls, steamed",JR,0,,,,,,0,0,100g
+16-299,"Roe, cod, hard, raw",JR,0,,,,,,0,0,100g
+16-301,"Roe, cod, hard, coated in batter, fried",JR,Tr,,,,,,Tr,Tr,100g
+16-302,"Roe, herring, soft, raw",JR,0,,,,,,0,0,100g
+16-332,"Lobster, boiled",JK,0,,,,,,0,0,100g
+16-333,"Curry, prawn, takeaway",JR,0.1,,,,,,0.6,0.5,100g
+16-335,"Szechuan prawns with vegetables, takeaway",JR,Tr,,,,,,0.4,0.4,100g
+16-343,"Lobster, boiled, weighed with shell",JK,0,,,,,,0,0,100g
+16-356,"Salmon, farmed, flesh only, raw",J,0,,,,,,0,0,100g
+16-357,"Salmon, farmed, flesh only, grilled",J,0,,,,,,0,0,100g
+16-358,"Salmon, farmed, flesh only, steamed",J,0,,,,,,0,0,100g
+16-359,"Salmon, farmed, flesh only, baked",J,0,,,,,,0,0,100g
+16-360,"Salmon, wild, flesh only, raw",J,0,,,,,,0,0,100g
+16-361,"Sushi, salmon nigiri",JR,0,,,,,,0.5,0.5,100g
+16-362,"Sushi, tuna nigiri",JR,0.1,,,,,,0.5,1,100g
+16-364,"Curry, fish, homemade",JR,0,,,,,,0.7,0.5,100g
+16-365,"Curry, Prawn bhuna, takeaway",JR,Tr,,,,,,0.7,0.5,100g
+16-366,"Curry, Prawn madras, takeaway",JR,0.1,,,,,,0.4,0.5,100g
+16-367,"Sesame prawn toast, takeaway",JR,Tr,,,,,,Tr,Tr,100g
+16-368,"Cod, in batter, fried, takeaway",JA,Tr,,,,,,0.2,0.1,100g
+16-369,"Cod, in batter, baked",JA,N,,,,,,Tr,N,100g
+16-370,"Cod, in breadcrumbs, baked",JA,Tr,,,,,,Tr,0.2,100g
+16-371,"Fish fingers, pollock, grilled",JR,Tr,,,,,,0.1,0.4,100g
+16-372,"Cod, flesh only, raw",JA,0,,,,,,0,0,100g
+16-373,"Cod, flesh only, baked",JA,0,,,,,,0,0,100g
+16-374,"Cod, flesh only, microwaved",JA,0,,,,,,0,0,100g
+16-375,"Haddock, flesh only, raw",JA,0,,,,,,0,0,100g
+16-376,"Haddock, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-377,"Haddock, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-378,"Pollock, Alaskan, flesh only, raw",JA,0,,,,,,0,0,100g
+16-379,"Lemon sole, flesh only, raw",JA,0,,,,,,0,0,100g
+16-380,"Lemon sole, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-381,"Plaice, flesh only, raw",JA,0,,,,,,0,0,100g
+16-382,"Pangasius, flesh only, raw",JA,0,,,,,,0,0,100g
+16-383,"Coley, flesh only, raw",JA,0,,,,,,0,0,100g
+16-384,"Prawns, standard, purchased cooked",JK,0,,,,,,0,0,100g
+16-385,"Bass, sea, flesh only, raw",JA,0,,,,,,0,0,100g
+16-386,"Bass, sea, flesh only, baked",JA,0,,,,,,0,0,100g
+16-387,"Prawns, king, raw",JK,0,,,,,,0,0,100g
+16-388,"Prawns, king, grilled from raw",JK,0,,,,,,0,0,100g
+16-389,"Prawns, king, purchased cooked",JK,0,,,,,,0,0,100g
+16-390,"Mussels, purchased cooked",JM,0,,,,,,0,0,100g
+16-391,"Crab, brown meat, purchased cooked",JK,0,,,,,,0,0,100g
+16-392,"Crab, white meat, purchased cooked",JK,0,,,,,,0,0,100g
+16-393,"Mackerel, flesh only, raw",JC,0,,,,,,0,0,100g
+16-394,"Mackerel, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-395,"Trout, rainbow, flesh only, raw",JC,0,,,,,,0,0,100g
+16-396,"Trout, rainbow, flesh only, baked",JC,0,,,,,,0,0,100g
+16-397,"Kippers, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-398,"Kippers, flesh only, boil in the bag, with butter, cooked",JC,Tr,,,,,,0,0,100g
+16-399,"Tuna, flesh only, raw",JC,0,,,,,,0,0,100g
+16-400,"Tuna, flesh only, baked",JC,0,,,,,,0,0,100g
+16-401,"Sardines, flesh only, raw",JC,0,,,,,,0,0,100g
+16-402,"Haddock, flesh only, smoked, poached",JA,0,,,,,,0,0,100g
+16-403,"Plaice, in breadcrumbs, baked",JA,Tr,,,,,,Tr,0.2,100g
+16-404,"Calamari, coated in batter, baked",JM,0,,,,,,Tr,Tr,100g
+16-405,"Fish fingers, cod, grilled/baked",JR,Tr,,,,,,Tr,Tr,100g
+16-406,"Fish fingers, salmon, grilled/baked",JR,Tr,,,,,,0.1,0.1,100g
+16-407,"Fishcakes, white fish, coated in breadcrumbs, baked",JA,Tr,,,,,,0.2,0.2,100g
+16-408,"Fishcakes, salmon, coated in breadcrumbs, baked",JR,Tr,,,,,,0.2,0.1,100g
+16-409,"Scampi, coated in breadcrumbs, baked",JR,Tr,,,,,,Tr,Tr,100g
+16-410,"Pie, fish, white fish, retail, baked",JR,1.3,,,,,,Tr,0.2,100g
+16-411,"Mussels in white wine sauce, cooked",JM,0.8,,,,,,0,0,100g
+16-412,"Salmon, smoked (cold-smoked)",JC,0,,,,,,Tr,Tr,100g
+16-413,"Salmon, smoked (hot-smoked)",JC,0,,,,,,Tr,Tr,100g
+16-414,"Mackerel, flesh only, smoked",JC,0,,,,,,0,0,100g
+16-415,Seafood sticks,JR,0,,,,,,Tr,Tr,100g
+16-416,"Tuna, canned in brine, drained",JC,0,,,,,,0,0,100g
+16-417,"Tuna, canned in sunflower oil, drained",JC,0,,,,,,0,0,100g
+16-418,"Salmon, red, canned in brine, drained",JC,0,,,,,,0,0,100g
+16-419,"Salmon, red, canned in brine, skinless and boneless, drained",JC,0,,,,,,0,0,100g
+16-420,"Salmon, pink, canned in brine, drained",JC,0,,,,,,0,0,100g
+16-422,"Sardines, canned in tomato sauce, whole contents",JC,0,,,,,,0.6,0.3,100g
+16-424,"Sardines, canned in brine, drained",JC,0,,,,,,0,0,100g
+16-425,"Langoustine, boiled",JK,0,,,,,,0,0,100g
+16-426,"Cod, in batter, fried in rapeseed oil",JA,N,,,,,,Tr,N,100g
+16-427,"Cod, in batter, fried in dripping, takeaway",JA,Tr,,,,,,0.2,0.1,100g
+16-428,"Cod, in batter, fried in sunflower oil, takeaway",J,Tr,,,,,,0.2,0.1,100g
+16-429,"Coley, flesh only, baked",JA,0,,,,,,0,0,100g
+16-430,"Coley, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-431,"Coley, flesh only, poached",JA,0,,,,,,0,0,100g
+16-432,"Pangasius, flesh only, baked",JA,0,,,,,,0,0,100g
+16-433,"Pangasius, flesh only, poached",JA,0,,,,,,0,0,100g
+16-434,"Plaice, flesh only, baked",JA,0,,,,,,0,0,100g
+16-435,"Plaice, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-436,"Pollock, Alaskan, flesh only, baked",JA,0,,,,,,0,0,100g
+16-437,"Pollock, Alaskan, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-438,"Sardines, flesh only, grilled",JC,0,,,,,,0,0,100g
+16-439,"Sardines, canned in sunflower oil, drained",JC,0,,,,,,0,0,100g
+16-440,"Sardines, canned in olive oil, drained",JC,0,,,,,,0,0,100g
+16-441,"Crab, purchased cooked",JK,0,,,,,,0,0,100g
+16-442,"Scampi, in breadcrumbs, frozen, fried in rapeseed oil",JK,Tr,,,,,,Tr,Tr,100g
+16-443,"Scampi, coated in breadcrumbs, fried in sunflower oil",JK,Tr,,,,,,Tr,Tr,100g
+16-444,"Fish fingers, cod, fried in rapeseed oil",JR,Tr,,,,,,Tr,Tr,100g
+16-445,"Fish fingers, cod, fried in sunflower oil",JR,Tr,,,,,,Tr,Tr,100g
+16-446,"Curry, fish, Bangladeshi, homemade",JR,0,,,,,,0.4,0.4,100g
+16-447,"Kedgeree, homemade",JR,Tr,,,,,,Tr,Tr,100g
+16-448,"Anchovies, canned in oil, drained",JC,0,,,,,,0,0,100g
+16-449,Taramasalata,JR,Tr,,,,,,N,N,100g
+16-450,Fish paste,JR,0,,,,,,Tr,Tr,100g
+16-451,"Pate, tuna",JR,0,,,,,,0.1,0.1,100g
+16-452,"Crab, canned in brine, drained",JK,0,,,,,,0,0,100g
+16-453,"Salmon en croute, retail",JR,0.2,,,,,,Tr,0.1,100g
+16-454,Seafood selection,JR,0,,,,,,0,0,100g
+16-455,"Curry, haddock, Bengali, homemade",JR,0.1,,,,,,1,1.2,100g
+16-456,"Curry, herring, Bengali, homemade",JR,0.1,,,,,,1,1.2,100g
+16-457,"Curry, prawn and mushroom, homemade",J,0,,,,,,0.6,0.7,100g
+16-458,"Fishcakes, cod, homemade",JR,Tr,,,,,,0.1,0.1,100g
+16-459,"Fishcakes, salmon, homemade",JR,Tr,,,,,,0.1,0.1,100g
+16-460,"Pie, fish, white fish, homemade",JR,1,,,,,,0.2,0.2,100g
+16-461,"Pilau, prawn, homemade",JR,0,,,,,,0.2,0.3,100g
+16-462,"Curry, fish and vegetable, Bangladeshi, homemade",J,0,,,,,,0.4,0.4,100g
+16-463,"Bass, sea, flesh only, baked, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-464,"Bass, sea, flesh only, raw, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-465,"Cod, flesh only, baked, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-466,"Cod, flesh only, grilled",JA,0,,,,,,0,0,100g
+16-467,"Cod, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-468,"Cod, flesh only, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-469,"Coley, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-470,"Crab, white and brown meat, purchased cooked, weighed with shell",JK,0,,,,,,0,0,100g
+16-471,"Haddock, flesh only, grilled, fillets weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-472,"Haddock, flesh only, steamed, fillets weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-473,"Haddock, flesh only, poached",JA,0,,,,,,0,0,100g
+16-474,"Haddock, flesh only, poached, fillets weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-475,"Haddock, flesh only, smoked, poached, fillets weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-476,"Kippers, flesh only, grilled, fillets weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-477,"Sole, flesh only, grilled, fillets weighed with skin",JA,0,,,,,,0,0,100g
+16-478,"Lemon sole, flesh only, steamed",JA,0,,,,,,0,0,100g
+16-479,"Mackerel, flesh only, grilled, fillets weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-480,"Plaice, flesh only, steamed, fillets weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-481,"Prawns, king, purchased cooked, weighed with shells",JK,0,,,,,,0,0,100g
+16-482,"Prawns, standard, dried",JK,0,,,,,,0,0,100g
+16-483,"Salmon, farmed, flesh only, steamed, fillets weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-484,"Salmon, farmed, flesh only, grilled, weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-485,"Salmon, wild, baked",JC,0,,,,,,0,0,100g
+16-486,"Salmon, wild, grilled",JC,0,,,,,,0,0,100g
+16-487,"Salmon, wild, steamed",JC,0,,,,,,0,0,100g
+16-488,"Sardines, flesh only, grilled, weighed with skin and bones",JC,0,,,,,,0,0,100g
+16-489,"Trout, rainbow, baked, flesh only, fillets weighed with bones and skin",JC,0,,,,,,0,0,100g
+16-490,"Cod, dried, salted, boiled",JA,0,,,,,,0,0,100g
+16-491,"Cod, flesh only, salted and smoked, raw",JA,0,,,,,,0,0,100g
+16-492,"Haddock, flesh only, smoked, raw",JA,0,,,,,,0,0,100g
+16-493,"Haddock, flesh only, smoked, steamed",JA,0,,,,,,0,0,100g
+16-494,"Haddock, flesh only, smoked, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-495,"Haddock, in batter, fried in retail blend oil",JA,Tr,,,,,,Tr,Tr,100g
+16-496,"Lemon sole, flesh only, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+16-497,"Mussels, raw",JM,0,,,,,,0,0,100g
+16-498,"Plaice, in batter, fried in blended oil",JA,Tr,,,,,,Tr,Tr,100g
+16-499,"Plaice, in batter, fried in retail blend oil",JA,Tr,,,,,,Tr,Tr,100g
+16-500,"Plaice, in batter, fried in sunflower oil",JA,Tr,,,,,,Tr,Tr,100g
+16-501,"Coley, flesh only, steamed, weighed with bones and skin",JA,0,,,,,,0,0,100g
+17-001,"Butteroil, unsalted",OB,Tr,,,,,,0,0,100g
+17-002,Cocoa butter,OE,0,,,,,,0,0,100g
+17-010,Lard,OF,0,,,,,,0,0,100g
+17-011,"Suet, shredded",OF,0,,,,,,0.1,0.1,100g
+17-031,"Oil, coconut",OC,0,,,,,,0,0,100g
+17-033,"Oil, corn",OC,0,,,,,,0,0,100g
+17-034,"Oil, cottonseed",OC,0,,,,,,0,0,100g
+17-035,"Oil, evening primrose",OC,0,,,,,,0,0,100g
+17-036,"Oil, grapeseed",OC,0,,,,,,0,0,100g
+17-037,"Oil, hazelnut",OC,0,,,,,,0,0,100g
+17-038,"Oil, olive",OC,0,,,,,,0,0,100g
+17-039,"Oil, palm",OC,0,,,,,,0,0,100g
+17-040,"Oil, peanut (groundnut)",OC,0,,,,,,0,0,100g
+17-041,"Oil, rapeseed",OC,0,,,,,,0,0,100g
+17-042,"Oil, safflower",OC,0,,,,,,0,0,100g
+17-043,"Oil, sesame",OC,0,,,,,,0,0,100g
+17-044,"Oil, soya",OC,0,,,,,,0,0,100g
+17-045,"Oil, sunflower",OC,0,,,,,,0,0,100g
+17-047,"Oil, walnut",OC,0,,,,,,0,0,100g
+17-048,"Oil, wheatgerm",OC,0,,,,,,0,0,100g
+17-049,"Glucose liquid, BP",SC,0,,,,,,0,N,100g
+17-050,Honey,SC,0,,,,,,41.8,34.6,100g
+17-051,Honey and comb,SC,0,,,,,,40.2,34.2,100g
+17-059,Molasses,SC,0,,,,,,12.9,11.5,100g
+17-060,"Sugar, brown",SC,0,,,,,,0,0,100g
+17-061,"Sugar, Demerara",SC,0,,,,,,0,0,100g
+17-062,"Sugar, icing",SC,0,,,,,,0,0,100g
+17-063,"Sugar, white",SC,0,,,,,,0,0,100g
+17-064,"Syrup, corn, dark",SC,0,,,,,,1.2,14.9,100g
+17-065,"Syrup, golden",SC,0,,,,,,23,23.1,100g
+17-073,"Jam, fruit with edible seeds",SC,0,,,,,,14.9,27.4,100g
+17-075,"Jam, reduced sugar",SC,0,,,,,,15,10.4,100g
+17-078,Marmalade,SC,0,,,,,,15,27.6,100g
+17-091,"Chocolate, white",SEA,10.7,,,,,,Tr,Tr,100g
+17-096,Smartie-type sweets,SEA,4.8,,,,,,Tr,0.3,100g
+17-098,"Truffles, mocha, homemade",SEA,2.8,,,,,,Tr,Tr,100g
+17-101,"Sweets, boiled",SEC,0,,,,,,1.4,8.5,100g
+17-107,Fruit gums/jellies,SEC,Tr,,,,,,Tr,6.3,100g
+17-114,Marshmallows,SEC,Tr,,,,,,0.7,12.1,100g
+17-116,"Peanut brittle, homemade",SEC,0,,,,,,3.8,3.8,100g
+17-117,Peppermints,SEC,0,,,,,,0,1,100g
+17-122,"Turkish delight, without nuts",SEC,0,,,,,,N,N,100g
+17-132,Pork scratchings,SN,0,,,,,,Tr,0.2,100g
+17-153,"Coffee, infusion, strong",PAC,0,,,,,,0,0,100g
+17-154,"Coffee, infusion, weak",PAC,0,,,,,,0,0,100g
+17-155,"Coffee, infusion, average, with single cream",PAC,0.3,,,,,,0,0,100g
+17-156,"Coffee, infusion, average, with whole milk",PAC,0.5,,,,,,0,0,100g
+17-157,"Coffee, infusion, average, with semi-skimmed milk",PAC,0.7,,,,,,0,0,100g
+17-158,"Coffee, powder, instant",PAA,0,,,,,,0,0,100g
+17-159,"Coffee, instant, made up with water",PAC,0,,,,,,0,0,100g
+17-160,"Coffee, instant, made up with water and whole milk",PAC,0.5,,,,,,0,0,100g
+17-161,"Coffee, instant, made up with water and semi-skimmed milk",PAC,0.7,,,,,,0,0,100g
+17-163,"Coffee and chicory essence, with water",PA,0,,,,,,0.1,0.1,100g
+17-165,"Tea, black, infusion, average",PAA,0,,,,,,0,0,100g
+17-166,"Tea, black, infusion, weak",PAC,0,,,,,,0,0,100g
+17-167,"Tea, black, infusion, strong",PAC,0,,,,,,0,0,100g
+17-168,"Tea, infusion, average, with whole milk",PAC,0.5,,,,,,0,0,100g
+17-169,"Tea, infusion, average, with semi-skimmed milk",PAC,0.7,,,,,,0,0,100g
+17-170,"Tea, Chinese, leaves, infusion",PAC,0,,,,,,0,0,100g
+17-171,"Tea, green, infusion",PAC,0,,,,,,0,0,100g
+17-172,"Tea, herbal, infusion",PAC,0,,,,,,0,0,100g
+17-175,Cola,PCA,0,,,,,,3.4,3.5,100g
+17-179,Lemonade,PCA,0,,,,,,1.4,1.5,100g
+17-200,"Lime juice cordial, undiluted",PCC,0,,,,,,11,11.5,100g
+17-201,"Lime juice cordial, diluted",PCC,0,,,,,,2.2,2.3,100g
+17-208,"Beer, bitter, best, premium",QA,0,,,,,,0,0.3,100ml
+17-212,"Lager, alcohol-free",QA,0,,,,,,0.4,0.6,100ml
+17-222,"Cider, dry",QC,0,,,,,,0.5,0.6,100ml
+17-223,"Cider, low alcohol",QC,0,,,,,,1.4,0.7,100ml
+17-224,"Cider, sweet",QC,0,,,,,,0.7,1,100ml
+17-233,"Wine, white, sweet",QE,0,,,,,,3.3,2.6,100ml
+17-234,Port,QF,0,,,,,,4.6,4.6,100ml
+17-236,"Sherry, medium",QF,0,,,,,,2.9,3,100ml
+17-239,"Vermouth, dry",QG,0,,,,,,1.2,1.1,100ml
+17-244,"Liqueurs, high strength",QI,0,,,,,,2.3,2.6,100ml
+17-245,"Liqueurs, low-medium strength",QI,0,,,,,,6.1,6.3,100ml
+17-247,"Spirits, 40% volume",QK,0,,,,,,0,0,100ml
+17-299,"Dips, sour-cream based, assorted flavours",WCG,Tr,,,,,,0.7,0.9,100g
+17-314,Horseradish sauce,WCN,0,,,,,,3.6,4,100g
+17-329,"Sauce, dry, casserole mix",WC,1.3,,,,,,2.3,3.8,100g
+17-330,"Sauce, dry, casserole mix, made up",WC,0.1,,,,,,0.2,0.4,100g
+17-336,"Sauce, sweet and sour, take-away",WCN,0,,,,,,9.7,9.5,100g
+17-339,Vinegar,WY,0,,,,,,0.3,0.3,100g
+17-343,"Chutney, mango, sweet",WE,0,,,,,,19.5,20.6,100g
+17-345,"Chutney, tomato",WCG,0,,,,,,14.2,13.6,100g
+17-354,"Relish, tomato based",WCN,0,,,,,,6.8,6.5,100g
+17-355,Baking powder,WY,0,,,,,,0,0,100g
+17-356,Bicarbonate of soda,WY,0,,,,,,0,0,100g
+17-358,Cream of tartar,WY,0,,,,,,0,0,100g
+17-360,Gelatine,WY,0,,,,,,0,0,100g
+17-362,Mustard powder,WY,0,,,,,,N,N,100g
+17-363,"Mustard, powder, made up",WY,0,,,,,,N,N,100g
+17-364,"Mustard, smooth",WY,0,,,,,,2.9,3.4,100g
+17-365,"Mustard, wholegrain",WY,0,,,,,,1.9,2,100g
+17-367,Salt,WY,0,,,,,,0,0,100g
+17-371,"Stuffing mix, dried",AT,0,,,,,,1.6,0.8,100g
+17-372,"Stuffing mix, dried, assorted flavours, made up",AT,0,,,,,,0.5,0.2,100g
+17-377,"Water, distilled",WY,0,,,,,,0,0,100g
+17-378,"Yeast, bakers, compressed",WY,0,,,,,,Tr,Tr,100g
+17-379,"Yeast, dried",WY,0,,,,,,Tr,Tr,100g
+17-416,"Mushroom, dried",DI,0,,,,,,1.2,1.2,100g
+17-417,"Spinach, dried",DI,0,,,,,,4.3,4.3,100g
+17-487,"Dripping, beef",OF,0,,,,,,0,0,100g
+17-488,"Oil, cod liver",OC,0,,,,,,0,0,100g
+17-491,"Chocolate, plain",SEA,0.2,,,,,,Tr,Tr,100g
+17-498,"Drinking chocolate, powder",PAA,0,,,,,,0,0,100g
+17-499,"Drinking chocolate, powder, reduced fat",PAA,Tr,,,,,,0.9,Tr,100g
+17-505,"Cola, diet",PCA,0,,,,,,Tr,Tr,100g
+17-506,"Beer, bitter, average (<4% ABV)",QA,0,,,,,,0,0,100ml
+17-514,Beef extract,WY,0,,,,,,0.2,0.2,100g
+17-515,"Stock cubes, beef",WY,0,,,,,,N,N,100g
+17-517,Yeast extract,WY,0,,,,,,1.5,Tr,100g
+17-583,"Icing, glace, homemade",SC,0,,,,,,0,0,100g
+17-593,"Turkish delight, with nuts, homemade",SEC,0,,,,,,Tr,Tr,100g
+17-594,"Coffee, Irish",PAC,0.3,,,,,,0,0,100g
+17-618,"Sauce, pasta, tomato based, for bolognese",WC,0,,,,,,2.6,2.2,100g
+17-619,"Sauce, pasta, tomato based, napoletana",WC,0,,,,,,2.7,2.9,100g
+17-620,"Sauce, pasta, tomato based, reduced fat",WC,0,,,,,,2.4,2.1,100g
+17-621,"Sauce, pasta, tomato based, with added vegetables",WC,0,,,,,,2.1,1.8,100g
+17-622,"Pesto, green",WC,0.4,,,,,,0.4,1.1,100g
+17-623,"Pesto, red",WC,N,,,,,,N,N,100g
+17-624,"Sauce, pasta, four cheese",WC,N,,,,,,Tr,Tr,100g
+17-625,"Sauce, pasta, carbonara type",WC,0.8,,,,,,Tr,Tr,100g
+17-626,"Sauce, Indian cook in, korma/tikka masala",WC,0.5,,,,,,2,1.6,100g
+17-627,"Sauces, Indian cook in, other",WC,Tr,,,,,,2.3,1.9,100g
+17-628,"Sauce, Chinese cook in, sweet & sour",WC,0,,,,,,4.8,4.8,100g
+17-629,"Sauce, Chinese stir fry",WC,0,,,,,,3.6,3.7,100g
+17-630,"Sauce, traditional cook in, tomato based",WC,0,,,,,,1.7,1.5,100g
+17-631,"Sauce, traditional cook in, white sauce based",WC,0.5,,,,,,0.5,0.5,100g
+17-632,"Coffee, cappuccino, latte",P,2.4,,,,,,0,0,100g
+17-634,"Soup, carrot and coriander, carton, chilled",WA,0.3,,,,,,0.6,0.6,100g
+17-635,"Soup, mushroom, carton, chilled",WA,0.7,,,,,,0.2,0.1,100g
+17-636,"Soup, tomato, carton, chilled",WA,0.2,,,,,,1.1,1,100g
+17-637,"Soup, broccoli and stilton, carton, chilled",WA,0.6,,,,,,0.3,0.2,100g
+17-640,"Ghee, butter",OF,Tr,,,,,,0,0,100g
+17-642,"Potato snacks, pringle-type, fried in vegetable oil",SNA,Tr,,,,,,0.2,0.3,100g
+17-643,Potato rings,SN,Tr,,,,,,Tr,Tr,100g
+17-644,Tortilla chips fried in sunflower oil,SN,1,,,,,,0.2,0.2,100g
+17-645,Corn snacks,SN,4.9,,,,,,Tr,Tr,100g
+17-646,"Toffees, mixed",SEC,Tr,,,,,,Tr,5.9,100g
+17-647,"Sweets, chew sweets",SEC,Tr,,,,,,Tr,6.3,100g
+17-648,"Chocolate, milk",SEA,9.2,,,,,,Tr,Tr,100g
+17-649,"Caramel bars and sweets, chocolate covered",SEA,7.5,,,,,,Tr,4.7,100g
+17-650,"Chocolate, dark, with crème or mint fondant centres",SEA,Tr,,,,,,2.4,4,100g
+17-651,Maltesers and similar products,SEA,14.2,,,,,,Tr,2.3,100g
+17-652,"Soup, cream of tomato, canned",WAC,0.5,,,,,,1.5,1.3,100g
+17-653,"Soup, instant, dried, as purchased",WAE,0.6,,,,,,1.7,2.1,100g
+17-654,"Mayonnaise, standard, retail",WCG,Tr,,,,,,0.4,0.3,100g
+17-655,"Butter, spreadable (75-80% fat)",OA,0.5,,,,,,0,0,100g
+17-656,"Butter, spreadable, light (60% fat)",OA,0.8,,,,,,0,0,100g
+17-657,Chocolate covered caramel and biscuit fingers,SEA,5.8,,,,,,Tr,4.5,100g
+17-658,Chocolate covered bar with caramel and cereal,SEA,9.4,,,,,,Tr,2.1,100g
+17-659,Chocolate spread,SC,10,,,,,,Tr,Tr,100g
+17-660,"Soup, instant, dried, as served",WAE,0.1,,,,,,0.2,0.2,100g
+17-661,"Butter, unsalted",OA,0.6,,,,,,0,0,100g
+17-664,"Bread sauce, made with semi-skimmed milk, HOMEMADE",WCD,3.2,,,,,,0.5,0.6,100g
+17-665,"Cheese sauce, made with semi-skimmed milk, homemade",WCD,4.1,,,,,,Tr,Tr,100g
+17-666,"Cheese sauce, packet mix, made up with semi-skimmed milk, homemade",WCD,5.2,,,,,,Tr,Tr,100g
+17-667,"White sauce, savoury, made with semi-skimmed milk, homemade",WCD,5.1,,,,,,Tr,Tr,100g
+17-668,Mars bar and own brand equivalents,SEA,8.7,,,,,,0.3,7.8,100g
+17-669,Milky Way and own brand equivalents,SEA,8.3,,,,,,0.3,6.5,100g
+17-670,Topic/Snickers and own brand equivalents,SEA,5.8,,,,,,0.1,4.8,100g
+17-671,"Potato crisps, fried in sunflower oil",SNA,Tr,,,,,,Tr,Tr,100g
+17-672,"Energy drink, carbonated",PCA,0,,,,,,N,N,100g
+17-673,"Fruit juice drink, carbonated, no added sugar, ready to drink",PCA,0,,,,,,0.2,0.1,100g
+17-674,"High juice drink, no added sugar, undiluted",PCC,0,,,,,,1.3,1.1,100g
+17-676,"Lager, extra strong",QA,0,,,,,,0,1,100ml
+17-677,"Dips, sour-cream based, reduced fat",WCG,N,,,,,,N,N,100g
+17-678,"Brown sauce, reduced salt/sugar",WCN,0,,,,,,5.9,5.2,100g
+17-679,"Mayonnaise, reduced fat",WCG,0,,,,,,1,1.1,100g
+17-680,Stock gel,WY,0,,,,,,N,N,100g
+17-681,"Stock, chicken, ready made, retail",WY,0,,,,,,N,N,100g
+17-682,"Pot savouries, made up",SN,0.1,,,,,,0.5,0.4,100g
+17-683,"Fudge, homemade",SEC,5,,,,,,0,0,100g
+17-684,"Soup, vegetable, homemade",WAA,0,,,,,,0.5,0.5,100g
+17-685,"Butter, salted",OA,0.6,,,,,,0,0,100g
+17-686,"Oil, vegetable, average",OC,0,,,,,,0,0,100g
+17-687,Chocolate nut spread,SC,3,,,,,,Tr,Tr,100g
+17-688,"Jam, stone fruit",SC,0,,,,,,14.9,27.5,100g
+17-689,"Ice cream sauce, topping, strawberry and chocolate flavours",SC,0,,,,,,28,28,100g
+17-690,"Chocolate, fancy and filled",SEA,3.6,,,,,,3.1,5.4,100g
+17-691,"Popcorn, candied",SN,0,,,,,,Tr,Tr,100g
+17-692,"Popcorn, salted, retail",SN,0,,,,,,Tr,Tr,100g
+17-693,"Potato crisps, low fat",SN,0.5,,,,,,Tr,0.2,100g
+17-694,Twiglets,SN,Tr,,,,,,Tr,Tr,100g
+17-695,"Soup, chicken, cream of, canned",WAC,0.4,,,,,,0.1,Tr,100g
+17-696,"Soup, chicken, cream of, canned, condensed",WAC,0.8,,,,,,0.2,Tr,100g
+17-697,"Chicken soup, cream of, canned, condensed, as served",WAC,0.4,,,,,,0.1,Tr,100g
+17-698,"Soup, lentil, canned",WAC,0,,,,,,0.7,0.5,100g
+17-699,"Soup, low calorie, canned",WAC,0,,,,,,1.2,1.2,100g
+17-700,"Soup, oxtail, canned",WAC,0,,,,,,0.2,0.2,100g
+17-701,"Dressing, French",WCG,0,,,,,,N,N,100g
+17-702,Piccalilli,WCN,0,,,,,,6.8,6.5,100g
+17-703,Salad cream,WCG,0,,,,,,1.9,1.9,100g
+17-704,"Salad cream, reduced fat",WCG,0,,,,,,2.3,2.5,100g
+17-705,Barbecue sauce,WCN,0,,,,,,N,N,100g
+17-706,Brown fruity sauce,WCN,0,,,,,,8.3,7.3,100g
+17-707,Mint sauce,WCN,0,,,,,,4.8,4.9,100g
+17-708,"Relish, corn/cucumber/onion",WCN,0,,,,,,9.4,9,100g
+17-709,Tomato ketchup,WCN,0,,,,,,6.4,5.9,100g
+17-710,"Fat spread, reduced fat (62-75%), polyunsaturated",OA,0.6,,,,,,0,0,100g
+17-711,"Soup, minestrone, canned",WA,0,,,,,,N,N,100g
+17-712,"Soup, vegetable, canned",WAC,0,,,,,,0.8,0.7,100g
+17-713,"Soup, mushroom, cream of, canned",WAC,0.4,,,,,,0.1,Tr,100g
+17-714,"Soup, chicken noodle, dried, as served",WAE,0,,,,,,Tr,Tr,100g
+17-715,"Dressing, blue cheese",WCG,Tr,,,,,,3.5,4,100g
+17-716,"Dressing, French, fat free",WCG,0,,,,,,N,N,100g
+17-717,"Dressing, thousand island",WCG,0,,,,,,N,N,100g
+17-718,"Pickle, sweet",WCG,0,,,,,,8.4,8,100g
+17-719,Chilli sauce,WC,0,,,,,,3.8,3.1,100g
+17-720,Curry paste,WC,0,,,,,,N,N,100g
+17-721,"Soy sauce, light and dark varieties",WCN,0,,,,,,2,4.8,100g
+17-722,Tartare sauce,WCN,0,,,,,,6.3,6.5,100g
+17-723,Worcestershire sauce,WCN,0,,,,,,N,N,100g
+17-724,Gravy instant granules,WY,0,,,,,,N,N,100g
+17-725,"Gravy instant granules, made up with water",WY,0,,,,,,N,N,100g
+17-726,"Stock cubes, chicken",WY,0,,,,,,N,N,100g
+17-727,"Stock cubes, vegetable",WY,N,,,,,,N,N,100g
+17-728,"Build-up powder, soup, assorted flavours",PAA,N,,,,,,N,N,100g
+17-729,"Complan powder, original and sweet",PAA,34.9,,,,,,0,0.4,100g
+17-730,"Complan powder, savoury",PAA,1.1,,,,,,0.1,1.6,100g
+17-731,"Horlicks, powder",PAA,N,,,,,,N,N,100g
+17-732,"Instant drinks powder, chocolate, low calorie",PAA,32.9,,,,,,Tr,0.7,100g
+17-733,"Milk shake, powder",PAA,0.2,,,,,,0,0.1,100g
+17-734,"Ovaltine, powder",PAA,N,,,,,,N,N,100g
+17-735,"Fruit juice drink, carbonated, ready to drink",PCA,0,,,,,,N,N,100g
+17-736,Tonic water,PCA,0,,,,,,N,N,100g
+17-737,"Blackcurrant juice drink/squash, undiluted",PCC,0,,,,,,7.8,8.8,100g
+17-738,"Fruit juice drink/squash, undiluted",PCC,0,,,,,,3.7,3.7,100g
+17-739,"Fruit juice drink/squash, no sugar added, undiluted",PCC,0,,,,,,0.7,0.5,100g
+17-740,"High juice drink, undiluted",PCC,0,,,,,,16.2,16.6,100g
+17-741,"Fruit juice drink/squash, ready to drink",PCC,0,,,,,,3.7,2.7,100g
+17-742,"Fruit juice drink, no added sugar, ready to drink",PCC,0,,,,,,0.3,0.3,100g
+17-743,"Barley water, undiluted",PCC,0,,,,,,N,N,100g
+17-744,Cranberry fruit juice drink,PE,0,,,,,,N,N,100g
+17-745,"Grape juice, unsweetened",PE,0,,,,,,8.5,7.5,100g
+17-746,"Fruit juice, mixed",PE,0,,,,,,N,N,100g
+17-747,Smoothies,PE,0,,,,,,N,N,100g
+17-748,"Beer, bitter, strong (>5% ABV)",QA,0,,,,,,0,0.3,100ml
+17-749,"Lager, standard",QA,0,,,,,,0,Tr,100ml
+17-750,"Lager, low alcohol",QA,0,,,,,,0.1,0.3,100ml
+17-751,"Lager, premium",QA,0,,,,,,0,Tr,100ml
+17-752,"Wine, red",QE,0,,,,,,0.1,0.1,100ml
+17-754,"Wine, rose, medium",QE,0,,,,,,1.7,0.8,100ml
+17-755,"Wine, white, dry",QE,0,,,,,,0.3,0.3,100ml
+17-756,"Wine, white, medium",QE,0,,,,,,1.4,1.2,100ml
+17-757,"Wine, white, sparkling",QE,0,,,,,,2.8,2.2,100ml
+17-758,Pre-mixed spirit based drinks,Q,0,,,,,,N,N,100ml
+17-759,"Suet, vegetable, reduced fat",OF,0,,,,,,0.7,0.7,100g
+17-760,"Shandy, 50% lager, homemade",QA,0,,,,,,0.7,0.8,100ml
+17-761,Lucozade,PCA,0,,,,,,N,N,100g
+17-762,Lemon curd,SC,0,,,,,,9.9,21.4,100g
+17-763,Creme egg,SEA,4.9,,,,,,1.8,3.6,100g
+17-764,Bombay mix,SN,0,,,,,,0.1,0.1,100g
+17-765,Mincemeat,SC,0,,,,,,30.8,30.7,100g
+17-766,Bounty bar and own brand equivalents,SEA,2.4,,,,,,0.1,3.2,100g
+17-767,"Stout, Guinness",QA,Tr,,,,,,Tr,Tr,100ml
+17-768,"Liqueurs, cream",QI,0.8,,,,,,0,0,100ml
+17-769,"Barbecue sauce, homemade",WC,0.1,,,,,,2,1.8,100g
+17-770,"Bouillabaisse, homemade",WAA,0,,,,,,0.5,0.6,100g
+17-771,"Bread sauce, made with skimmed milk, homemade",WCD,3.3,,,,,,0.4,0.6,100g
+17-772,"Bread sauce, made with whole milk, homemade",WCD,3.1,,,,,,0.4,0.5,100g
+17-773,"Cheese sauce, made with skimmed milk, homemade",WCD,4.2,,,,,,Tr,Tr,100g
+17-774,"Stock cubes, chicken, made up with water",WY,0,,,,,,N,N,100g
+17-775,"Cheese sauce, made with whole milk, homemade",WCD,4,,,,,,Tr,Tr,100g
+17-776,"Soup, carrot and orange, homemade",WAA,0,,,,,,0.9,1.1,100g
+17-777,Liquorice allsorts,SEC,Tr,,,,,,2.5,5.9,100g
+17-778,"White sauce, savoury, made with skimmed milk, homemade",WCD,5.1,,,,,,Tr,Tr,100g
+17-779,"White sauce, savoury, made with whole milk, homemade",WCD,4.8,,,,,,Tr,Tr,100g
+17-780,"Cheese sauce, packet mix, made up with skimmed milk, homemade",WCD,5.3,,,,,,Tr,Tr,100g
+17-781,"Cheese sauce, packet mix, made up with whole milk, homemade",WCD,5.1,,,,,,Tr,Tr,100g
+17-782,"Chevda/chevra/chewra, homemade",SNC,0,,,,,,N,N,100g
+17-783,"Icing, butter, homemade",S,0.2,,,,,,0.1,0.1,100g
+17-784,"Chutney, apple, homemade",WCG,0,,,,,,5.7,4.3,100g
+17-785,"Chutney, tomato, homemade",WE,0,,,,,,4,3.8,100g
+17-786,"Coconut ice, homemade",SEC,0.9,,,,,,0.2,Tr,100g
+17-787,"Dressing, French, homemade",WC,0,,,,,,0.1,0.1,100g
+17-788,"Dressing, oil and lemon, homemade",WC,0,,,,,,0.2,0.1,100g
+17-789,"Dressing, yogurt, homemade",WC,4.2,,,,,,0.1,Tr,100g
+17-790,"Drinking chocolate powder, made up with semi-skimmed milk",PAA,4.3,,,,,,0,0,100g
+17-791,"Drinking chocolate powder, made up with skimmed milk",PAA,4.4,,,,,,0,0,100g
+17-792,"Drinking chocolate powder, made up with whole milk",PAA,4.2,,,,,,0,0,100g
+17-793,"Egg nog, homemade",QI,3.4,,,,,,0,Tr,100ml
+17-794,"Soup, French onion, homemade",WAA,0,,,,,,1,1.3,100g
+17-795,"Soup, gazpacho, homemade",WAA,0,,,,,,1.2,1.1,100g
+17-796,"Soup, goulash, homemade",WAA,0,,,,,,0.7,0.8,100g
+17-797,"Guacamole, homemade",WC,0,,,,,,0.6,0.6,100g
+17-798,"Halva, carrot, homemade",SEC,4.9,,,,,,2.2,2.6,100g
+17-799,"Halva, semolina, homemade",SEC,0,,,,,,Tr,Tr,100g
+17-800,"Hollandaise sauce, homemade",WC,0.5,,,,,,Tr,Tr,100g
+17-801,"Horlicks powder, made up with semi-skimmed milk",PAA,N,,,,,,N,N,100g
+17-802,"Horlicks powder, made up with skimmed milk",PAA,N,,,,,,N,N,100g
+17-803,"Horlicks powder, made up with whole milk",PAA,N,,,,,,N,N,100g
+17-804,"Icing, fondant, homemade",S,0,,,,,,Tr,Tr,100g
+17-805,"Icing, Royal, homemade",SC,0,,,,,,Tr,Tr,100g
+17-806,"Lemon curd, homemade",S,0.1,,,,,,0.2,0.1,100g
+17-807,"Lemonade, homemade",PCC,0,,,,,,0.1,Tr,100g
+17-808,"Soup, lentil, homemade",WAA,0,,,,,,0.5,0.5,100g
+17-809,"Mayonnaise, homemade",WC,0,,,,,,Tr,Tr,100g
+17-810,"Soup, minestrone, homemade",WAA,0,,,,,,0.5,0.5,100g
+17-811,"Mint sauce, homemade",WC,0,,,,,,N,N,100g
+17-812,"Wine, mulled wine, homemade",QE,0,,,,,,3.5,3.5,100ml
+17-813,"Soup, mulligatawny, homemade",WAA,0.1,,,,,,1.1,1.1,100g
+17-814,"Nougat, homemade",SEC,0,,,,,,3.8,3.2,100g
+17-815,"Onion sauce, made with semi-skimmed milk, homemade",WCD,3.2,,,,,,0.4,0.6,100g
+17-816,"Onion sauce, made with skimmed milk, homemade",WCD,3.2,,,,,,0.4,0.6,100g
+17-817,"Onion sauce, made with whole milk, homemade",WCD,3.7,,,,,,0.3,0.4,100g
+17-818,"Ovaltine powder, made up with semi-skimmed milk",PAA,N,,,,,,N,N,100g
+17-819,"Ovaltine powder, made up with skimmed milk",PAA,N,,,,,,N,N,100g
+17-820,"Ovaltine powder, made up with whole milk",PAA,N,,,,,,N,N,100g
+17-821,"Shandy, bottled or canned",QA,0,,,,,,1.7,1.6,100ml
+17-822,"Cider, strong",QC,0,,,,,,1.3,1.8,100ml
+17-823,"Build up, powder, shake, assorted flavours",PAA,N,,,,,,N,N,100g
+17-824,Fruit pastilles,SEC,Tr,,,,,,2.1,6.5,100g
+17-825,"Instant drinks powder, malted, unfortified",PAA,26.1,,,,,,0,3.7,100g
+17-826,"Treacle, black",SC,0,,,,,,16.7,17.4,100g
+17-827,"Sauce, pasta, white, with ham and mushrooms, homemade",WC,0.7,,,,,,0.1,0.1,100g
+17-828,"Sweets, sherbert",SEC,Tr,,,,,,Tr,0.2,100g
+17-829,"Soup, pea and ham, homemade",WAA,Tr,,,,,,0.3,0.4,100g
+17-830,"Peppermint creams, homemade",SEC,0,,,,,,Tr,Tr,100g
+17-831,"Soup, potato and leek, homemade",WAA,0.8,,,,,,0.2,0.2,100g
+17-832,"Raita, homemade",WC,3.2,,,,,,0.2,0.2,100g
+17-833,"Coffee, infusion, average",PAC,0,,,,,,N,N,100g
+17-834,"Sauce, tomato based, homemade",WC,0,,,,,,1.9,1.9,100g
+17-835,"Scotch broth, homemade",WAA,0,,,,,,0.5,0.6,100g
+17-836,"Sev/ganthia, homemade",SNC,0,,,,,,Tr,Tr,100g
+17-837,"Truffles, rum, homemade",SEA,0.3,,,,,,Tr,Tr,100g
+17-841,"White sauce, sweet, made with semi-skimmed milk, homemade",WCD,4.6,,,,,,Tr,Tr,100g
+17-842,"White sauce, sweet, made with skimmed milk, homemade",WCD,4.7,,,,,,Tr,Tr,100g
+17-843,"White sauce, sweet, made with whole milk, homemade",WCD,4.5,,,,,,Tr,Tr,100g
+17-844,"Barley water, diluted",PCC,0,,,,,,N,N,100g
+17-845,"Blackcurrant juice drink/squash, diluted",PCC,0,,,,,,1,1.2,100g
+17-846,"Fruit juice drink/squash, no sugar added, diluted",PCC,0,,,,,,0.1,0.1,100g
+17-847,"Fruit juice drink/squash, diluted",PCC,0,,,,,,0.7,0.7,100g
+17-848,"High juice drink, diluted",PCC,0,,,,,,3.2,3.3,100g
+17-849,Pot savouries,SN,0.3,,,,,,1.9,1.3,100g
+17-850,"Soup, chicken noodle, dried",WAE,0,,,,,,0.5,0.4,100g
+17-851,"Apple sauce, homemade",WC,0,,,,,,4.8,1.6,100g
+17-852,"Mincemeat, vegetarian, homemade",S,0,,,,,,10.8,12.5,100g
+18-002,"Beef, lean, average, raw, extra trimmed",MAC,0,,,,,,0,0,100g
+18-003,"Beef, fat, average, raw",MAC,0,,,,,,0,0,100g
+18-004,"Beef, fat, average, raw, extra trimmed",MAC,0,,,,,,0,0,100g
+18-005,"Beef, fat, average, cooked",MAC,0,,,,,,0,0,100g
+18-006,"Beef, braising steak, raw, lean",MAC,0,,,,,,0,0,100g
+18-007,"Beef, braising steak, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-008,"Beef, braising steak, braised, lean only",MAC,0,,,,,,0,0,100g
+18-009,"Beef, braising steak, braised, lean and fat",MAC,0,,,,,,0,0,100g
+18-010,"Beef, braising steak, slow cooked, lean",MAC,0,,,,,,0,0,100g
+18-011,"Beef, braising steak, slow cooked, lean and fat",MAC,0,,,,,,0,0,100g
+18-012,"Beef, brisket, raw, lean",MAC,0,,,,,,0,0,100g
+18-013,"Beef, brisket, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-014,"Beef, brisket, boiled, lean",MAC,0,,,,,,0,0,100g
+18-015,"Beef, brisket, boiled, lean and fat",MAC,0,,,,,,0,0,100g
+18-016,"Beef, fillet steak, raw, lean",MAC,0,,,,,,0,0,100g
+18-017,"Beef, fillet steak, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-018,"Beef, fillet steak, fried in corn oil, lean",MAC,0,,,,,,0,0,100g
+18-019,"Beef, fillet steak, fried in corn oil, lean and fat",MAC,0,,,,,,0,0,100g
+18-020,"Beef, fillet steak, grilled, lean",MAC,0,,,,,,0,0,100g
+18-021,"Beef, fillet steak, grilled, lean and fat",MAC,0,,,,,,0,0,100g
+18-022,"Beef, fillet steak, from steakhouse, lean",MAC,0,,,,,,0,0,100g
+18-023,"Beef, fillet steak, from steakhouse, lean and fat",MAC,0,,,,,,0,0,100g
+18-024,"Beef, flank, raw, lean",MAC,0,,,,,,0,0,100g
+18-025,"Beef, flank, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-026,"Beef, flank, pot-roasted, lean",MAC,0,,,,,,0,0,100g
+18-027,"Beef, flank, pot-roasted, lean and fat",MAC,0,,,,,,0,0,100g
+18-028,"Beef, fore-rib/rib-roast, raw, lean",MAC,0,,,,,,0,0,100g
+18-029,"Beef, fore-rib/rib-roast, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-030,"Beef, fore-rib/rib-roast, microwaved, lean",MAC,0,,,,,,0,0,100g
+18-031,"Beef, fore-rib/rib-roast, microwaved, lean and fat",MAC,0,,,,,,0,0,100g
+18-032,"Beef, fore-rib/rib-roast, microwaved, lean and fat, weighed with bone",MAC,0,,,,,,0,0,100g
+18-033,"Beef, fore-rib/rib-roast, roasted, lean",MAC,0,,,,,,0,0,100g
+18-034,"Beef, fore-rib/rib-roast, roasted, lean and fat",MAC,0,,,,,,0,0,100g
+18-035,"Beef, fore-rib/rib-roast, roasted, lean and fat, weighed with bone",MAC,0,,,,,,0,0,100g
+18-037,"Beef, mince, microwaved",MAC,0,,,,,,0,0,100g
+18-039,"Beef, mince, frozen, stewed",MAC,0,,,,,,0,0,100g
+18-042,"Beef, mince patties, barbecued",MAC,0,,,,,,0,0,100g
+18-043,"Beef, rump steak, raw, lean",MAC,0,,,,,,0,0,100g
+18-045,"Beef, rump steak, barbecued, lean",MAC,0,,,,,,0,0,100g
+18-046,"Beef, rump steak, barbecued, lean and fat",MAC,0,,,,,,0,0,100g
+18-050,"Beef, rump steak, from steakhouse, lean only",MAC,0,,,,,,0,0,100g
+18-051,"Beef, rump steak, from steakhouse, lean and fat",MAC,0,,,,,,0,0,100g
+18-052,"Beef, rump steak, strips, stir-fried in corn oil, lean",MAC,0,,,,,,0,0,100g
+18-053,"Beef, rump steak, strips, stir-fried in corn oil, lean and fat",MAC,0,,,,,,0,0,100g
+18-054,"Beef, silverside, raw, lean",MAC,0,,,,,,0,0,100g
+18-055,"Beef, silverside, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-056,"Beef, silverside, pot-roasted, lean",MAC,0,,,,,,0,0,100g
+18-057,"Beef, silverside, pot-roasted, lean and fat",MAC,0,,,,,,0,0,100g
+18-058,"Beef, silverside, salted, raw, lean",MAC,0,,,,,,0,0,100g
+18-059,"Beef, silverside, salted, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-060,"Beef, silverside, salted, boiled, lean",MAC,0,,,,,,0,0,100g
+18-061,"Beef, silverside, salted, boiled, lean and fat",MAC,0,,,,,,0,0,100g
+18-062,"Beef, sirloin joint, roasted, lean",MAC,0,,,,,,0,0,100g
+18-063,"Beef, sirloin joint, roasted, lean and fat",MAC,0,,,,,,0,0,100g
+18-064,"Beef, sirloin steak, raw, lean",MAC,0,,,,,,0,0,100g
+18-065,"Beef, sirloin steak, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-066,"Beef, sirloin steak, fried in corn oil, lean",MAC,0,,,,,,0,0,100g
+18-067,"Beef, sirloin steak, fried in corn oil, lean and fat",MAC,0,,,,,,0,0,100g
+18-068,"Beef, sirloin steak, grilled rare, lean",MAC,0,,,,,,0,0,100g
+18-069,"Beef, sirloin steak, grilled rare, lean and fat",MAC,0,,,,,,0,0,100g
+18-070,"Beef, sirloin steak, grilled medium-rare, lean",MAC,0,,,,,,0,0,100g
+18-071,"Beef, sirloin steak, grilled medium-rare, lean and fat",MAC,0,,,,,,0,0,100g
+18-072,"Beef, sirloin steak, grilled well-done, lean",MAC,0,,,,,,0,0,100g
+18-073,"Beef, sirloin steak, grilled well-done, lean and fat",MAC,0,,,,,,0,0,100g
+18-074,"Beef, sirloin steak, from steakhouse, lean",MAC,0,,,,,,0,0,100g
+18-075,"Beef, sirloin steak, from steakhouse, lean and fat",MAC,0,,,,,,0,0,100g
+18-076,"Beef, stewing steak, raw, lean",MAC,0,,,,,,0,0,100g
+18-077,"Beef, stewing steak, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-078,"Beef, stewing steak, pressure cooked, lean",MAC,0,,,,,,0,0,100g
+18-079,"Beef, stewing steak, pressure cooked, lean and fat",MAC,0,,,,,,0,0,100g
+18-080,"Beef, stewing steak, stewed, lean",MAC,0,,,,,,0,0,100g
+18-081,"Beef, stewing steak, stewed, lean and fat",MAC,0,,,,,,0,0,100g
+18-082,"Beef, stewing steak, frozen, stewed, lean",MAC,0,,,,,,0,0,100g
+18-083,"Beef, stewing steak, frozen, stewed, lean and fat",MAC,0,,,,,,0,0,100g
+18-084,"Beef, topside, raw, lean",MAC,0,,,,,,0,0,100g
+18-085,"Beef, topside, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-086,"Beef, topside, microwaved, lean",MAC,0,,,,,,0,0,100g
+18-087,"Beef, topside, microwaved, lean and fat",MAC,0,,,,,,0,0,100g
+18-088,"Beef, topside, roasted medium-rare, lean",MAC,0,,,,,,0,0,100g
+18-089,"Beef, topside, roasted medium-rare, lean and fat",MAC,0,,,,,,0,0,100g
+18-090,"Beef, topside, roasted well-done, lean",MAC,0,,,,,,0,0,100g
+18-091,"Beef, topside, roasted well-done, lean and fat",MAC,0,,,,,,0,0,100g
+18-094,"Veal, mince, raw",MAI,0,,,,,,0,0,100g
+18-095,"Veal, mince, stewed",MAI,0,,,,,,0,0,100g
+18-097,"Lamb, lean only, raw, average, extra trimmed",MAE,0,,,,,,0,0,100g
+18-098,"Lamb, fat, average, raw",MAE,0,,,,,,0,0,100g
+18-099,"Lamb, fat, raw, average, extra trimmed",MAE,0,,,,,,0,0,100g
+18-100,"Lamb, fat, average, cooked",MAE,0,,,,,,0,0,100g
+18-101,"Lamb, best end neck cutlets, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-102,"Lamb, best end neck cutlets, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-103,"Lamb, best end neck cutlets, barbecued, lean",MAE,0,,,,,,0,0,100g
+18-104,"Lamb, best end neck cutlets, barbecued, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-105,"Lamb, best end neck cutlets, barbecued, lean and fat",MAE,0,,,,,,0,0,100g
+18-106,"Lamb, best end neck cutlets, barbecued, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-107,"Lamb, best end neck cutlets, grilled, lean",MAE,0,,,,,,0,0,100g
+18-108,"Lamb, best end neck cutlets, grilled, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-109,"Lamb, best end neck cutlets, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-110,"Lamb, best end neck cutlets, grilled, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-111,"Lamb, breast, raw, lean",MAE,0,,,,,,0,0,100g
+18-112,"Lamb, breast, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-113,"Lamb, breast, roasted, lean",MAE,0,,,,,,0,0,100g
+18-114,"Lamb, breast, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-115,"Lamb, chump chops, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-116,"Lamb, chump chops, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-117,"Lamb, chump chops, fried, lean",MAE,0,,,,,,0,0,100g
+18-118,"Lamb, chump chops, fried, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-119,"Lamb, chump chops, fried, lean and fat",MAE,0,,,,,,0,0,100g
+18-120,"Lamb, chump chops, fried, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-121,"Lamb, chump steaks, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-122,"Lamb, chump steaks, fried, lean and fat",MAE,0,,,,,,0,0,100g
+18-124,"Lamb, leg chops, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-125,"Lamb, leg chops, grilled, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-126,"Lamb, leg, half fillet, braised, lean",MAE,0,,,,,,0,0,100g
+18-127,"Lamb, leg, half fillet, braised, lean and fat",MAE,0,,,,,,0,0,100g
+18-128,"Lamb, leg, half knuckle, pot-roasted, lean",MAE,0,,,,,,0,0,100g
+18-129,"Lamb, leg, half knuckle, pot-roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-130,"Lamb, leg, half knuckle, pot-roasted, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-131,"Lamb, leg joint, roasted, lean",MAE,0,,,,,,0,0,100g
+18-132,"Lamb, leg joint, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-133,"Lamb, leg steaks, grilled, lean",MAE,0,,,,,,0,0,100g
+18-134,"Lamb, leg steaks, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-137,"Lamb, leg, whole, roasted well done, lean",MAE,0,,,,,,0,0,100g
+18-138,"Lamb, leg, whole, roasted well done, lean and fat",MAE,0,,,,,,0,0,100g
+18-141,"Lamb, loin chops, grilled, lean",MAE,0,,,,,,0,0,100g
+18-142,"Lamb, loin chops, grilled, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-145,"Lamb, loin chops, microwaved, lean",MAE,0,,,,,,0,0,100g
+18-146,"Lamb, loin chops, microwaved, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-147,"Lamb, loin chops, microwaved, lean and fat",MAE,0,,,,,,0,0,100g
+18-148,"Lamb, loin chops, microwaved, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-149,"Lamb, loin chops, roasted, lean",MAE,0,,,,,,0,0,100g
+18-150,"Lamb, loin chops, roasted, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-151,"Lamb, loin chops, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-152,"Lamb, loin chops, roasted, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-153,"Lamb, loin joint, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-154,"Lamb, loin joint, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-155,"Lamb, loin joint, roasted, lean",MAE,0,,,,,,0,0,100g
+18-156,"Lamb, loin joint, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-157,"Lamb, loin joint, roasted, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-159,"Lamb, mince, stewed",MAE,0,,,,,,0,0,100g
+18-160,"Lamb, neck fillet, raw, lean",MAE,0,,,,,,0,0,100g
+18-161,"Lamb, neck fillet, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-162,"Lamb, neck fillet, slices, grilled, lean",MAE,0,,,,,,0,0,100g
+18-163,"Lamb, neck fillet, slices, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-164,"Lamb, neck fillet, strips, stir-fried in corn oil, lean",MAE,0,,,,,,0,0,100g
+18-165,"Lamb, neck fillet, strips, stir-fried in corn oil, lean and fat",MAE,0,,,,,,0,0,100g
+18-166,"Lamb, rack of, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-167,"Lamb, rack of, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-168,"Lamb, rack of, lean, roasted",MAE,0,,,,,,0,0,100g
+18-169,"Lamb, rack of, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-170,"Lamb, shoulder, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-171,"Lamb, shoulder, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-172,"Lamb, shoulder, diced, kebabs, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-173,"Lamb, shoulder, half bladeside, pot-roasted, lean",MAE,0,,,,,,0,0,100g
+18-174,"Lamb, shoulder, half bladeside, pot-roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-175,"Lamb, shoulder, half knuckle, braised, lean",MAE,0,,,,,,0,0,100g
+18-176,"Lamb, shoulder, half knuckle, braised, lean and fat",MAE,0,,,,,,0,0,100g
+18-177,"Lamb, shoulder joint, roasted, lean",MAE,0,,,,,,0,0,100g
+18-178,"Lamb, shoulder joint, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-179,"Lamb, shoulder, whole, roasted, lean",MAE,0,,,,,,0,0,100g
+18-180,"Lamb, shoulder, whole, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-181,"Lamb, shoulder, whole, roasted, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-182,"Lamb, stewing, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-183,"Lamb, stewing, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-184,"Lamb, stewing, pressure cooked, lean",MAE,0,,,,,,0,0,100g
+18-185,"Lamb, stewing, pressure cooked, lean and fat",MAE,0,,,,,,0,0,100g
+18-186,"Lamb, stewing, stewed, lean",MAE,0,,,,,,0,0,100g
+18-187,"Lamb, stewing, stewed, lean and fat",MAE,0,,,,,,0,0,100g
+18-188,"Lamb, New Zealand, leg, whole, chilled, roasted, lean",MAE,0,,,,,,0,0,100g
+18-189,"Lamb, New Zealand, leg, whole, chilled, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-190,"Lamb, New Zealand, leg, whole, frozen, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-191,"Lamb, New Zealand, leg, whole, frozen, roasted, lean",MAE,0,,,,,,0,0,100g
+18-192,"Lamb, New Zealand, leg, whole, frozen, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-193,"Lamb, New Zealand, leg, whole, frozen, roasted, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-194,"Lamb, New Zealand, loin chops, frozen, grilled, lean",MAE,0,,,,,,0,0,100g
+18-195,"Lamb, New Zealand, loin chops, frozen, grilled, lean, weighed with fat and bone",MAE,0,,,,,,0,0,100g
+18-196,"Lamb, New Zealand, loin chops, frozen, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-197,"Lamb, New Zealand, loin chops, frozen, grilled, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-198,"Lamb, New Zealand, mince, frozen, stewed",MAE,0,,,,,,0,0,100g
+18-199,"Lamb, New Zealand, shoulder, whole, frozen, roasted, lean",MAE,0,,,,,,0,0,100g
+18-200,"Lamb, New Zealand, shoulder, whole, frozen, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-216,"Pork, crackling, cooked",MAG,0,,,,,,0,0,100g
+18-289,"Chicken, dark meat, raw",MCA,0,,,,,,0,0,100g
+18-290,"Chicken, light meat, raw",MCA,0,,,,,,0,0,100g
+18-292,"Chicken, skin, raw",MCA,0,,,,,,0,0,100g
+18-293,"Chicken, leg quarter, raw, meat and skin",MCA,0,,,,,,0,0,100g
+18-294,"Chicken, leg quarter, raw, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-295,"Chicken, wing quarter, raw, meat and skin",MCA,0,,,,,,0,0,100g
+18-296,"Chicken, wing quarter, raw, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-297,"Chicken, whole, raw, meat and skin",MCA,0,,,,,,0,0,100g
+18-298,"Chicken, whole, raw, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-299,"Chicken, corn-fed, raw, dark meat only",MCA,0,,,,,,0,0,100g
+18-300,"Chicken, corn-fed, raw, light meat only",MCA,0,,,,,,0,0,100g
+18-301,"Chicken, corn-fed, raw, meat only",MCA,0,,,,,,0,0,100g
+18-302,"Chicken, corn-fed, raw, skin only",MCA,0,,,,,,0,0,100g
+18-303,"Chicken, whole, corn-fed, raw, meat and skin",MCA,0,,,,,,0,0,100g
+18-304,"Chicken, whole, corn-fed, raw, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-305,"Poussin, raw, meat and skin",MCA,0,,,,,,0,0,100g
+18-306,"Poussin, raw, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-307,"Chicken, breast, casseroled, meat only",MCA,0,,,,,,0,0,100g
+18-308,"Chicken, breast, casseroled, meat and skin",MCA,0,,,,,,0,0,100g
+18-309,"Chicken, breast, casseroled, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-310,"Chicken, drumsticks, casseroled, meat only",MCA,0,,,,,,0,0,100g
+18-311,"Chicken, drumsticks, casseroled, meat and skin",MCA,0,,,,,,0,0,100g
+18-312,"Chicken, drumsticks, casseroled, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-313,"Chicken, leg quarter, casseroled, meat only",MCA,0,,,,,,0,0,100g
+18-314,"Chicken, leg quarter, casseroled, meat and skin",MCA,0,,,,,,0,0,100g
+18-315,"Chicken, leg quarter, casseroled, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-316,"Chicken, skin, casseroled",MCA,0,,,,,,0,0,100g
+18-317,"Chicken, thighs, casseroled, meat and skin",MCA,0,,,,,,0,0,100g
+18-318,"Chicken, thighs, casseroled, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-319,"Chicken, thighs, casseroled, meat only, diced",MCA,0,,,,,,0,0,100g
+18-320,"Chicken, wing quarter, casseroled, meat only",MCA,0,,,,,,0,0,100g
+18-321,"Chicken, wing quarter, casseroled, meat and skin",MCA,0,,,,,,0,0,100g
+18-322,"Chicken, wing quarter, casseroled, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-323,"Chicken, breast, grilled without skin, meat only",MCA,0,,,,,,0,0,100g
+18-324,"Chicken, breast, grilled with skin, meat only",MCA,0,,,,,,0,0,100g
+18-325,"Chicken, breast, grilled, meat and skin",MCA,0,,,,,,0,0,100g
+18-326,"Chicken, breast, strips, stir-fried in corn oil",MCA,0,,,,,,0,0,100g
+18-327,"Chicken, portions, not coated, deep-fried, meat and skin",MCA,0,,,,,,0,0,100g
+18-328,"Chicken, portions, not coated, deep-fried, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-329,"Chicken, dark meat, roasted",MCA,0,,,,,,0,0,100g
+18-330,"Chicken, light meat, roasted",MCA,0,,,,,,0,0,100g
+18-331,"Chicken, meat, average, roasted",MCA,0,,,,,,0,0,100g
+18-332,"Chicken, skin, roasted/grilled, dry",MCA,0,,,,,,0,0,100g
+18-333,"Chicken, skin, roasted/grilled, moist",MCA,0,,,,,,0,0,100g
+18-334,"Chicken, drumsticks, roasted, meat only",MCA,0,,,,,,0,0,100g
+18-335,"Chicken, drumsticks, roasted, meat and skin",MCA,0,,,,,,0,0,100g
+18-336,"Chicken, drumsticks, roasted, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-337,"Chicken, leg quarter, roasted, meat and skin",MCA,0,,,,,,0,0,100g
+18-338,"Chicken, leg quarter, roasted, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-339,"Chicken, wing quarter, roasted, meat and skin",MCA,0,,,,,,0,0,100g
+18-340,"Chicken, wing quarter, roasted, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-341,"Chicken, whole, roasted, meat and skin",MCA,0,,,,,,0,0,100g
+18-342,"Chicken, whole, roasted, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-343,"Chicken, corn-fed, roasted, dark meat only",MCA,0,,,,,,0,0,100g
+18-344,"Chicken, corn-fed, roasted, light meat only",MCA,0,,,,,,0,0,100g
+18-345,"Chicken, corn-fed, roasted, meat only",MCA,0,,,,,,0,0,100g
+18-346,"Chicken, whole, corn-fed, roasted, meat and skin",MCA,0,,,,,,0,0,100g
+18-347,"Chicken, whole, corn-fed, roasted, meat and skin, weighed with bone",MCA,0,,,,,,0,0,100g
+18-348,"Turkey, dark meat, raw",MCO,0,,,,,,0,0,100g
+18-349,"Turkey, light meat, raw",MCO,0,,,,,,0,0,100g
+18-350,"Turkey, meat, average, raw",MCO,0,,,,,,0,0,100g
+18-351,"Turkey, skin, raw",MCO,0,,,,,,0,0,100g
+18-352,"Turkey, whole, raw",MCO,0,,,,,,0,0,100g
+18-353,"Turkey, whole, raw, weighed with bone",MCO,0,,,,,,0,0,100g
+18-354,"Turkey, mince, stewed",MCO,0,,,,,,0,0,100g
+18-355,"Turkey, thighs, diced, casseroled, meat only",MCO,0,,,,,,0,0,100g
+18-356,"Turkey, breast, fillet, grilled, meat only",MCO,0,,,,,,0,0,100g
+18-357,"Turkey, strips, stir-fried in corn oil",MCO,0,,,,,,0,0,100g
+18-358,"Turkey, dark meat, roasted",MCO,0,,,,,,0,0,100g
+18-359,"Turkey, light meat, roasted",MCO,0,,,,,,0,0,100g
+18-360,"Turkey, self-basting, light meat, roasted",MCO,0,,,,,,0,0,100g
+18-361,"Turkey, meat, average, roasted",MCO,0,,,,,,0,0,100g
+18-362,"Turkey, skin, dry, roasted",MCO,0,,,,,,0,0,100g
+18-363,"Turkey, skin, moist, roasted",MCO,0,,,,,,0,0,100g
+18-364,"Turkey, drumsticks, roasted, meat only",MCO,0,,,,,,0,0,100g
+18-365,"Turkey, drumsticks, roasted, meat and skin",MCO,0,,,,,,0,0,100g
+18-366,"Turkey, drumsticks, roasted, meat and skin, weighed with bone",MCO,0,,,,,,0,0,100g
+18-367,"Turkey, whole, roasted, meat and skin",MCO,0,,,,,,0,0,100g
+18-368,"Turkey, whole, roasted, meat and skin, weighed with bone",MCO,0,,,,,,0,0,100g
+18-371,"Duck, raw, meat, fat and skin",MCC,0,,,,,,0,0,100g
+18-372,"Duck, roasted, meat only",MCC,0,,,,,,0,0,100g
+18-373,"Duck, roasted, meat only, weighed with fat, skin and bone",MCC,0,,,,,,0,0,100g
+18-374,"Duck, roasted, meat, fat and skin",MCC,0,,,,,,0,0,100g
+18-375,"Goose, meat, raw, fat and skin",MCE,0,,,,,,0,0,100g
+18-376,"Goose, meat, roasted, fat and skin",MCE,0,,,,,,0,0,100g
+18-377,"Grouse, meat only, roasted",MCG,0,,,,,,0,0,100g
+18-378,"Grouse, meat only, roasted, weighed with bone",MCG,0,,,,,,0,0,100g
+18-379,"Hare, meat only, stewed",MEA,0,,,,,,0,0,100g
+18-380,"Hare, meat only, stewed, weighed with bone",MEA,0,,,,,,0,0,100g
+18-381,"Partridge, meat only, roasted",MCI,0,,,,,,0,0,100g
+18-382,"Partridge, meat only, roasted, weighed with bone",MCI,0,,,,,,0,0,100g
+18-383,"Pheasant, meat only, roasted",MCK,0,,,,,,0,0,100g
+18-384,"Pheasant, meat only, roasted, weighed with bone",MCK,0,,,,,,0,0,100g
+18-385,"Pigeon, meat only, roasted",MCM,0,,,,,,0,0,100g
+18-386,"Pigeon, meat only, roasted, weighed with bone",MCM,0,,,,,,0,0,100g
+18-387,"Rabbit, raw, meat only",MEC,0,,,,,,0,0,100g
+18-388,"Rabbit, stewed, meat only",MEC,0,,,,,,0,0,100g
+18-389,"Rabbit, stewed, meat only, weighed with bone",MEC,0,,,,,,0,0,100g
+18-390,"Venison, meat only, raw",MEE,0,,,,,,0,0,100g
+18-392,"Brain, lamb, boiled",MG,0,,,,,,0,0,100g
+18-393,"Giblets, chicken, raw",MG,0,,,,,,0,0,100g
+18-394,"Giblets, chicken, boiled",MG,0,,,,,,0,0,100g
+18-395,"Giblets, turkey, boiled",MG,0,,,,,,0,0,100g
+18-396,"Heart, lamb, raw",MG,0,,,,,,0,0,100g
+18-398,"Heart, ox, raw",MG,0,,,,,,0,0,100g
+18-399,"Heart, ox, stewed",MG,0,,,,,,0,0,100g
+18-400,"Heart, pig, raw",MG,0,,,,,,0,0,100g
+18-401,"Heart, pig, stewed",MG,0,,,,,,0,0,100g
+18-402,"Kidney, lamb, raw",MG,0,,,,,,0,0,100g
+18-404,"Kidney, ox, raw",MG,0,,,,,,0,0,100g
+18-405,"Kidney, ox, stewed",MG,0,,,,,,0,0,100g
+18-406,"Kidney, pig, raw",MG,0,,,,,,0,0,100g
+18-407,"Kidney, pig, fried",MG,0,,,,,,0,0,100g
+18-408,"Kidney, pig, stewed",MG,0,,,,,,0,0,100g
+18-409,"Liver, calf, raw",MG,0,,,,,,0,0,100g
+18-410,"Liver, calf, fried in corn oil",MG,0,,,,,,0,0,100g
+18-411,"Liver, chicken, raw",MG,0,,,,,,0,0,100g
+18-412,"Liver, chicken, fried in corn oil",MG,0,,,,,,0,0,100g
+18-413,"Liver, lamb, raw",MG,0,,,,,,0,0,100g
+18-415,"Liver, ox, raw",MG,0,,,,,,0,0,100g
+18-416,"Liver, ox, stewed",MG,0,,,,,,Tr,Tr,100g
+18-417,"Liver, pig, raw",MG,0,,,,,,0,0,100g
+18-418,"Liver, pig, stewed",MG,0,,,,,,0,0,100g
+18-419,"Oxtail, raw",MG,0,,,,,,0,0,100g
+18-420,"Oxtail, meat only, stewed with added salt",MG,0,,,,,,0,0,100g
+18-421,"Sweetbread, lamb, raw",MG,0,,,,,,0,0,100g
+18-422,"Sweetbread, lamb, fried in corn oil",MG,0,,,,,,0,0,100g
+18-423,"Tongue, lamb, raw",MG,0,,,,,,0,0,100g
+18-424,"Tongue, ox, meat only, pickled, raw",MG,0,,,,,,0,0,100g
+18-425,"Tongue, ox, meat only, pickled, stewed",MG,0,,,,,,0,0,100g
+18-426,"Tongue, ox, meat only, stewed",MG,0,,,,,,0,0,100g
+18-427,"Tongue, sheep, meat only, stewed",MG,0,,,,,,0,0,100g
+18-428,"Tripe, dressed, raw",MG,0,,,,,,0,0,100g
+18-429,"Pork, trotters and tails, boiled with added salt",MG,0,,,,,,0,0,100g
+18-468,"Beef, lean, average, raw",MAC,0,,,,,,0,0,100g
+18-469,"Beef, mince, raw",MAC,0,,,,,,0,0,100g
+18-470,"Beef, mince, stewed",MAC,0,,,,,,0,0,100g
+18-471,"Beef, rump steak, raw, lean and fat",MAC,0,,,,,,0,0,100g
+18-472,"Beef, rump steak, fried in corn oil, lean and fat",MAC,0,,,,,,0,0,100g
+18-473,"Beef, rump steak, fried in corn oil, lean only",MAC,0,,,,,,0,0,100g
+18-474,"Beef, rump steak, grilled, lean only",MAC,0,,,,,,0,0,100g
+18-475,"Lamb, lean only, raw, average",MAE,0,,,,,,0,0,100g
+18-476,"Lamb, loin chops, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-477,"Lamb, loin chops, grilled, lean and fat",MAE,0,,,,,,0,0,100g
+18-478,"Lamb, average, raw, lean and fat",MAE,0,,,,,,0,0,100g
+18-479,"Lamb, leg, whole, roasted, lean only",MAE,0,,,,,,0,0,100g
+18-480,"Lamb, leg, whole, roasted, lean and fat",MAE,0,,,,,,0,0,100g
+18-481,"Lamb, mince, raw",MAE,0,,,,,,0,0,100g
+18-486,"Veal, escalope, raw",MAI,0,,,,,,0,0,100g
+18-487,"Veal, escalope, fried in corn oil",MAI,0,,,,,,0,0,100g
+18-488,"Chicken, meat, average, raw",MCA,0,,,,,,0,0,100g
+18-489,"Duck, meat only, raw",MCC,0,,,,,,0,0,100g
+18-490,"Duck, crispy, chinese style, meat and skin",MCC,0,,,,,,0,0,100g
+18-491,"Venison, roast",MEE,0,,,,,,0,0,100g
+18-492,"Heart, lamb, roasted",MG,0,,,,,,0,0,100g
+18-493,"Kidney, lamb, fried in corn oil",MG,0,,,,,,0,0,100g
+18-494,"Liver, lamb, fried in corn oil",MG,0,,,,,,0,0,100g
+18-495,"Duck, raw, meat only, weighed with fat, skin and bone",MCC,0,,,,,,0,0,100g
+18-496,"Lamb, loin chops, grilled, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-497,"Lamb, loin chops, raw, lean and fat, weighed with bone",MAE,0,,,,,,0,0,100g
+18-499,"Pork, spare ribs, Chinese barbecue, takeaway",MAG,,,,,,,,,100g
+18-500,"Chicken portions, battered, deep fried, takeaway",MCA,0,,,,,,0,0,100g
+18-501,"Chicken pieces, coated, takeaway",MCA,0,,,,,,Tr,Tr,100g
+18-502,"Burger, chicken/turkey, coated, retail, grilled",MCA,Tr,,,,,,Tr,0.2,100g
+18-503,"Chicken/turkey pieces, coated, baked",MCA,Tr,,,,,,Tr,0.2,100g
+18-504,"Chicken breast/steak, coated, baked",MCA,Tr,,,,,,Tr,0.3,100g
+18-505,"Pie, beef, puff or shortcrust pastry, family size, retail",MR,Tr,,,,,,0.2,0.2,100g
+18-506,"Pie, beef, puff or shortcrust pastry, individual, retail",MR,Tr,,,,,,0.1,0.2,100g
+18-507,"Beef, mince, extra lean, stewed",MAC,0,,,,,,0,0,100g
+18-508,"Beef, mince, raw, extra lean",MAC,0,,,,,,0,0,100g
+18-510,"Pork, fillet medallions, raw, lean",MAG,0,,,,,,0,0,100g
+18-511,"Pork, fillet medallions, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-512,"Pork, leg joint, raw, lean",MAG,0,,,,,,0,0,100g
+18-513,"Pork, leg joint, raw, lean and fat, trimmed",MAG,0,,,,,,0,0,100g
+18-514,"Pork, leg joint, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-515,"Pork, leg joint, roasted, lean",MAG,0,,,,,,0,0,100g
+18-516,"Pork, leg joint, roasted, lean and fat, trimmed",MAG,0,,,,,,0,0,100g
+18-517,"Pork, leg joint, roasted, lean and fat",MAG,0,,,,,,0,0,100g
+18-518,"Pork, loin medallions, raw, lean",MAG,0,,,,,,0,0,100g
+18-519,"Pork, loin medallions, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-520,"Pork, loin medallions, raw, lean and fat, trimmed",MAG,0,,,,,,0,0,100g
+18-521,"Pork, loin steaks, raw, lean",MAG,0,,,,,,0,0,100g
+18-522,"Pork, loin steaks, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-523,"Pork, loin steaks, raw, lean and fat, trimmed",MAG,0,,,,,,0,0,100g
+18-524,"Pork, loin steaks, grilled, lean",MAG,0,,,,,,0,0,100g
+18-525,"Pork, loin steaks, grilled, lean and fat, trimmed",MAG,0,,,,,,0,0,100g
+18-526,"Pork, loin steaks, grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-527,"Pork, diced, casseroled, lean",MAG,0,,,,,,0,0,100g
+18-528,"Pork, diced, casseroled, lean and fat",MAG,0,,,,,,0,0,100g
+18-529,"Pork, diced, raw, lean",MAG,0,,,,,,0,0,100g
+18-530,"Pork, diced, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-531,"Pork, fillet medallions, grilled lean",MAG,0,,,,,,0,0,100g
+18-532,"Pork, fillet medallions, grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-533,"Pork, fillet strips, stir-fried in rapeseed oil, lean",MAG,0,,,,,,0,0,100g
+18-534,"Pork, loin chops, grilled, lean",MAG,0,,,,,,0,0,100g
+18-535,"Pork, loin chops, grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-536,"Pork, loin chops, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-537,"Pork, loin chops, raw, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-538,"Pork, loin steaks, fried in rapeseed oil, lean",MAG,0,,,,,,0,0,100g
+18-539,"Pork, loin steaks, fried in rapeseed oil, lean and fat",MAG,0,,,,,,0,0,100g
+18-540,"Pork, diced, kebabs, grilled, lean",MAG,0,,,,,,0,0,100g
+18-541,"Pork, diced, kebabs, grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-542,"Pork, shoulder chops (collar), braised, lean",MAG,0,,,,,,0,0,100g
+18-543,"Pork, shoulder chops (collar), braised, lean and fat",MAG,0,,,,,,0,0,100g
+18-544,"Pork, shoulder chops (collar), braised, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-545,"Pork, shoulder chops (collar), raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-546,"Pork, shoulder chops (collar), raw, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-547,"Pork, shoulder joint (collar), pot-roasted, lean",MAG,0,,,,,,0,0,100g
+18-548,"Pork, shoulder joint (collar), pot-roasted, lean and fat",MAG,0,,,,,,0,0,100g
+18-549,"Pork, shoulder joint (collar), raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-550,"Pork, shoulder joint (collar), raw, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-551,"Pork, shoulder steaks (collar), grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-552,"Pork, shoulder steaks (collar), grilled, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-553,"Pork, shoulder steaks (collar), raw, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-554,"Pork, shoulder steaks (collar), raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-555,"Pork, belly joint, roasted, lean and fat",MAG,0,,,,,,0,0,100g
+18-556,"Pork, belly joint/slices, grilled, lean and fat",MAG,0,,,,,,0,0,100g
+18-557,"Pork, belly joint/slices, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-558,"Pork, belly joint/slices, raw, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-559,"Pork, fat, average, cooked",MAG,0,,,,,,0,0,100g
+18-600,"Pork, fat, average, raw",MAG,0,,,,,,0,0,100g
+18-601,"Pork, hand, shoulder joint, raw, lean",MAG,0,,,,,,0,0,100g
+18-602,"Pork, hand, shoulder joint, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-603,"Pork, hand, shoulder joint, roasted, lean",MAG,0,,,,,,0,0,100g
+18-604,"Pork, hand, shoulder joint, roasted, lean and fat",MAG,0,,,,,,0,0,100g
+18-605,"Pork, loin steaks, stewed, lean",MAG,0,,,,,,0,0,100g
+18-606,"Pork, mince, raw",MAG,0,,,,,,0,0,100g
+18-607,"Pork, mince, stewed",MAG,0,,,,,,0,0,100g
+18-608,"Pork, lean, average, raw",MAG,0,,,,,,0,0,100g
+18-609,"Pork, spare ribs, raw, lean and fat",MAG,0,,,,,,0,0,100g
+18-610,"Pork, loin chops, roasted, lean and fat",MAG,0,,,,,,0,0,100g
+18-611,"Pork, loin chops, roasted, lean and fat, weighed with bone",MAG,0,,,,,,0,0,100g
+18-612,"Pork, loin steaks, stewed, lean and fat",MAG,0,,,,,,0,0,100g
+18-613,"Pork, loin chops, roasted, lean",MAG,0,,,,,,0,0,100g
+19-009,"Bacon rashers, back, reduced salt, grilled",MAA,0,,,,,,0,0,100g
+19-016,"Bacon rashers, streaky, raw",MAA,0,,,,,,0,0,100g
+19-018,"Bacon rashers, streaky, grilled",MAA,0,,,,,,0,0,100g
+19-020,"Ham, gammon joint, raw",MAA,0,,,,,,0,0,100g
+19-021,"Ham, gammon joint, boiled",MAA,0,,,,,,0,0,100g
+19-058,"Pie, game, homemade",MI,0,,,,,,1.1,1.2,100g
+19-106,Liver sausage,MI,0,,,,,,0,1,100g
+19-113,"Black pudding, raw",MI,,,,,,,,,100g
+19-114,"Black pudding, dry-fried",MI,Tr,,,,,,Tr,0.1,100g
+19-115,Brawn,MI,,,,,,,,,100g
+19-128,"Corned beef, canned",MI,0,,,,,,0,0.1,100g
+19-131,"Faggots in gravy, retail, reheated",MR,0,,,,,,0.3,0.5,100g
+19-132,"Haggis, boiled",MI,Tr,,,,,,Tr,Tr,100g
+19-136,"Luncheon meat, Chinese, steamed",MI,,,,,,,,,100g
+19-145,"Pate, meat, reduced fat",MI,0.1,,,,,,0,1.1,100g
+19-150,"Shish kebab, meat only",MR,0,,,,,,0,0,100g
+19-208,"Chilli con carne, retail, reheated",MR,,,,,,,,,100g
+19-264,"Pork, spare ribs, 'barbecue style', meat only, retail, reheated",MR,0,,,,,,N,N,100g
+19-265,"Pork, spare ribs, 'barbecue style', meat only, retail, reheated, weighed with bone",MR,,,,,,,,,100g
+19-296,"Curry, chicken tikka masala, retail, reheated",MIG,1.2,,,,,,0.9,0.7,100g
+19-304,"Sweet and sour pork, battered, takeaway",MR,Tr,,,,,,3.6,3.7,100g
+19-315,"Burger, chicken, takeaway",MBG,N,,,,,,N,N,100g
+19-317,"Pate, liver",MI,0,,,,,,0,0.4,100g
+19-319,"Saveloy, unbattered, takeaway",MI,0,,,,,,0.1,0.4,100g
+19-321,"Chow mein, chicken, takeaway",MR,Tr,,,,,,0.3,Tr,100g
+19-322,"Curry, chicken, average, takeaway",MR,0.3,,,,,,0.5,0.4,100g
+19-323,"Chicken satay, takeaway",MR,Tr,,,,,,1.1,0.5,100g
+19-324,"Sweet and sour chicken, takeaway",MR,Tr,,,,,,3.2,3.4,100g
+19-326,"Meat samosas, takeaway",MR,Tr,,,,,,0.5,Tr,100g
+19-327,"Spring rolls, meat, takeaway",MR,Tr,,,,,,0.6,0.4,100g
+19-449,"Curry, chicken balti, retail",MR,Tr,,,,,,N,N,100g
+19-454,"Biryani, chicken, takeaway",MR,Tr,,,,,,0.5,0.2,100g
+19-460,"Stir-fry beef with green peppers and blackbean sauce, takeaway",MR,Tr,,,,,,0.7,0.3,100g
+19-464,"Fajita, chicken, meat only, takeaway and restaurant",MR,Tr,,,,,,Tr,Tr,100g
+19-465,"Curry, chicken, Thai green, takeaway and restaurant",MR,Tr,,,,,,0.5,Tr,100g
+19-466,"Cornish pasty, retail",MR,Tr,,,,,,0.4,0.5,100g
+19-467,"Pork pie, individual",MR,Tr,,,,,,Tr,0.2,100g
+19-468,"Sausage roll, flaky pastry, ready-to-eat, retail",MI,Tr,,,,,,Tr,0.2,100g
+19-469,"Chicken/turkey pasties/slices, puff pastry",MI,Tr,,,,,,0.1,0.2,100g
+19-470,"Casserole, beef, made with cook-in sauce",MR,0,,,,,,0.9,0.8,100g
+19-471,"Beef bourguignon, homemade",MR,0,,,,,,0.3,0.3,100g
+19-472,"Curry, beef, reduced fat, homemade",MR,0,,,,,,0.2,0.3,100g
+19-473,"Stew, beef, homemade",MR,0,,,,,,0.4,0.5,100g
+19-475,"Bolognese sauce (with meat), made with extra lean minced beef, homemade",MR,0,,,,,,1.1,1.1,100g
+19-476,"Bolognese sauce (with meat), homemade",MR,0,,,,,,1.1,1.1,100g
+19-477,"Coronation chicken, homemade",MR,Tr,,,,,,0.7,1.1,100g
+19-478,"Chilli con carne, homemade",MR,0,,,,,,1.1,1.1,100g
+19-479,"Stew, Irish, homemade",MR,0,,,,,,0.5,0.6,100g
+19-480,"Kheema, lamb, homemade",MR,0,,,,,,0.6,0.6,100g
+19-481,"Lasagne, homemade",MR,1.4,,,,,,0.4,0.5,100g
+19-482,"Lasagne, homemade, with extra lean minced beef",MR,1.4,,,,,,0.4,0.5,100g
+19-483,"Pasta with meat and tomato sauce, homemade",MR,0,,,,,,0.7,0.7,100g
+19-484,"Casserole, sausage, homemade",MR,Tr,,,,,,0.3,0.6,100g
+19-485,"Sweet and sour pork, homemade",MR,0,,,,,,1.1,1.2,100g
+19-486,"Coq au vin, homemade",MR,0,,,,,,0.1,0.1,100g
+19-487,"Burger, Quarter Pounder with cheese, takeaway",MBG,N,,,,,,N,N,100g
+19-488,"Curry, beef, retail, reheated",MR,0.7,,,,,,1.6,1.5,100g
+19-489,"Sausages, beef, grilled",MI,0.1,,,,,,0.2,0.4,100g
+19-490,"Burger, beef, 98-99% beef, fried in vegetable oil",MBG,0,,,,,,0,0.1,100g
+19-491,"Burger, beef, 98-99% beef, grilled",MBG,0,,,,,,0,0.1,100g
+19-492,"Burger, beef, 98-99% beef, raw",MBG,0,,,,,,0,0.1,100g
+19-493,"Burger, Big Mac, takeaway",MBG,N,,,,,,N,N,100g
+19-494,"Pie, Cottage/Shepherd's, reheated",MR,0.8,,,,,,0.2,0.3,100g
+19-495,Frankfurter,MI,0.9,,,,,,Tr,0.2,100g
+19-496,Ham,MAA,0,,,,,,N,N,100g
+19-497,"Bacon rashers, back, raw",MAA,0,,,,,,0,0,100g
+19-498,"Bacon rashers, back, dry-fried",MAA,0,,,,,,0,0,100g
+19-499,"Bacon rashers, back, fat trimmed, grilled",MAA,0,,,,,,0,0,100g
+19-500,"Bacon rashers, back, grilled",MAA,0,,,,,,0,0,100g
+19-501,"Bacon rashers, back, grilled crispy",MAA,0,,,,,,0,0,100g
+19-502,"Bacon rashers, back, microwaved",MAA,0,,,,,,0,0,100g
+19-503,"Bacon rashers, middle, grilled",MAA,0,,,,,,0,0,100g
+19-504,"Bacon rashers, streaky, fried in corn oil",MAA,0,,,,,,0,0,100g
+19-505,"Ham, gammon rashers, grilled",MAA,0,,,,,,0,0,100g
+19-506,Meat spread,MI,0,,,,,,0,0.1,100g
+19-507,"Moussaka, retail, reheated",MR,1,,,,,,0.6,0.4,100g
+19-508,Salami snack,MI,0,,,,,,0,1.9,100g
+19-509,"Sausages, pork, chilled, grilled",MI,0.1,,,,,,Tr,0.4,100g
+19-510,"Sausages, pork, raw",MI,Tr,,,,,,Tr,1.1,100g
+19-511,"Sausages, pork, reduced fat, grilled",MI,0.1,,,,,,0,1.2,100g
+19-512,"Sausages, pork, chilled, fried in vegetable oil",MI,0.1,,,,,,Tr,0.4,100g
+19-513,"Sausages, premium, grilled",MI,0.1,,,,,,0,0.7,100g
+19-514,"Burger, Whopper, takeaway",MBG,N,,,,,,N,N,100g
+19-515,"Pie, chicken, individual, baked",MI,0.3,,,,,,0.1,0.1,100g
+19-516,Chorizo,MI,1.1,,,,,,0,0,100g
+19-517,Salami,MI,0.4,,,,,,0,0.1,100g
+19-518,"Scotch eggs, retail",MI,0,,,,,,0,Tr,100g
+19-519,"Chow mein, beef, retail, reheated",MR,0,,,,,,0,N,100g
+19-520,"Curry, chicken, average, retail, reheated",MR,0.7,,,,,,1.6,1.5,100g
+19-521,"Chicken, stir-fried with rice and vegetables, retail, reheated",MR,0,,,,,,1.1,1.8,100g
+19-522,"Hot pot, lamb/beef with potatoes, retail, reheated",MR,0,,,,,,0.3,0.3,100g
+19-523,"Lasagne, retail, reheated",MR,1.3,,,,,,0.7,0.6,100g
+19-524,"Spaghetti bolognese, retail, reheated, with spaghetti",MR,0,,,,,,0.6,0.5,100g
+19-525,Shish kebab in pitta bread with salad,MR,0,,,,,,0.4,0.4,100g
+19-526,Doner kebab in pitta bread with salad,MR,0,,,,,,0.3,0.3,100g
+19-527,"Chilli con carne, retail, reheated, with rice",MR,0,,,,,,N,N,100g
+19-528,"Curry, chicken, average, retail, reheated with rice",MR,0.4,,,,,,0.9,0.8,100g
+19-529,"Curry, beef, retail, reheated, with rice",MR,0.4,,,,,,0.9,0.9,100g
+19-530,"Beef, stir-fried with green peppers, homemade",MR,0,,,,,,0.9,0.8,100g
+19-534,"Curry, chicken, made with cook-in sauce",MR,Tr,,,,,,1.4,1.2,100g
+19-535,"Curry, lamb, made with cook-in sauce",MR,Tr,,,,,,1.4,1.2,100g
+19-536,"Casserole, pork, made with cook-in sauce",MR,0,,,,,,0.8,0.7,100g
+19-537,"Bacon, fat only, average, cooked",MAA,0,,,,,,0,0,100g
+19-538,Chicken slices,MI,0,,,,,,0,0,100g
+19-539,"Doner kebabs, meat only",MR,0,,,,,,0,0,100g
+19-540,"Curry, chicken tandoori, retail, reheated",MR,0.5,,,,,,0.2,0.3,100g
+19-541,"Chicken wings, marinated, meat and skin, barbecued",MR,0,,,,,,0.6,0.5,100g
+19-542,"Spaghetti bolognese, retail, meat and sauce only, reheated",MR,0,,,,,,1.3,1.1,100g
+19-543,Turkey slices,MI,0,,,,,,N,N,100g
+19-544,"Burger, hamburger, takeaway",MBG,N,,,,,,N,N,100g
+19-545,"Burger, cheeseburger, takeaway",MBG,N,,,,,,N,N,100g
+19-546,"Burger, beef, 62-85%, beef, grilled",MBG,0,,,,,,N,N,100g
+19-547,"Curry, beef and spinach, homemade",MR,0,,,,,,1.1,1.2,100g
+19-548,"Beef bourguignonne, made with lean beef, homemade",MR,0,,,,,,0.2,0.3,100g
+19-549,"Curry, beef, homemade",MR,0,,,,,,0.2,0.2,100g
+19-550,"Stew, beef, made with lean beef, homemade",MR,0,,,,,,0.4,0.5,100g
+19-551,"Beef Stroganoff, homemade",MR,0.8,,,,,,0.4,0.5,100g
+19-552,"Beef Wellington, homemade",MR,Tr,,,,,,0,0.1,100g
+19-553,"Burger, beef, fried in rapeseed oil, homemade",MR,0,,,,,,0.2,0.3,100g
+19-554,"Burger, beef, with bun, fried in rapeseed oil, homemade",MR,0,,,,,,N,N,100g
+19-555,"Burger, beef, grilled, homemade",MR,0,,,,,,0.3,0.3,100g
+19-556,"Burger, beef, with bun, grilled, homemade",MR,0,,,,,,N,N,100g
+19-557,"Pie, steak and kidney, single crust, homemade",MI,Tr,,,,,,Tr,Tr,100g
+19-558,"Carbonnade of Beef, homemade",MR,0,,,,,,0.5,0.6,100g
+19-559,"Pie, chicken and mushroom, single crust, homemade",MR,1.7,,,,,,0.1,0.1,100g
+19-560,"Chicken chasseur, homemade",MR,0,,,,,,0.3,0.3,100g
+19-561,"Chicken fricassee, homemade",MR,0.2,,,,,,0.5,0.5,100g
+19-562,"Chicken fricassee, reduced fat, homemade",MR,0.4,,,,,,0.5,0.5,100g
+19-563,"Chicken in white sauce, made with semi-skimmed milk",MR,2.3,,,,,,Tr,Tr,100g
+19-564,"Chicken in white sauce, made with whole milk",MR,2.2,,,,,,Tr,Tr,100g
+19-565,"Curry, chicken korma, homemade",MR,1.7,,,,,,0.3,0.4,100g
+19-566,"Risotto, chicken, homemade",MR,0,,,,,,0.3,N,100g
+19-567,"Curry, chicken vindaloo, homemade",MR,0,,,,,,0.3,0.4,100g
+19-568,"Curry, chicken vindaloo, reduced fat, homemade",MR,0,,,,,,0.3,0.4,100g
+19-569,"Chicken, stir-fried with mushrooms and cashew nuts, homemade",MR,0,,,,,,0.6,0.7,100g
+19-570,"Chicken, stir-fried with peppers in black bean sauce, homemade",MR,0,,,,,,0.7,0.6,100g
+19-571,"Coq au vin, homemade, weighed with bone",MR,0,,,,,,0.1,0.1,100g
+19-572,"Corned beef hash, homemade",MR,0.1,,,,,,0.5,0.6,100g
+19-573,"Cornish pasty, homemade",MR,Tr,,,,,,0.6,0.9,100g
+19-574,"Coronation chicken, reduced fat, homemade",MR,0,,,,,,0.9,0.8,100g
+19-575,"Pie, Cottage, homemade",MR,0.2,,,,,,N,N,100g
+19-576,"Devilled kidneys, homemade",MR,0.4,,,,,,0.4,0.3,100g
+19-577,"Sauce, duck a l'orange",MR,0,,,,,,0.6,0.6,100g
+19-578,"Duck a l'orange, excluding fat and skin, homemade",MR,0,,,,,,0.3,0.3,100g
+19-579,"Duck a l'orange, including fat and skin, homemade",MR,0,,,,,,0.3,0.3,100g
+19-580,"Duck with pineapple, homemade",MR,0,,,,,,1,1.1,100g
+19-581,Frankfurter with bun,MI,0.3,,,,,,0.1,0.2,100g
+19-582,"Frankfurter with bun, ketchup, fried onions and mustard",MI,0.2,,,,,,1.5,1.8,100g
+19-583,"Goulash, homemade",MR,0,,,,,,0.6,0.7,100g
+19-585,"Stew, Irish, made with lean lamb, homemade",MR,0,,,,,,0.5,0.6,100g
+19-586,"Enchiladas, beef, homemade",MR,Tr,,,,,,1,0.9,100g
+19-587,"Kheema, beef, homemade",MR,0,,,,,,0.6,0.7,100g
+19-588,"Beef olives, homemade",MR,0,,,,,,0.1,0.1,100g
+19-589,"Beef steak pudding, homemade",MR,0,,,,,,0.2,0.3,100g
+19-590,"Stew, beef, with dumplings, homemade",MR,0,,,,,,0.3,0.4,100g
+19-591,"Curry, lamb biryani, homemade",MR,0.3,,,,,,0.5,0.6,100g
+19-592,"Curry, lamb biryani, reduced fat, homemade",MR,0.3,,,,,,0.5,0.6,100g
+19-593,"Kheema, lamb, reduced fat, homemade",MR,0,,,,,,0.5,0.5,100g
+19-594,"Kofta, lamb, coated with breadcrumbs, homemade",MR,Tr,,,,,,N,N,100g
+19-595,"Curry, lamb rogan josh, homemade",MR,0,,,,,,1.1,1.2,100g
+19-596,"Samosas, lamb, baked, homemade",MR,0,,,,,,0.3,0.4,100g
+19-597,"Samosas, lamb, deep fried in rapeseed oil, homemade",MI,0,,,,,,0.2,0.3,100g
+19-598,"Lamb stir-fried with vegetables, homemade",MR,0,,,,,,0.6,0.6,100g
+19-599,"Curry, lamb vindaloo, homemade",MR,0,,,,,,0.3,1.4,100g
+19-600,"Lamb's heart casserole, homemade",MR,0,,,,,,N,N,100g
+19-601,"Lancashire hotpot, homemade",MR,0,,,,,,0.4,0.5,100g
+19-602,"Lemon chicken, homemade",MR,0,,,,,,0.1,Tr,100g
+19-603,"Liver and bacon, fried, homemade",MR,0,,,,,,0,0,100g
+19-604,"Liver and onions, stewed, homemade",MR,0,,,,,,1.2,1.6,100g
+19-605,"Meat loaf, homemade",MR,Tr,,,,,,N,N,100g
+19-606,"Beef, mince, with vegetables, stewed",MR,0,,,,,,0.6,0.8,100g
+19-607,"Beef, mince, stewed",MR,0,,,,,,0.2,0.2,100g
+19-608,"Lamb, mince, stewed with onions",MR,0,,,,,,0.2,0.2,100g
+19-609,"Moussaka, homemade",MR,0.9,,,,,,0.7,0.9,100g
+19-610,"Venison in red wine and port, homemade",MR,0,,,,,,0.4,0.5,100g
+19-611,"Pasta with ham and mushroom sauce, homemade",MR,0.3,,,,,,0.1,Tr,100g
+19-612,"Casserole, pork and apple, homemade",MR,0,,,,,,2.2,1,100g
+19-613,"Meatballs, pork and beef, in tomato sauce, homemade",MR,0,,,,,,1.4,1.1,100g
+19-614,"Chow mein, pork and chicken, homemade",MR,0,,,,,,N,N,100g
+19-615,"Kebabs, pork and pineapple, homemade",MR,0,,,,,,2.6,2.2,100g
+19-623,"Casserole, rabbit, homemade",MR,0,,,,,,0.3,0.3,100g
+19-625,"Salmis of pheasant, homemade",MR,N,,,,,,0.4,0.4,100g
+19-626,"Shepherd's pie, homemade",MR,0.2,,,,,,0.2,0.2,100g
+19-627,"Shish kebabs, with onions and peppers, homemade",MR,0,,,,,,1.2,1.2,100g
+19-628,"Spaghetti bolognese, homemade",MR,0,,,,,,0.6,0.6,100g
+19-629,"Pie, steak and kidney, double crust, homemade",MR,Tr,,,,,,Tr,Tr,100g
+19-630,"Steak and kidney pudding, homemade",MI,0,,,,,,0.2,0.3,100g
+19-631,"Cabbage leaves, stuffed with lamb and rice, homemade",MR,0,,,,,,0.6,0.7,100g
+19-632,"Peppers, stuffed with beef, rice and vegetables, homemade",MR,Tr,,,,,,1.1,1,100g
+19-635,"Toad in the hole, homemade",MR,1.5,,,,,,Tr,0.7,100g
+19-636,"Toad in the hole, made with skimmed milk and reduced fat sausages, homemade",MR,1.7,,,,,,Tr,0.8,100g
+19-637,"Tripe and onions, stewed, homemade",MR,2.6,,,,,,0.6,0.8,100g
+19-638,"Turkey and pasta bake, homemade",MR,1.2,,,,,,0.4,0.3,100g
+19-639,"Pie, turkey, single crust, homemade",MR,1.7,,,,,,0.1,0.1,100g
+19-640,"Turkey, stir-fried with vegetables, homemade",MR,0,,,,,,1.1,0.9,100g
+19-641,"Wiener schnitzel, homemade",MR,Tr,,,,,,0.1,0,100g
+19-642,"Kofta, beef, homemade",MR,0,,,,,,0.2,0.3,100g
+19-643,"Sausage rolls, short pastry, homemade",MI,0.1,,,,,,Tr,0.8,100g
+19-644,"Bacon loin steaks, lean, grilled",MAA,0,,,,,,N,N,100g
+19-645,"Bacon rashers, back, dry-cured, grilled",MAA,0,,,,,,0,0,100g
+19-646,"Bacon rashers, back, fat trimmed, raw",MAA,0,,,,,,0,0,100g
+19-647,"Bacon rashers, back, sweetcure, grilled",MAA,0,,,,,,0,0,100g
+19-648,"Bacon rashers, middle, fried in corn oil",MAA,0,,,,,,0,0,100g
+19-649,"Bacon rashers, middle, raw",MAA,0,,,,,,0,0,100g
+19-650,"Bacon, fat only, average, raw",MAA,0,,,,,,0,0,100g
+19-651,"Burger, beef, 62-85% beef, raw",MBG,0,,,,,,N,N,100g
+19-652,"Chicken wings, marinated, meat and skin, barbecued, weighed with bone",MR,0,,,,,,0.4,0.3,100g
+19-653,"Sausages, beef, fried in vegetable oil",MI,0.1,,,,,,0.2,0.4,100g
+19-654,"Sausages, pork, frozen, fried in vegetable oil",MI,N,,,,,,Tr,N,100g
+19-655,"Sausages, pork, frozen, grilled",MI,N,,,,,,Tr,N,100g
+19-656,"Sausages, beef, raw",MI,0.1,,,,,,0.1,0.5,100g
+19-657,"Sausages, premium, raw",MI,0.1,,,,,,0,1.2,100g
+19-658,"Sausages, pork, reduced fat, raw",MI,0.2,,,,,,0,1.2,100g
+19-659,"Bacon rashers, back, smoked, grilled",MAA,0,,,,,,0,0,100g
+19-660,"Bacon rashers, back, 'tendersweet', grilled",MAA,,,,,,,,,100g
+19-661,"Sausages, premium, fried in vegetable oil",MI,0.1,,,,,,0,0.8,100g
+19-662,"Sausages, pork, reduced fat, fried in vegetable oil",MI,0.1,,,,,,0,0.9,100g
+19-663,"Chicken chasseur, homemade, weighed with bone",MR,0,,,,,,0.3,0.3,100g
+19-664,"Beef, minced, stewed with onions, extra lean",MR,0,,,,,,0.2,0.2,100g
+19-665,"Pork chops in mustard and cream, homemade",MR,0.4,,,,,,0.3,0.2,100g
+19-666,"Pork chops in mustard and cream, homemade, weighed with bone",MR,0.4,,,,,,0.2,0.2,100g
+19-667,"Pork, stir-fried with vegetables, homemade",MR,0,,,,,,0.4,0.4,100g
+19-668,"Pork, sweet and sour, made with lean pork, homemade",MR,0,,,,,,1,1,100g
+19-669,"Pork, sweet and sour, made with sweet and sour cook in sauce",MR,0,,,,,,2.5,2.5,100g
+19-670,"Pork, spare ribs, 'barbecue style', homemade",MR,0,,,,,,0.9,1.2,100g
+19-671,"Pork, spare ribs, 'barbecue style', homemade, weighed with bone",MR,0,,,,,,0.4,0.6,100g
+19-672,"Pork, spare ribs, in black bean sauce, meat and sauce only, homemade",MR,0,,,,,,0.7,0.9,100g
+19-673,"Pork, spare ribs, in black bean sauce, meat and sauce only, homemade, weighed with bone",MR,0,,,,,,0.4,0.5,100g
+50-1173,"Tomato sauce, homemade",WCN,,,,,,,,,100g
+50-494,"Oxtail, meat only, stewed, weighed with fat and bones",MG,,,,,,,,,100g
+50-502,"Tripe, dressed, stewed in milk",MG,,,,,,,,,100g
+50-629,"Trout, brown, steamed",JC,,,,,,,,,100g
+50-630,"Trout, brown, steamed, weighed with bones",JC,,,,,,,,,100g
+50-681,"Potato chips, straight cut, frozen, fried in blended oil",DAP,0,,,,,,0.2,0.2,100g
+50-683,"Potato chips, straight cut, frozen, fried in dripping",DAP,0,,,,,,0.2,0.2,100g
+50-684,"Potato chips, fine cut, frozen, fried in blended vegetable oil",DAP,0,,,,,,0.2,0.2,100g
+50-686,"Potato chips, fine cut, frozen, fried in dripping",DAP,0,,,,,,0.2,0.2,100g

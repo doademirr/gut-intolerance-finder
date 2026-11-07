@@ -1,0 +1,8 @@
+food_id,name,food_group,lactose,sorbitol,mannitol,maltitol,xylitol,erythritol,fructose,glucose,per
+90-001,"Test butter, salted",OB,Tr,,,,,,,,100g
+90-002,Test cream liqueur,QA,N,,,,,,,,100g
+90-003,"Test beer, bitter",QA,0.5,,,,,,,,100ml
+90-004#1,"Test watercress, raw",DG,0,,,,,,,,100g
+90-004#2,"Test aubergine, roasted",DG,0,,,,,,,,100g
+90-005,Test pear nectar,FC,0,,,,,,,,100g
+90-006,"Test vegetable curry, homemade",DR,0,,,,,,,,100g

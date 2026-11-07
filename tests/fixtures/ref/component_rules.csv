@@ -1,0 +1,16 @@
+component,display_name,umbrella,parent,window_start_h,window_end_h,window_basis,dose_threshold,dose_unit,dose_basis,dose_scope,evidence_strength,flag_mode,clinical_test,start_probability,status
+lactose,Lactose,enzymatic,,0.5,8,Estimated,12,g,Measured,window,Moderate,suspect,yes,0.028,Open
+polyols_total,All polyols combined,fodmap,,0.5,8,Estimated,20,g,Measured,window,Moderate,suspect,no,0.023,Agreed
+sorbitol,Sorbitol,fodmap,polyols_total,0.5,8,Estimated,5,g,Measured,window,Moderate,suspect,no,0.023,Agreed
+mannitol,Mannitol,fodmap,polyols_total,0.5,8,Estimated,8,g,Estimated,window,Moderate,suspect,no,0.054,Agreed
+maltitol,Maltitol,fodmap,polyols_total,0.5,8,Estimated,15,g,Measured,window,Weak,soft,no,0.007,Agreed
+isomalt,Isomalt,fodmap,polyols_total,0.5,8,Estimated,20,g,Measured,window,Moderate,suspect,no,0.023,Agreed
+xylitol,Xylitol,fodmap,polyols_total,0.5,8,Estimated,20,g,Measured,window,Moderate,suspect,no,0.023,Agreed
+erythritol,Erythritol,fodmap,polyols_total,0.5,8,Estimated,35,g,Measured,window,Moderate,suspect,no,0.023,Agreed
+excess_fructose,Excess fructose,fodmap,,0.5,4,Estimated,15,g,Estimated,window,Moderate,suspect,partial,0.027,Proposed
+fructans,Fructans,fodmap,,3,24,Estimated,,g,,window,,,no,0.056,Open
+gos,GOS,fodmap,,3,24,Estimated,,g,,window,,,no,0.035,Open
+wheat_gluten,Wheat and gluten,wheat,,1,24,Estimated,,g,,window,,,yes,0.016,Open
+coffee,Coffee,pharmacological,,0,2,Measured,1,cup,Estimated,window,Moderate,suspect,no,0.023,Proposed
+histamine,Histamine,pharmacological,,0,24,Estimated,2,high_histamine_food,Estimated,window,Weak,soft,no,0.007,Open
+non_nutritive_sweeteners,Non-nutritive sweeteners,additive,,,,,,,,window,Very weak,watch,no,0.007,Open

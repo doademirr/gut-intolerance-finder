@@ -1,0 +1,235 @@
+food_id,name,source,note,published,status,weight_change_pct
+D001,"Fish and chips, battered fish, takeaway",UK CoFID 2021,"Published fish and chips rows, both trace, so any split gives 0",,Agreed,
+D002,"Spaghetti carbonara, no cream",R27,"Pasta by uncooked weight, which leans high. Pecorino isn't in the tables, so Parmesan stands in. A version with cream holds more",,Agreed,
+D003,"Butter chicken, with cream and yoghurt",R26,"Cups and spoons turned into grams at Australian sizes, using usual household weights. The recipe's serving yoghurt has no amount, so it's left out",,Agreed,
+D004,Pad thai with chicken,R25,,,Agreed,
+D005,Paella with seafood,R25,"Chicken broth has no published figure; water stands in, as broth has no milk",,Agreed,
+D006,Pho,R25,"Beef broth has no published figure; water stands in, as broth has no milk",,Agreed,
+D007,"Gnocchi, potato",R25,This recipe has milk and butter; many gnocchi have neither,,Agreed,
+D008,Potato bake (scalloped potatoes),R25,USDA has a scalloped potato row with no lactose figure; this fills that gap,,Agreed,
+D009,"Cheese toastie (grilled cheese sandwich), cheddar",R25,,,Agreed,
+D010,"Caesar salad, no dressing",R25,Croutons have no published figure; plain bread stands in,,Agreed,
+D011,Lasagne with beef,R25,,uk:19-481,Proposed,
+D012,Macaroni cheese,R25,,uk:11-954,Proposed,
+D013,Pesto sauce,R25,,uk:15-838,Proposed,
+D014,"Ravioli, cheese-filled",R25,,,Proposed,
+D015,Minestrone soup,R25,,uk:17-810,Proposed,
+D016,Tiramisu,R25,,uk:12-476,Proposed,
+D017,Eggplant parmigiana (aubergine bake with cheese),R25,,,Proposed,
+D018,Shepherd's pie,R25,,uk:19-626,Proposed,
+D019,Trifle,R25,,uk:12-600,Proposed,
+D020,Scone,R25,,uk:11-958,Proposed,
+D021,Jacket potato with cheese,R25,,,Proposed,
+D022,Coleslaw,R25,,uk:15-635,Proposed,
+D023,Potato salad with mayonnaise,R25,,usda:173343,Proposed,
+D024,Sweet and sour pork,R25,,uk:19-485,Proposed,
+D025,Kung pao pork,R25,,,Proposed,
+D026,Beef and broccoli stir fry,R25,,,Proposed,
+D027,"Bao bun, steamed pork bun",R25,,,Proposed,
+D028,"Sushi roll, tuna",R25,,,Proposed,
+D029,Vegetable tempura,R25,,,Proposed,
+D030,Miso soup,R25,,,Proposed,
+D031,Bibimbap,R25,,,Proposed,
+D032,Chicken curry,R25,,uk:19-322,Proposed,
+D033,Lentil curry,R25,,,Proposed,
+D034,Dal,R25,,uk:13-484,Proposed,
+D035,Palak paneer (spinach and cheese curry),R25,,,Proposed,
+D036,"Samosa, potato and pea",R25,,,Proposed,
+D037,Chicken biryani,R25,,uk:19-454,Proposed,
+D038,Taco with meat,R25,,,Proposed,
+D039,"Burrito with beef, beans and cheese",R25,,,Proposed,
+D040,Nachos with beef,R25,,,Proposed,
+D041,Chicken enchilada,R25,,,Proposed,
+D042,Chicken quesadilla,R25,,usda:170765,Proposed,
+D043,Chilli con carne,R25,,uk:19-478,Proposed,
+D044,Guacamole,R25,,uk:17-797,Proposed,
+D045,Chicken fajita,R25,,,Proposed,
+D046,Falafel,R25,,uk:15-795,Proposed,
+D047,Gyros in pita (doner-style kebab),R25,,,Proposed,
+D048,Tabbouleh,R25,,,Proposed,
+D049,"Greek salad, no dressing",R25,,,Proposed,
+D050,Hamburger in a bun,R25,,,Proposed,
+D051,Cheeseburger in a bun,R25,,usda:170690,Proposed,
+D052,"Pancakes, plain",R25,,au:F006298,Proposed,
+D053,"Waffle, plain",R25,,uk:11-1130,Proposed,
+D054,French toast,R25,,,Proposed,
+D055,Scrambled eggs with butter,R25,,uk:12-963,Proposed,
+D056,Eggs Benedict,R25,,,Proposed,
+D057,Club sandwich,R25,,,Proposed,
+D058,BLT sandwich,R25,,uk:11-955,Proposed,
+D059,Beef stroganoff,R25,,uk:19-551,Proposed,
+D060,Meatloaf,R25,,uk:19-605,Proposed,
+D061,Cheese quiche,R25,,uk:12-948,Proposed,
+D062,Quiche Lorraine,R25,,uk:12-952,Proposed,
+D063,Bread stuffing,R25,,uk:11-1000,Proposed,
+D064,Cheesecake,R25,,uk:12-562,Proposed,
+D065,"Chocolate cake, no icing",R25,,uk:11-1046,Proposed,
+D066,Apple pie,R25,,uk:11-1025,Proposed,
+D067,Baked egg custard,R25,,uk:12-573,Proposed,
+D068,Crème brûlée,R25,,,Proposed,
+D069,Chocolate chip cookie,R25,,uk:11-815,Proposed,
+D070,Meringue,R25,,uk:12-517,Proposed,
+D071,Lemon meringue pie,R25,,uk:11-548,Proposed,
+D072,Ratatouille,R25,,uk:15-659,Proposed,
+D073,Gazpacho,R25,,uk:17-795,Proposed,
+D074,Tuna pasta bake,R25,,,Proposed,
+D075,Beef Wellington,R25,,uk:19-552,Proposed,
+D076,Beef goulash,R25,,uk:19-583,Proposed,
+D077,Lentil soup,R25,,uk:17-808,Proposed,
+D078,Vegetable soup,R25,,uk:17-684,Proposed,
+D079,Calamari in batter,R25,,uk:16-404,Proposed,
+D080,Porridge made with water,R25,,uk:11-1107,Proposed,
+D081,Granola,R25,,uk:11-939,Proposed,
+D082,Vegetable stir fry,R25,,,Proposed,
+D083,Chicken and dumplings,R25,,,Proposed,
+D084,Beef chow mein,R25,,uk:19-519,Proposed,
+D085,Chicken chow mein,R25,,uk:19-321,Proposed,
+D086,Spaghetti bolognese,R31,,uk:19-628,Proposed,
+D087,Creamy pasta with bacon or ham,R31,,,Proposed,
+D088,Creamy chicken pasta,R31,,,Proposed,
+D089,Pasta with tomato sauce,R31,,,Proposed,
+D090,Pizza margherita (cheese and tomato),R31,,uk:11-936,Proposed,-12
+D091,Pizza with pepperoni or meat,R31,,,Proposed,-12
+D092,Pizza with ham or bacon,R31,,uk:11-1013,Proposed,-12
+D093,Supreme pizza,R31,,au:F006800,Proposed,-12
+D094,Vegetable pizza,R31,,uk:11-1014,Proposed,-12
+D095,Chicken pizza,R31,,,Proposed,-12
+D096,Seafood pizza,R31,,,Proposed,-12
+D097,Vegetable or mushroom risotto,R31,,uk:15-863,Proposed,-28
+D098,Chicken risotto,R31,,uk:19-566,Proposed,-28
+D099,Seafood risotto,R31,,,Proposed,-28
+D100,Chicken parmigiana (parma),R31,,,Proposed,-6
+D101,Sausage roll,R31,,uk:19-643,Proposed,-10
+D102,Vegetable pasty,R31,,uk:15-646,Proposed,-15
+D103,Yorkshire pudding,R31,,uk:11-960,Proposed,-16
+D104,"Spring roll, vegetable",R31,,,Proposed,-12
+D105,"Dumplings or wontons with meat, steamed",R31,,,Proposed,10
+D106,"Prawn or seafood dumplings, steamed",R31,,,Proposed,10
+D107,"Dumplings with meat, fried (potstickers, gyoza)",R31,,,Proposed,-14
+D108,"Vegetable dumplings, steamed",R31,,,Proposed,10
+D109,Wonton soup,R31,,usda:171821,Proposed,
+D110,Tom yum soup,R31,,,Proposed,-15
+D111,Chicken or beef laksa,R31,,,Proposed,
+D112,Prawn laksa,R31,,,Proposed,
+D113,Moussaka,R31,,uk:19-609,Proposed,-27
+D114,Meat kebab wrap with salad,R31,,,Proposed,
+D115,Chicken kebab wrap with salad,R31,,,Proposed,
+D116,Falafel wrap,R31,,,Proposed,
+D117,Pumpkin soup,R31,,,Proposed,-19
+D118,Tomato soup,R31,,,Proposed,-19
+D119,French onion soup,R31,,uk:17-794,Proposed,-19
+D120,Pea and ham soup,R31,,uk:17-829,Proposed,-19
+D121,Chicken and vegetable soup,R31,,,Proposed,-19
+D122,Potato soup,R31,,,Proposed,-19
+D123,Cream of vegetable soup,R31,,,Proposed,-19
+D124,Chocolate brownie,R31,,uk:11-1127,Proposed,-8
+D125,Panna cotta,R31,,,Proposed,
+D126,Pavlova with cream and fruit,R31,,uk:12-552,Proposed,
+D127,Lamington,R31,,,Proposed,
+D128,Anzac biscuit,R31,,au:F001164,Proposed,-6
+D129,Mashed potato with milk and butter,R31,,usda:168555,Proposed,-2
+D130,Prawn cocktail,R31,,,Proposed,
+D131,Scotch egg,R31,,uk:19-518,Proposed,-5
+D132,Apple crumble,R31,,uk:11-1055,Proposed,-7
+D133,Sticky date pudding (sticky toffee),R31,,,Proposed,-12
+D134,Fruit mince pie,R31,,,Proposed,-12
+D135,Pecan pie,R31,,usda:175021,Proposed,-12
+D136,Pumpkin pie,R31,,usda:172787,Proposed,-12
+D137,Meat pie,R31,,au:F006665,Proposed,-20
+D138,Chicken pie,R31,,,Proposed,-20
+D139,"Seafood pie (fish, prawn and crab)",R31,,,Proposed,-20
+D140,Bread and butter pudding,R31,,uk:11-1037,Proposed,-18
+D141,Rice pudding,R31,,uk:12-608,Proposed,-10
+D142,Chicken curry with coconut milk (Thai green or red style),R31,,,Proposed,-10
+D143,Beef curry with coconut (rendang or massaman style),R31,,,Proposed,-22
+D144,Vegetable curry with coconut,R31,,,Proposed,-10
+D145,Prawn or seafood curry with coconut,R31,,,Proposed,-25
+D146,Chicken curry with cream or yoghurt (korma or tikka masala style),R31,,,Proposed,-10
+D147,Chicken curry in tomato sauce (madras style),R31,,,Proposed,-10
+D148,Lamb curry in tomato sauce (rogan josh or vindaloo style),R31,,,Proposed,-22
+D149,Lamb curry with cream or yoghurt (korma style),R31,,,Proposed,-22
+D150,Beef curry in tomato sauce (madras style),R31,,,Proposed,-22
+D151,Chickpea curry (chana masala),R31,,,Proposed,-12
+D152,Vegetable curry in tomato sauce,R31,,,Proposed,-10
+D153,Fish curry with coconut,R31,,,Proposed,-25
+D154,Curry puff,R31,,,Proposed,-10
+D155,Meat samosa,R31,,uk:19-326,Proposed,
+D156,Roti,R31,,,Proposed,-9
+D157,Fried rice with meat (nasi goreng style),R31,,,Proposed,-28
+D158,Vegetable fried rice,R31,,,Proposed,-28
+D159,Chicken stir fry,R31,,,Proposed,-20
+D160,Prawn stir fry,R31,,,Proposed,-20
+D161,Tofu stir fry,R31,,,Proposed,-20
+D162,Pork stir fry,R31,,,Proposed,-20
+D163,Chicken satay stir fry,R31,,,Proposed,-20
+D164,"Sushi roll, salmon",R31,,,Proposed,
+D165,California roll,R31,,,Proposed,
+D166,"Sushi roll, vegetable",R31,,,Proposed,
+D167,"Rice paper roll, chicken",R31,,,Proposed,
+D168,"Rice paper roll, prawn",R31,,,Proposed,
+D169,Burger with the lot,R31,,,Proposed,
+D170,Ham and cheese sandwich,R31,,,Proposed,
+D171,Tuna and salad sandwich,R31,,,Proposed,
+D172,Chicken and salad sandwich,R31,,uk:11-964,Proposed,
+D173,Egg sandwich,R31,,uk:11-966,Proposed,
+D174,Cheese and salad sandwich,R31,,,Proposed,
+D175,Caprese salad,R31,,,Proposed,
+D176,"Chicken Caesar salad, no dressing",R31,,,Proposed,
+D177,Couscous salad,R31,,,Proposed,
+D178,Hummus,R31,,au:F003539,Proposed,
+D179,Carrot cake,R31,,uk:11-1041,Proposed,-12
+D180,Chocolate mud cake,R31,,au:F002163,Proposed,-2
+D181,Sponge cake with cream and jam,R31,,au:F002177,Proposed,
+D182,Black forest cake,R31,,,Proposed,-12
+D183,Banana muffin,R31,,,Proposed,-19
+D184,Blueberry or fruit muffin,R31,,,Proposed,-16
+D185,Shortbread,R31,,au:F001244,Proposed,-11.5
+D186,Caramel slice,R31,,au:F008278,Proposed,-2
+D187,Custard doughnut,R31,,,Proposed,
+D188,Ham and cheese croissant,R31,,,Proposed,
+D189,Onion rings,R31,,usda:170415,Proposed,-5
+D190,Sausage casserole,R31,,uk:19-484,Proposed,-15
+D191,Beef casserole,R31,,,Proposed,-10
+D192,Chicken casserole,R31,,,Proposed,-10
+D193,Lamb casserole,R31,,,Proposed,-10
+D194,Hot dog in a bread roll,R31,,,Proposed,
+D195,Nachos with cheese and salsa,R31,,,Proposed,
+D196,"Soft taco, beef",R31,,,Proposed,
+D197,"Soft taco, chicken",R31,,,Proposed,
+D198,Burrito bowl,R31,,,Proposed,
+D199,Vegetable frittata,R31,,,Proposed,-26
+D200,"Bao bun, chicken",R31,,,Proposed,
+D201,Peking duck pancakes,R31,,,Proposed,
+D202,Cheese omelette,R31,,uk:12-947,Proposed,-10
+D203,Vegetable omelette,R31,,,Proposed,-10
+D204,Paella without seafood,R31,,,Proposed,-28
+D205,Toad in the hole,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:19-635,Proposed,
+D206,Steak and kidney pie,R34,Cups and whole items converted with AUSNUT 2023 food measures,uk:19-557,Proposed,
+D207,Chilli chicken ramen,R35,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D208,Crumpets,R33,Cups and whole items converted with AUSNUT 2023 food measures,uk:11-989,Proposed,
+D209,Chicken katsu curry,R32,"Curry roux blocks hold milk powders and whey, with no published figure, so lactose stays unknown",,Proposed,
+D210,Naan,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:11-973,Proposed,
+D211,Onion bhaji,R33,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D212,Aloo gobi (potato and cauliflower curry),R36,Half a cauliflower at 294 g is an estimate; no published weight found,,Proposed,
+D213,Banh mi,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D214,Pad see ew,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D215,Shakshuka (baked eggs in tomato sauce),R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D216,Baba ganoush (eggplant dip),R33,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D217,Dim sim or siu mai (pork and prawn dumpling),R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D218,Mushroom soup,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:17-635,Proposed,
+D219,Chicken noodle soup,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D220,Clam chowder,R33,Cups and whole items converted with AUSNUT 2023 food measures,usda:174062,Proposed,
+D221,Banana bread,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:11-1029,Proposed,
+D222,Roast potatoes,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:13-534,Proposed,
+D223,Fish cakes,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:16-458,Proposed,
+D224,Teriyaki chicken,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D225,Barbecue pork ribs,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:19-670,Proposed,
+D226,Chicken souvlaki in pita,R33,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D227,Cornish pasty,R33,Cups and whole items converted with AUSNUT 2023 food measures,uk:19-573,Proposed,
+D228,Spanish omelette (tortilla),R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:12-957,Proposed,
+D229,Mussels in white wine,R32,Cups and whole items converted with AUSNUT 2023 food measures,uk:16-411,Proposed,
+D230,Homemade fish fingers with parmesan crumb,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D231,Bangers and mash with onion gravy,R32,"The recipe gives no amount of mash; one cup a serving is an estimate, and it drives this dish's lactose figure",,Proposed,
+D232,Roast chicken with gravy,R32,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D233,Smashed avocado on toast with egg and spinach,R33,Cups and whole items converted with AUSNUT 2023 food measures,,Proposed,
+D234,Bagel,R33,Cups and whole items converted with AUSNUT 2023 food measures,uk:11-970,Proposed,

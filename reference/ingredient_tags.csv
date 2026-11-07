@@ -1,0 +1,494 @@
+food,name,tags
+au:F000050,"Alcoholic beverage, spirit, ~30% v/v, all (Brandy, Gin, Rum, Vodka and Whisky), cooked",alcohol
+usda:171689,"Apples, raw, without skin",excess_fructose
+usda:171695,"Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)",excess_fructose
+au:F000151,"Asparagus, green, boiled, drained",
+au:F000155,"Asparagus, green, raw",
+uk:13-161,"Aubergine, raw",
+au:F000162,"Avocado, hass, raw",
+usda:171705,"Avocados, raw, all commercial varieties",
+uk:19-500,"Bacon rashers, back, grilled",high_histamine
+uk:19-497,"Bacon rashers, back, raw",high_histamine
+uk:19-016,"Bacon rashers, streaky, raw",high_histamine
+au:F000227,"Bacon, middle rasher, untrimmed, baked, roasted, fried, grilled or BBQ'd, no added fat",high_histamine
+au:F000231,"Bacon, shortcut, as purchased without rind, fried, no added fat",high_histamine
+uk:17-355,Baking powder,
+au:F000262,"Banana, cavendish, peeled, raw",
+usda:172232,"Basil, fresh",
+au:F000396,"Basil, green, fresh, raw",
+au:F000430,"Bean, green, fresh, boiled, drained",
+au:F000428,"Bean, green, fresh, cooked, no added fat",
+usda:175195,"Beans, kidney, red, mature seeds, canned, solids and liquids",gos
+usda:169961,"Beans, snap, green, raw",
+usda:175203,"Beans, white, mature seeds, cooked, boiled, without salt",gos
+usda:174056,"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, choice, raw",
+usda:170208,"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0"" fat, all grades, cooked",
+au:F000560,"Beef, diced, lean, dry-fried, no added fat",
+usda:171799,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",
+usda:169447,"Beef, ground, patties, frozen, cooked, broiled",
+uk:18-469,"Beef, mince, raw",
+uk:18-470,"Beef, mince, stewed",
+usda:171819,"Beef, round, eye of round, roast, separable lean only, trimmed to 1/8"" fat, choice, raw",
+usda:171755,"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted",
+usda:169530,"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, all grades, cooked, braised",
+uk:18-076,"Beef, stewing steak, raw, lean",
+uk:18-080,"Beef, stewing steak, stewed, lean",
+au:F000929,"Beef, stir-fry strips, lean, dry-fried, no added fat",
+usda:169549,"Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8"" fat, prime, cooked, roasted",
+usda:174763,"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, choice, raw",
+au:F000994,"Beer, full strength (alcohol 4-4.9% v/v)",alcohol;barley
+au:F001010,"Beetroot, canned in brine, drained",
+uk:17-356,Bicarbonate of soda,
+au:F001302,"Bok choy, steamed",
+au:F001353,"Bread roll, from white flour",wheat;fructans
+usda:174928,"Bread, crumbs, dry, grated, plain",wheat;fructans
+au:F001463,"Bread, from white flour",wheat;fructans
+uk:11-974,"Bread, pitta, white",wheat;fructans
+au:F001653,"Bread, pizza base, commercial",wheat;fructans
+au:F001669,"Bread, tortilla, white, commercial",wheat;fructans
+uk:11-1145,"Bread, white, average",wheat;fructans
+usda:174924,"Bread, white, commercially prepared (includes soft bread crumbs)",wheat;fructans
+au:F001683,"Breadcrumbs, white",wheat;fructans
+usda:169404,"Broccoli, chinese, raw",
+usda:169967,"Broccoli, cooked, boiled, drained, without salt",
+au:F001900,"Broccoli, fresh, boiled, drained",
+au:F001905,"Broccoli, fresh, raw",
+usda:170379,"Broccoli, raw",
+au:F001908,"Broccolini, fresh, boiled, drained",
+usda:170688,"Bulgur, dry",wheat;fructans
+au:F001971,"Butter, plain, no added salt",milk
+au:F001973,"Butter, plain, salted",milk
+uk:17-661,"Butter, unsalted",milk
+uk:17-001,"Butteroil, unsalted",milk
+au:F001996,"Cabbage, Chinese, raw",
+usda:169975,"Cabbage, raw",
+au:F002014,"Cabbage, white, boiled, drained",
+au:F002015,"Cabbage, white, raw",
+au:F002159,"Cake, lamington, unfilled",milk;egg;wheat;fructans
+uk:11-956,"Cake, sponge, homemade",egg;milk;wheat;fructans
+au:F002178,"Cake, sponge, plain, commercial, uniced, unfilled",milk;egg;wheat;fructans
+usda:174947,"Cake, yellow, enriched, dry mix",wheat;fructans;milk
+usda:168383,"Canadian bacon, cooked, pan-fried",high_histamine
+au:F002247,"Capsicum, red, fresh, raw",
+au:F002258,"Cardamom seed, dried, ground",
+au:F002275,"Carrot, mature, peeled, fresh, boiled, drained",
+au:F002276,"Carrot, mature, peeled, fresh, raw",
+usda:170394,"Carrots, cooked, boiled, drained, without salt",
+usda:170393,"Carrots, raw",
+usda:168556,Catsup,
+au:F002374,"Cauliflower, fresh, baked, no added fat",
+au:F002377,"Cauliflower, fresh, boiled, drained",
+usda:169986,"Cauliflower, raw",
+uk:16-272,"Caviare, bottled in brine, drained",fish
+au:F002390,"Celery, fresh, raw",celery
+usda:169988,"Celery, raw",celery
+usda:173904,"Cereals, oats, regular and quick, not fortified, dry",oats
+usda:171289,"Cheese product, pasteurized process, American, vitamin D fortified",milk
+uk:17-775,"Cheese sauce, made with whole milk, homemade",milk;high_histamine;wheat;fructans
+uk:12-346,"Cheese, Cheddar, English",milk;high_histamine
+uk:12-525,"Cheese, Feta",milk
+uk:12-495,"Cheese, Paneer",milk
+uk:12-526,"Cheese, Parmesan, fresh",milk;high_histamine
+uk:12-176,"Cheese, Ricotta",milk
+usda:173414,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",milk;high_histamine
+au:F002414,"Cheese, cheddar, natural, regular fat",milk;high_histamine
+usda:172179,"Cheese, cottage, creamed, large or small curd",milk
+usda:173418,"Cheese, cream",milk
+au:F002452,"Cheese, fetta (feta)",milk
+au:F002472,"Cheese, mozzarella",milk
+usda:171244,"Cheese, mozzarella, low moisture, part-skim",milk
+au:F002478,"Cheese, parmesan, dried, finely grated",milk;high_histamine
+au:F002479,"Cheese, parmesan, fresh, regular fat",milk;high_histamine
+usda:171247,"Cheese, parmesan, grated",milk;high_histamine
+usda:171251,"Cheese, swiss",milk
+au:F002514,"Cherry, black, canned in syrup, drained",
+uk:18-323,"Chicken, breast, grilled without skin, meat only",
+au:F002592,"Chicken, breast, lean flesh, fried, no added fat",
+au:F002594,"Chicken, breast, lean flesh, raw",
+usda:171077,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+au:F002647,"Chicken, drumstick, lean flesh, raw",
+uk:18-331,"Chicken, meat, average, roasted",
+au:F002806,"Chicken, thigh, lean flesh, raw",
+au:F002849,"Chicken, wing, lean flesh, raw",
+au:F002880,"Chickpea, canned, drained",gos
+usda:173757,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",gos
+usda:173756,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",gos
+au:F002901,"Chilli (chili), red, raw",chilli
+au:F002907,"Chives, raw",
+au:F002921,"Chocolate, dark, high cocoa solids",milk;soy
+uk:17-491,"Chocolate, plain",soy;milk
+au:F002963,"Cinnamon, dried, ground",
+au:F002970,"Cloves, dried, ground",
+au:F002980,Cocoa powder,
+usda:169593,"Cocoa, dry powder, unsweetened",
+au:F002982,"Coconut, cream, regular fat",coconut
+au:F002987,"Coconut, grated & desiccated",coconut
+au:F002991,"Coconut, milk, canned, regular fat",coconut
+uk:16-372,"Cod, flesh only, raw",fish
+uk:16-368,"Cod, in batter, fried, takeaway",fish;wheat;fructans;egg
+uk:17-158,"Coffee, powder, instant",coffee
+usda:174957,"Cookies, graham crackers, plain or honey (includes cinnamon)",wheat;fructans
+usda:174959,"Cookies, ladyfingers, with lemon juice and rind",egg;wheat;fructans
+usda:169997,"Coriander (cilantro) leaves, raw",
+au:F003190,"Coriander seed, dried, ground",
+au:F003192,"Coriander, fresh, raw",
+au:F003198,"Corn chips, plain, salted",
+au:F003209,"Corn, fresh on cob, raw",
+au:F003220,"Corn, kernels, canned in brine, drained",
+usda:168399,"Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt",
+usda:169698,Cornstarch,
+uk:13-627,"Courgette, raw",
+au:F003235,"Couscous, boiled, no added fat or salt",wheat;fructans
+au:F003243,"Crab, flesh, purchased steamed or boiled",crustacean
+usda:170859,"Cream, fluid, heavy whipping",milk
+uk:12-333,"Cream, fresh, whipping",milk
+usda:171257,"Cream, sour, cultured",milk
+au:F003269,"Cream, sour, regular fat",milk
+au:F003270,"Cream, thickened, regular fat (~35%)",milk
+au:F003305,"Croissant, plain",milk;egg;wheat;fructans
+usda:174210,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",crustacean
+au:F003321,"Cucumber, Lebanese, unpeeled, raw",
+au:F003319,"Cucumber, common, peeled, raw",
+usda:168409,"Cucumber, with peel, raw",
+au:F003327,"Cumin (cummin) seed, dried, ground",
+uk:17-720,Curry paste,chilli
+uk:13-876,Curry powder,chilli
+uk:12-573,"Custard, egg",milk;egg
+au:F003496,"Date, dried",
+au:F003573,"Doughnut, dusted with cinnamon & sugar",milk;egg;wheat;fructans
+au:F003574,"Doughnut, iced",milk;egg;wheat;fructans
+au:F003612,"Dressing, thousand island, regular fat, commercial",egg
+au:F003627,"Dripping, beef",
+au:F003633,"Duck, lean flesh, skin & fat, baked, no added fat",
+au:F003706,"Egg, chicken, white (albumen), raw",egg
+au:F003718,"Egg, chicken, whole, fried, no fat added",egg
+au:F003721,"Egg, chicken, whole, hard-boiled",egg
+au:F003729,"Egg, chicken, whole, raw",egg
+usda:172183,"Egg, white, raw, fresh",egg
+usda:172188,"Egg, whole, dried",egg
+usda:171287,"Egg, whole, raw, fresh",egg
+usda:172184,"Egg, yolk, raw, fresh",egg
+usda:169228,"Eggplant, raw",
+au:F003761,"Eggplant, unpeeled, fresh, raw",
+au:F003753,"Eggplant, unpeeled, fresh, roasted, no added fat",
+uk:12-940,"Eggs, chicken, whole, boiled",egg
+uk:12-937,"Eggs, chicken, whole, raw",egg
+uk:12-939,"Eggs, chicken, yolk, raw",egg
+uk:15-795,"Falafel, fried in rapeseed oil, homemade",gos;fructans
+usda:174183,"Fish, anchovy, european, canned in oil, drained solids",fish;high_histamine
+usda:174190,"Fish, cod, Atlantic, dried and salted",fish
+usda:175159,"Fish, tuna, fresh, yellowfin, raw",fish
+usda:173709,"Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",fish;high_histamine
+au:F003986,"Flour, chickpea (besan)",gos
+au:F003989,"Flour, cornflour, from maize & wheat starch",wheat
+au:F003988,"Flour, cornflour, from maize starch",
+au:F010328,"Flour, hemp",
+au:F003998,"Flour, rice",
+au:F004007,"Flour, wheat, white, plain",wheat;fructans
+au:F004009,"Flour, wheat, white, self-raising",wheat;fructans
+au:F004014,"Flour, wheat, wholemeal, plain",wheat;fructans
+uk:19-495,Frankfurter,milk;high_histamine;wheat
+usda:174667,"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids",excess_fructose
+au:F004192,"Garlic, peeled, fresh, fried, no added fat",fructans
+au:F004193,"Garlic, peeled, fresh, raw",fructans
+usda:169230,"Garlic, raw",fructans
+au:F004196,"Gelatine, all types",
+uk:17-640,"Ghee, butter",milk
+usda:169231,"Ginger root, raw",
+au:F004210,"Ginger, dried, ground",
+au:F004212,"Ginger, peeled, fresh, fried, no added fat",
+au:F004213,"Ginger, peeled, fresh, raw",
+usda:171566,"Gravy, chicken, canned or bottled, ready-to-serve",wheat;milk
+au:F004265,"Gravy, prepared from dry powder with water",wheat
+uk:19-496,Ham,high_histamine
+au:F004299,"Ham, leg, lean",high_histamine
+uk:17-800,"Hollandaise sauce, homemade",egg;milk
+au:F004380,Honey,excess_fructose
+au:F004600,"Jam, berry",
+au:F004726,"Juice, lemon",
+au:F004729,"Juice, lime",
+uk:18-402,"Kidney, lamb, raw",
+au:F004816,"Kiwifruit, green (hayward), peeled, raw",
+au:F004929,"Lamb, diced, lean, stir-fried, no added fat",
+au:F005049,"Lamb, mince, raw",
+uk:18-159,"Lamb, mince, stewed",
+au:F005050,"Lamb, mince, stir-fried, no added fat",
+uk:17-010,Lard,
+au:F005164,"Leek, fresh, raw",fructans
+usda:167748,"Lemon juice from concentrate, canned or bottled",sulphites
+usda:167747,"Lemon juice, raw",
+usda:172421,"Lentils, mature seeds, cooked, boiled, without salt",gos
+uk:13-520,"Lettuce, average, raw",
+usda:169247,"Lettuce, cos or romaine, raw",
+au:F005191,"Lettuce, cos, raw",
+au:F005192,"Lettuce, iceberg, raw",
+usda:168156,"Lime juice, raw",
+au:F005299,"Mango, peeled, raw",excess_fructose
+au:F005370,"Margarine spread, polyunsaturated (~70% fat)",
+au:F005441,"Mayonnaise, traditional (>65% fat), commercial",egg
+au:F005484,"Meatball or rissole, beef, commercial, cooked",egg;wheat;fructans
+au:F005582,"Milk, cow, canned, sweetened, condensed, regular",milk
+au:F005634,"Milk, cow, fluid, regular fat (~3.5%)",milk
+usda:173432,"Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)",milk
+uk:12-521,"Milk, skimmed, dried, fortified",milk
+usda:171265,"Milk, whole, 3.25% milkfat, with added vitamin D",milk
+uk:12-596,"Milk, whole, pasteurised, average",milk
+uk:13-836,"Mint, fresh",
+au:F005701,Mirin,alcohol
+usda:172442,Miso,soy;high_histamine
+au:F005712,Mixed dried fruit,sulphites
+au:F009788,"Mixed leafy greens, pre-packaged, all types",
+usda:174214,"Mollusks, clam, mixed species, raw",mollusc
+usda:174223,"Mollusks, squid, mixed species, raw",mollusc
+usda:174994,"Muffins, English, plain, enriched, with ca prop (includes sourdough)",wheat;fructans
+usda:169137,"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",
+usda:169957,"Mung beans, mature seeds, sprouted, raw",
+au:F005945,"Mushroom, common, fresh, fried, no added fat",
+au:F005946,"Mushroom, common, fresh, raw",
+usda:169254,"Mushrooms, canned, drained solids",
+uk:13-505,"Mushrooms, white, raw",
+au:F005968,"Mussel, blue, steamed",mollusc
+uk:13-839,Mustard seeds,mustard
+au:F005973,"Mustard, cream style",mustard
+usda:172234,"Mustard, prepared, yellow",mustard
+au:F006038,"Noodle, rice stick, boiled, drained",
+au:F006048,"Noodle, wheat, fresh, soaked, drained",wheat;fructans
+usda:168905,"Noodles, chinese, chow mein",wheat;fructans
+usda:169731,"Noodles, egg, dry, enriched",egg;wheat;fructans
+usda:169732,"Noodles, egg, enriched, cooked",egg;wheat;fructans
+usda:168907,"Noodles, japanese, soba, cooked",wheat;fructans
+au:F006081,"Nut, almond, with skin, raw, unsalted",almond
+au:F006110,"Nut, peanut, without skin, roasted, with oil, unsalted",peanut
+au:F006111,"Nut, pecan, raw, unsalted",pecan
+au:F006116,"Nut, walnut, raw, unsalted",walnut
+au:F006118,"Nutmeg, dried, ground",
+usda:170158,"Nuts, almonds, dry roasted, without salt added",almond
+usda:170591,"Nuts, pine nuts, dried",pine_nut
+usda:170187,"Nuts, walnuts, english",walnut
+au:F006143,"Oats, rolled, uncooked",oats
+usda:172336,"Oil, canola",
+au:F006165,"Oil, copha",coconut
+au:F006177,"Oil, olive",
+uk:17-043,"Oil, sesame",sesame
+au:F006187,"Oil, sesame",sesame
+au:F006191,"Oil, vegetable",
+uk:17-686,"Oil, vegetable, average",
+au:F006198,"Olive, green or black, drained",
+usda:169095,"Olives, ripe, canned (jumbo-super colossal)",
+au:F006225,"Onion, mature, brown skinned, peeled, raw",fructans
+au:F009800,"Onion, mature, red skinned, raw",fructans
+au:F006249,"Onion, spring, fresh, fried, no added fat",fructans
+au:F006250,"Onion, spring, fresh, raw",fructans
+uk:13-500,"Onions, boiled in unsalted water",fructans
+usda:170001,"Onions, cooked, boiled, drained, without salt",fructans
+usda:170000,"Onions, raw",fructans
+usda:170005,"Onions, spring or scallions (includes tops and bulb), raw",fructans
+au:F006281,"Oregano, dried",
+au:F006298,"Pancake, plain, homemade",milk;egg;wheat;fructans
+usda:175007,"Pancakes, plain, dry mix, incomplete (includes buttermilk)",wheat;fructans;milk
+au:F006316,"Paprika, dry powder",
+au:F006321,"Parsley, continental, fresh, raw",
+usda:170416,"Parsley, fresh",
+au:F006327,"Parsnip, peeled, fresh, boiled, drained",
+au:F006328,"Parsnip, peeled, fresh, raw",
+au:F006332,"Passionfruit, pulp, canned",
+usda:169737,"Pasta, cooked, enriched, without added salt",wheat;fructans
+au:F006429,"Pasta, gluten free, boiled from dry, no added salt",
+au:F009835,"Pasta, legume based, boiled, no added salt",
+au:F006444,"Pasta, white wheat flour & egg, boiled from dry, no added salt",egg;wheat;fructans
+au:F006451,"Pasta, white wheat flour & spinach, boiled from dry, no added salt",wheat;fructans
+au:F006456,"Pasta, white wheat flour, boiled from dry, no added salt",wheat;fructans
+au:F006459,"Pasta, white wheat flour, fresh, boiled, no added salt",wheat;fructans
+uk:11-722,"Pasta, white, spaghetti, dried, boiled in unsalted water",wheat;fructans
+au:F006464,"Pasta, wholemeal wheat flour, boiled from dry, no added salt",wheat;fructans
+au:F006471,"Paste, Indian style curry, commercial",chilli
+au:F006503,"Pastry, puff, vegetable oil, commercial, raw",wheat;fructans
+au:F006505,"Pastry, puff, with butter, commercial, raw",milk;wheat;fructans
+uk:11-853,"Pastry, shortcrust, retail, cooked",wheat;fructans
+uk:19-317,"Pate, liver",
+au:F006536,"Pea, green, fresh, raw",
+au:F006538,"Pea, green, frozen, boiled, drained",
+au:F006543,"Pea, split, dried",
+uk:14-892,"Peanut butter, smooth",peanut
+usda:173806,"Peanuts, all types, dry-roasted, without salt",peanut
+usda:169118,"Pears, raw",excess_fructose
+usda:170017,"Peas, green, frozen, cooked, boiled, drained, without salt",
+usda:170419,"Peas, green, raw",
+au:F006618,"Pepper, black, ground",
+usda:170106,"Peppers, hot chili, red, raw",chilli
+usda:168576,"Peppers, jalapeno, raw",chilli
+usda:170428,"Peppers, sweet, green, cooked, boiled, drained, without salt",
+usda:170427,"Peppers, sweet, green, raw",
+usda:170108,"Peppers, sweet, red, raw",
+usda:168561,"Pickle relish, sweet",
+usda:168558,"Pickles, cucumber, dill or kosher dill",
+usda:168187,"Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",
+au:F006708,"Pineapple, canned in juice, drained",
+usda:169124,"Pineapple, raw, all varieties",
+au:F006842,"Pomegranate, peeled, raw",
+au:F006881,"Pork, diced, untrimmed, fried, no added fat",
+usda:168233,"Pork, fresh, loin, whole, separable lean only, cooked, roasted",
+au:F007043,"Pork, medallion or loin steak, untrimmed, raw",
+au:F007057,"Pork, mince, untrimmed, raw",
+au:F007117,"Pork, spare ribs, untrimmed, raw",
+uk:13-485,"Potato chips, fried in commercial oil, from takeaway fish and chip shops",
+usda:168446,Potato flour,
+au:F007320,"Potato, pale skin, peeled, boiled, drained",
+au:F007325,"Potato, pale skin, peeled, raw",
+au:F007366,"Potato, red skin, peeled, boiled, drained",
+usda:170093,"Potatoes, baked, flesh and skin, without salt",
+usda:170033,"Potatoes, baked, flesh, without salt",
+usda:170440,"Potatoes, boiled, cooked without skin, flesh, without salt",
+usda:170026,"Potatoes, flesh and skin, raw",
+usda:168555,"Potatoes, mashed, home-prepared, whole milk and butter added",milk
+usda:169768,"Potatoes, mashed, ready-to-eat",milk
+au:F007454,"Prawn, Western king, wild, flesh, raw",crustacean
+au:F007432,"Prawn, flesh, cooked from raw, no added fat",crustacean
+au:F007433,"Prawn, flesh, raw (green)",crustacean
+au:F007554,"Pumpkin, peeled, fresh, boiled, drained",
+au:F007555,"Pumpkin, peeled, fresh, raw",
+usda:169276,"Radishes, raw",
+usda:168165,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+usda:174298,"Refried beans, canned, traditional, reduced sodium",gos
+usda:168084,"Restaurant, Chinese, vegetable chow mein, without meat or noodles",soy;wheat;celery;fructans
+au:F007630,"Rhubarb, stewed, sugar sweetened, no added fat",
+usda:168914,"Rice noodles, cooked",
+au:F007639,"Rice paper wrapper, soaked in water",
+au:F007661,"Rice, white, boiled or rice cooker, no added salt",
+usda:169711,"Rice, white, glutinous, unenriched, cooked",
+usda:168878,"Rice, white, long-grain, regular, enriched, cooked",
+usda:168877,"Rice, white, long-grain, regular, raw, enriched",
+au:F007682,"Rice, white, uncooked",
+usda:172796,"Rolls, hamburger or hotdog, plain",wheat;fructans
+au:F007715,"Rosemary, dried",
+au:F007726,"Sage, dried",
+usda:169056,"Salad dressing, coleslaw",egg
+usda:171009,"Salad dressing, mayonnaise, regular",egg
+au:F007818,"Salami, all varieties, raw",high_histamine
+usda:174582,"Salami, dry or hard, pork, beef",high_histamine
+au:F007864,"Salmon, smoked, sliced",fish;high_histamine
+uk:16-360,"Salmon, wild, flesh only, raw",fish
+uk:17-367,Salt,
+usda:173468,"Salt, table",
+au:F007878,"Salt, table, iodised",
+au:F007879,"Salt, table, non-iodised",
+uk:15-305,"Samosas, vegetable, retail",wheat;fructans
+au:F008094,"Sauce, Worcestershire, commercial",fish;barley;fructans;high_histamine
+au:F007987,"Sauce, barbecue, commercial",
+uk:15-881,"Sauce, curry, tomato and onion, homemade",fructans
+usda:174074,"Sauce, enchilada, red, mild, ready to serve",chilli
+au:F008004,"Sauce, fish, commercial",fish;high_histamine
+au:F008008,"Sauce, hoi sin (hoisin), commercial",soy;wheat;sesame;fructans
+usda:172886,"Sauce, hoisin, ready-to-serve",soy;wheat;sesame;fructans
+au:F008026,"Sauce, oyster, commercial",mollusc;soy;wheat
+au:F008031,"Sauce, pasta, bolognese, homemade using beef mince & commercial tomato based sauce",fructans
+au:F008032,"Sauce, pasta, bolognese, homemade using beef mince & homemade tomato based sauce",fructans
+au:F008036,"Sauce, pasta, cheese or cream-based, commercial",milk
+au:F008050,"Sauce, pasta, tomato-based, commercial, heated",fructans
+au:F008054,"Sauce, plum, commercial",
+au:F008056,"Sauce, salsa, tomato-based, commercial",fructans
+au:F008063,"Sauce, simmer, curry flavoured, commercial",chilli
+au:F008065,"Sauce, soy, commercial",soy;wheat;high_histamine
+au:F008083,"Sauce, tomato, commercial",
+au:F008090,"Sauce, white, savoury, homemade",milk;wheat;fructans
+au:F008106,"Sausage, beef, fried, no added fat",wheat;sulphites
+au:F008125,"Sausage, chorizo, fried, no added fat",wheat;sulphites;high_histamine
+au:F008136,"Sausage, lamb, flavoured, fried, no added fat",wheat;sulphites
+au:F008143,"Sausage, pork, fried, no added fat",wheat;sulphites
+au:F008165,"Scallop, fried, no added fat",mollusc
+au:F008166,"Scallop, raw",mollusc
+uk:16-415,Seafood sticks,fish;egg;wheat;fructans
+usda:168457,"Seaweed, kelp, raw",
+usda:168458,"Seaweed, laver, raw",
+au:F008204,"Seaweed, nori, dried",
+uk:14-844,Sesame seeds,sesame
+au:F008227,"Shallot, peeled, fresh, raw",fructans
+au:F008266,"Silverbeet, fresh, boiled, drained",
+usda:167558,"Snacks, tortilla chips, plain, white corn, salted",
+au:F008371,"Snow pea, fresh, boiled, drained",
+usda:171155,"Soup, cream of mushroom, canned, condensed",wheat;fructans;milk
+usda:174277,Soy sauce made from soy and wheat (shoyu),soy;wheat;high_histamine
+usda:171315,"Spices, allspice, ground",
+usda:170919,"Spices, cardamom",
+usda:171319,"Spices, chili powder",chilli
+usda:171320,"Spices, cinnamon, ground",
+usda:171321,"Spices, cloves, ground",
+usda:170921,"Spices, coriander leaf, dried",
+usda:170922,"Spices, coriander seed",
+usda:170923,"Spices, cumin seed",
+usda:171326,"Spices, nutmeg, ground",
+usda:171329,"Spices, paprika",
+usda:170931,"Spices, pepper, black",
+usda:170932,"Spices, pepper, red or cayenne",chilli
+usda:170938,"Spices, thyme, dried",
+usda:172231,"Spices, turmeric, ground",
+au:F008760,"Spinach, Mature English, fresh, boiled, drained",
+au:F008749,"Spinach, baby, fresh, raw",
+uk:13-573,"Spinach, mature, boiled in unsalted water",
+usda:168462,"Spinach, raw",
+au:F008806,"Sprout, bean, fresh, raw",
+usda:169291,"Squash, summer, zucchini, includes skin, raw",
+au:F008828,"Squid or calamari, raw",mollusc
+uk:17-515,"Stock cubes, beef",celery
+uk:17-681,"Stock, chicken, ready made, retail",celery
+au:F008933,"Stock, dry powder or cube",celery
+au:F008936,"Stock, liquid, all flavours (except fish), prepared from commercial powder or cube",celery
+au:F008952,"Strawberry, raw",
+uk:17-371,"Stuffing mix, dried",wheat;fructans;celery
+au:F008969,"Sugar, brown",
+uk:17-063,"Sugar, white",
+au:F008976,"Sugar, white, granulated or lump",
+au:F008981,"Sugar, white, icing mixture",
+usda:168833,"Sugars, brown",
+usda:169655,"Sugars, granulated",
+usda:169656,"Sugars, powdered",
+au:F008983,Sultana,
+au:F009021,"Swede, peeled, fresh, raw",
+au:F009034,"Sweet potato, orange flesh, peeled, fresh, boiled, drained",
+usda:168482,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+au:F009049,"Syrup, golden",
+au:F009072,"Taco seasoning mix, chilli-based",milk;chilli
+au:F009076,"Tahini, sesame seed pulp",sesame
+au:F009081,"Tamarind, paste, pure",
+au:F009160,"Thyme, dried, ground",
+au:F009176,"Tofu (soy bean curd), firm, as purchased",soy
+uk:13-571,"Tofu, soya bean, steamed, fried",soy
+usda:167708,"Tomato and vegetable juice, low sodium",
+usda:170458,"Tomato juice, canned, with salt added",
+usda:170459,"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+usda:170460,"Tomato products, canned, puree, without salt added",
+usda:170054,"Tomato products, canned, sauce",
+uk:13-531,Tomato puree,
+au:F009193,"Tomato, common, raw",
+au:F009206,"Tomato, paste, no added salt",
+au:F009208,"Tomato, paste, with added salt",
+au:F009217,"Tomato, sundried",
+au:F010071,"Tomato, whole, canned in tomato juice, no added salt, undrained",
+au:F009222,"Tomato, whole, canned in tomato juice, undrained",
+usda:170051,"Tomatoes, red, ripe, canned, packed in tomato juice",
+usda:170457,"Tomatoes, red, ripe, raw, year round average",
+uk:13-517,"Tomatoes, standard, raw",
+usda:169829,"Tortilla, blue corn, Sakwavikaviki (Hopi)",
+uk:11-925,"Tortilla, wheat, soft",wheat;fructans
+usda:175037,"Tortillas, ready-to-bake or -fry, flour, refrigerated",wheat;fructans
+usda:172941,"Turkey breast, sliced, prepackaged",
+au:F009340,"Turnip, white, peeled, fresh, raw",
+uk:12-547,Tzatziki,milk
+own:P011,Vanilla extract,
+uk:13-543,"Vegetables, mixed, frozen, boiled in unsalted water",
+uk:17-339,Vinegar,
+usda:173469,"Vinegar, cider",
+usda:172237,"Vinegar, distilled",
+au:F009514,"Water chestnut, peeled, canned, drained",
+uk:13-394,"Water chestnuts, raw",
+au:F009527,"Water, tap",
+usda:168894,"Wheat flour, white, all-purpose, enriched, bleached",wheat;fructans
+uk:17-779,"White sauce, savoury, made with whole milk, homemade",milk;wheat;fructans
+au:F009580,"Wine, white, cooked",alcohol;sulphites;high_histamine
+au:F009606,"Yeast, dry powder",
+au:F009694,"Yoghurt, natural, regular fat (~3%)",milk
+uk:12-379,"Yogurt, low fat, plain",milk
+uk:12-184,"Yogurt, whole milk, plain",milk
+au:F009773,"Zucchini, green skin, fresh, unpeeled, boiled, drained",
+au:F009774,"Zucchini, green skin, fresh, unpeeled, fried, no added fat",
+au:F009775,"Zucchini, green skin, fresh, unpeeled, raw",

@@ -1,0 +1,25 @@
+alias,food
+pear,test pear
+mushroom,test mushroom
+mushrooms,test mushroom
+rice,plain rice
+apple,test apple
+chicken,plain rice
+eggs,plain rice
+oats,plain rice
+carrots,plain rice
+fixture whole milk,usda:900001
+fixture condensed milk,usda:900098
+fixture whey powder,usda:900099
+fixture prune juice,au:T000001
+fixture mushroom,au:T000002
+fixture sweet whey,usda:900097
+test chicken,usda:900010
+test sausage,usda:900011
+test potatoes,usda:900012
+test broccoli,usda:900013
+test cocoa,usda:900014
+test almonds,usda:900016
+salt,usda:900017
+test milk bake,own:D900
+test creatine,own:P900

@@ -1,0 +1,42 @@
+# Secrets — NEVER commit
+.env
+.env.*
+!.env.example
+*.key
+
+# Real personal health data — NEVER commit (synthetic data only in the repo)
+data/private/
+*.duckdb
+*.duckdb.wal
+.tmp/
+*.tmp
+data/**/*.md
+report*.md
+
+# Internal docs (personal paths, real-log measurements) — local only
+PLAN.md
+DECISIONS.md
+EDGE-CASES.md
+METHOD-internal.md
+FUTURE.md
+SCIENCE-internal.md
+REFERENCES-internal.md
+private_tools/
+AGENTS.md
+CLAUDE.md
+PROGRESS.md
+LEARNINGS.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Retired files (kept locally, not committed)
+_trash/
+
+# OS / editor
+.DS_Store
+*.log
+HANDOFF.md

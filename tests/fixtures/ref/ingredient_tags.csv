@@ -1,0 +1,5 @@
+food,name,tags
+usda:900001,"Test milk, whole",milk
+usda:900010,"Test chicken, breast, raw",
+usda:900003,"Test apples, raw, with skin",excess_fructose
+usda:900002,"Test bread, white",wheat

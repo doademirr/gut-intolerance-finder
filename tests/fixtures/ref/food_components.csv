@@ -1,0 +1,25 @@
+food,component,amount_per_100g,unit,level,basis,source,status
+test pear,sorbitol,2.0,g,,Estimated,test fixture,Proposed
+test pear,mannitol,0.0,g,,Estimated,test fixture,Proposed
+test pear,maltitol,0.0,g,,Estimated,test fixture,Proposed
+test pear,isomalt,0.0,g,,Estimated,test fixture,Proposed
+test pear,xylitol,0.0,g,,Estimated,test fixture,Proposed
+test pear,erythritol,0.0,g,,Estimated,test fixture,Proposed
+test mushroom,sorbitol,0.0,g,,Estimated,test fixture,Proposed
+test mushroom,mannitol,3.0,g,,Estimated,test fixture,Proposed
+test mushroom,maltitol,0.0,g,,Estimated,test fixture,Proposed
+test mushroom,isomalt,0.0,g,,Estimated,test fixture,Proposed
+test mushroom,xylitol,0.0,g,,Estimated,test fixture,Proposed
+test mushroom,erythritol,0.0,g,,Estimated,test fixture,Proposed
+test apple,sorbitol,1.0,g,,Estimated,test fixture,Proposed
+test apple,mannitol,0.0,g,,Estimated,test fixture,Proposed
+test apple,maltitol,0.0,g,,Estimated,test fixture,Proposed
+test apple,isomalt,0.0,g,,Estimated,test fixture,Proposed
+test apple,xylitol,0.0,g,,Estimated,test fixture,Proposed
+test apple,erythritol,0.0,g,,Estimated,test fixture,Proposed
+plain rice,sorbitol,0.0,g,,Estimated,test fixture,Proposed
+plain rice,mannitol,0.0,g,,Estimated,test fixture,Proposed
+plain rice,maltitol,0.0,g,,Estimated,test fixture,Proposed
+plain rice,isomalt,0.0,g,,Estimated,test fixture,Proposed
+plain rice,xylitol,0.0,g,,Estimated,test fixture,Proposed
+plain rice,erythritol,0.0,g,,Estimated,test fixture,Proposed

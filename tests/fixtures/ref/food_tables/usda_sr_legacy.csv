@@ -1,0 +1,17 @@
+food_id,name,food_group,lactose,sorbitol,mannitol,maltitol,xylitol,erythritol,fructose,glucose,per
+900001,"Test milk, whole",Dairy and Egg Products,4.8,,,,,,,,100g
+900002,"Test bread, white",Baked Products,,,,,,,,,100g
+900003,"Test apples, raw, with skin",Fruits and Fruit Juices,0,,,,,,,,100g
+900004,"Test peaches, canned, light syrup",Fruits and Fruit Juices,0,,,,,,,,100g
+900005,"Test candies, sugar-free hard candy",Sweets,0,,,,,,,,100g
+900098,"Test milk, canned, condensed, sweetened",Dairy and Egg Products,10,,,,,,,,100g
+900099,"Test whey powder, vanilla",Dairy and Egg Products,1.3,,,,,,,,100g
+900097,"Test whey, sweet, dried",Dairy and Egg Products,70,,,,,,,,100g
+900010,"Test chicken, breast, raw",Poultry Products,,,,,,,,,100g
+900011,"Test sausage, pork, raw",Pork Products,,,,,,,,,100g
+900012,"Test potatoes, mashed, home-prepared",Vegetables and Vegetable Products,,,,,,,,,100g
+900013,"Test broccoli, raw",Vegetables and Vegetable Products,0.2,,,,,,,,100g
+900014,"Test cocoa, dry powder, unsweetened",Sweets,,,,,,,,,100g
+900015,"Test toffee, hard",Sweets,,,,,,,,,100g
+900016,"Test almonds, honey roasted",Nut and Seed Products,,,,,,,,,100g
+900017,"Salt, table",Spices and Herbs,,,,,,,,,100g

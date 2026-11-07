@@ -1,0 +1,5 @@
+tag,kind,source
+milk,allergen,R28
+wheat,allergen,R28
+egg,allergen,R28
+excess_fructose,trigger,SCIENCE 3.9

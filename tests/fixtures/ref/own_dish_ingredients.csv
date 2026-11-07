@@ -1,0 +1,6 @@
+dish_id,ingredient,grams,food,also_contains
+D900,Milk,50,usda:900001,
+D900,Chicken,25,usda:900010,
+D900,Apple,25,usda:900003,
+D902,Coated chicken,90,usda:900010,wheat;egg
+D902,Milk,10,usda:900001,
